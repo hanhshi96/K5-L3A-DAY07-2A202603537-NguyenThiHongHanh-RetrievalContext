@@ -1,0 +1,22 @@
+{
+  "config": "bm25",
+  "split": "dev",
+  "method": "bm25",
+  "top_k": 3,
+  "filter": "none",
+  "neighbors": 0,
+  "budget_chars": 4000,
+  "note": "Lexical BM25 (k1=1.5, b=0.75), tách theo âm tiết",
+  "N": 20,
+  "hit1": 13,
+  "hit3": 16,
+  "mrr3": 0.7,
+  "context_evidence": 16,
+  "avg_context_chars": 2855,
+  "median_latency_ms": 0.3,
+  "errors": 0,
+  "embed_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "cost_usd": 0.0
+}

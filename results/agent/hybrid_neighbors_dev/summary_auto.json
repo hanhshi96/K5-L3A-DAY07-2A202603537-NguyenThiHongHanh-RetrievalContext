@@ -1,0 +1,32 @@
+{
+  "config": "hybrid_neighbors",
+  "split": "dev",
+  "agent_version": "v2",
+  "model": "gpt-4o-mini",
+  "method": "hybrid",
+  "top_k": 3,
+  "filter": "none",
+  "neighbors": 1,
+  "budget_chars": 7000,
+  "note": "Cải thiện 1: hybrid + thêm chunk lân cận ±1 vào context (evidence bị cắt ở ranh giới)",
+  "max_searches": 3,
+  "cases": 22,
+  "errors": 0,
+  "tool_use": "22/22",
+  "searches_distribution": {
+    "1": 21,
+    "3": 1
+  },
+  "status_counts": {
+    "answered": 20,
+    "abstain": 2
+  },
+  "context_evidence": "20/20",
+  "median_latency_ms": 2397.5,
+  "cost_usd": 0.010332,
+  "tokens": {
+    "embed_tokens": 852,
+    "prompt_tokens": 58707,
+    "completion_tokens": 2514
+  }
+}

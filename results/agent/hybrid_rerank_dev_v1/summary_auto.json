@@ -1,0 +1,31 @@
+{
+  "config": "hybrid_rerank",
+  "split": "dev",
+  "model": "gpt-4o-mini",
+  "method": "rerank",
+  "top_k": 3,
+  "filter": "none",
+  "neighbors": 0,
+  "budget_chars": 4000,
+  "note": "Cải thiện 2: hybrid top-10 → LLM rerank → top-3 (tăng Hit@1)",
+  "max_searches": 3,
+  "cases": 22,
+  "errors": 0,
+  "tool_use": "22/22",
+  "searches_distribution": {
+    "1": 21,
+    "3": 1
+  },
+  "status_counts": {
+    "abstain": 15,
+    "answered": 7
+  },
+  "context_evidence": "15/20",
+  "median_latency_ms": 7992.5,
+  "cost_usd": 0.021507,
+  "tokens": {
+    "embed_tokens": 514,
+    "prompt_tokens": 109938,
+    "completion_tokens": 8340
+  }
+}

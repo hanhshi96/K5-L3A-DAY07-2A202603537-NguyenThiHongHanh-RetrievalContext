@@ -124,11 +124,11 @@ def _post(url, payload):
                 time.sleep(2 * (attempt + 1))
                 continue
             raise RuntimeError(f'OpenAI HTTP {e.code}: {body}') from None
-        except urllib.error.URLError as e:
+        except (urllib.error.URLError, TimeoutError, OSError) as e:  # gồm cả read timeout
             if attempt < 2:
-                time.sleep(2)
+                time.sleep(3 * (attempt + 1))
                 continue
-            raise RuntimeError(f'Lỗi mạng OpenAI: {e}') from None
+            raise RuntimeError(f'Lỗi mạng OpenAI sau 3 lần thử: {type(e).__name__}: {e}') from None
 
 
 def embed_query(text, usage):

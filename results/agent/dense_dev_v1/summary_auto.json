@@ -1,0 +1,33 @@
+{
+  "config": "dense",
+  "split": "dev",
+  "model": "gpt-4o-mini",
+  "method": "dense",
+  "top_k": 3,
+  "filter": "none",
+  "neighbors": 0,
+  "budget_chars": 4000,
+  "note": "Baseline: dense pgvector Day 6 (strategy A), query gốc",
+  "max_searches": 3,
+  "cases": 22,
+  "errors": 1,
+  "tool_use": "21/21",
+  "searches_distribution": {
+    "1": 18,
+    "2": 1,
+    "3": 2
+  },
+  "status_counts": {
+    "error": 1,
+    "abstain": 14,
+    "answered": 7
+  },
+  "context_evidence": "12/19",
+  "median_latency_ms": 3749,
+  "cost_usd": 0.008413,
+  "tokens": {
+    "embed_tokens": 570,
+    "prompt_tokens": 43202,
+    "completion_tokens": 3200
+  }
+}

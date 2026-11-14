@@ -1,0 +1,1122 @@
+[
+  {
+    "query_id": "Q01",
+    "split": "dev",
+    "question": "Trong tài liệu tiếng Việt Nghị định 13/2023, dữ liệu cá nhân gồm hai nhóm nào?",
+    "config": "bm25",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 2,
+        "evidence": "Dữ liệu cá nhân bao g ồm dữ liệu\ncá nhân cơ bản và dữ liệu cá nhân nhạy cảm."
+      }
+    ],
+    "top3": [
+      {
+        "id": "nd13_2023-p0012-fixed-fccd440e2dabe0d5",
+        "rank": 1,
+        "score": 15.6559,
+        "source_id": "nd13_2023",
+        "page": 12,
+        "hit": false,
+        "text": "êu cầu cung cấp dữ liệu cá nhân.\nTrường hợp tổ chức, cá nhân yêu c ầu cung c ấp thông tin không bi ết chữ hoặc\nbị khuyết tật không thể viết yêu cầu thì người tiếp nhận yêu cầu cung cấp thông tin\ncó trách nhiệm giúp điền các nội dung vào Phiếu yêu cầu cung cấp dữ liệu cá nhân;\nb) Gửi Phiếu yêu cầu cung cấp dữ liệu cá nhân theo M ẫu số 01, 02 t ại Phụ lục\ncủa Nghị định này qua mạng điện tử, dịch vụ bưu chính, fax đến Bên Kiểm soát dữ\nliệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân.\n6. Phiếu yêu c ầu cung c ấp dữ liệu cá nhân ph ải được thể hiện bằng tiếng Việt\ngồm các nội dung chính sau đây:"
+      },
+      {
+        "id": "nd13_2023-p0001-fixed-4057685bc67fcc34",
+        "rank": 2,
+        "score": 14.04802,
+        "source_id": "nd13_2023",
+        "page": 1,
+        "hit": false,
+        "text": "CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023 3\n\nVĂN BẢN QUY PHẠM PHÁP LUẬT\n\nCHÍNH PHỦ\n\nCHÍNH PHỦ\n\nSố: 13/2023/NĐ-CP\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n\nHà Nội, ngày 17 tháng 4 năm 2023\n\nNGHỊ ĐỊNH\nBảo vệ dữ liệu cá nhân\n\nCăn cứ Luật Tổ chức Chính ph ủ ngày 19 tháng 6 n ăm 2015; Lu ật sửa đổi, bổ\nsung m ột số điều của Luật Tổ chức Chính ph ủ và Lu ật Tổ chức chính quy ền địa\nphương ngày 22 tháng 11 năm 2019;\nCăn cứ Bộ luật Dân sự ngày 24 tháng 11 năm 2015;\nCăn cứ Luật An ninh quốc gia ngày 03 tháng 12 năm 2004;\nCăn cứ Luật An ninh mạng ngày 12 tháng 6 năm 2018;\nTheo đề nghị của Bộ trưởng Bộ Công an;\nChính phủ ban hành Nghị định bảo vệ dữ liệu cá nhân.\n\nChương I\nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Nghị định này quy định về bảo vệ dữ liệu cá nhân và trách nhi ệm bảo vệ dữ\nliệu cá nhân của cơ quan, tổ chức, cá nhân có liên quan.\n2. Nghị"
+      },
+      {
+        "id": "nd13_2023-p0002-fixed-72c00604bc6ae58b",
+        "rank": 3,
+        "score": 12.30954,
+        "source_id": "nd13_2023",
+        "page": 2,
+        "hit": true,
+        "text": "4 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\nd) Cơ quan, t ổ chức, cá nhân n ước ngoài tr ực tiếp tham gia ho ặc có liên quan\nđến hoạt động xử lý dữ liệu cá nhân tại Việt Nam.\nĐiều 2. Giải thích từ ngữ\nTrong Nghị định này, các từ ngữ dưới đây được hiểu như sau:\n1. Dữ liệu cá nhân là thông tin d ưới dạng ký hi ệu, chữ viết, chữ số, hình ảnh,\nâm thanh ho ặc dạng tương tự trên môi tr ường điện tử gắn liền với một con ng ười\ncụ thể hoặc giúp xác định một con người cụ thể. Dữ liệu cá nhân bao g ồm dữ liệu\ncá nhân cơ bản và dữ liệu cá nhân nhạy cảm.\n2. Thông tin giúp xác định một con người cụ thể là thông tin hình thành từ hoạt\nđộng của cá nhân mà khi k ết hợp với các dữ liệu, thông tin lưu trữ khác có thể xác\nđịnh một con người cụ thể.\n3. Dữ liệu cá nhân cơ bản bao gồm:\na) Họ, chữ đệm và tên khai sinh, tên gọi khác (nếu có);\nb) Ngày, tháng, năm sinh; ngày, tháng, năm chết hoặc mất tích;\nc) Giới tí"
+      }
+    ],
+    "hit1": false,
+    "hit3": true,
+    "rr": 0.3333333333333333,
+    "context_ids": [
+      "nd13_2023-p0012-fixed-fccd440e2dabe0d5",
+      "nd13_2023-p0001-fixed-4057685bc67fcc34",
+      "nd13_2023-p0002-fixed-72c00604bc6ae58b"
+    ],
+    "context_chars": 2613,
+    "context_hit": true,
+    "context": "[nd13_2023-p0012-fixed-fccd440e2dabe0d5] (nguồn: nd13_2023, trang 12)\nêu cầu cung cấp dữ liệu cá nhân.\nTrường hợp tổ chức, cá nhân yêu c ầu cung c ấp thông tin không bi ết chữ hoặc\nbị khuyết tật không thể viết yêu cầu thì người tiếp nhận yêu cầu cung cấp thông tin\ncó trách nhiệm giúp điền các nội dung vào Phiếu yêu cầu cung cấp dữ liệu cá nhân;\nb) Gửi Phiếu yêu cầu cung cấp dữ liệu cá nhân theo M ẫu số 01, 02 t ại Phụ lục\ncủa Nghị định này qua mạng điện tử, dịch vụ bưu chính, fax đến Bên Kiểm soát dữ\nliệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân.\n6. Phiếu yêu c ầu cung c ấp dữ liệu cá nhân ph ải được thể hiện bằng tiếng Việt\ngồm các nội dung chính sau đây:\n\n[nd13_2023-p0001-fixed-4057685bc67fcc34] (nguồn: nd13_2023, trang 1)\nCÔNG BÁO/Số 685 + 686/Ngày 30-4-2023 3\n\nVĂN BẢN QUY PHẠM PHÁP LUẬT\n\nCHÍNH PHỦ\n\nCHÍNH PHỦ\n\nSố: 13/2023/NĐ-CP\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n\nHà Nội, ngày 17 tháng 4 năm 2023\n\nNGHỊ ĐỊNH\nBảo vệ dữ liệu cá nhân\n\nCăn cứ Luật Tổ chức Chính ph ủ ngày 19 tháng 6 n ăm 2015; Lu ật sửa đổi, bổ\nsung m ột số điều của Luật Tổ chức Chính ph ủ và Lu ật Tổ chức chính quy ền địa\nphương ngày 22 tháng 11 năm 2019;\nCăn cứ Bộ luật Dân sự ngày 24 tháng 11 năm 2015;\nCăn cứ Luật An ninh quốc gia ngày 03 tháng 12 năm 2004;\nCăn cứ Luật An ninh mạng ngày 12 tháng 6 năm 2018;\nTheo đề nghị của Bộ trưởng Bộ Công an;\nChính phủ ban hành Nghị định bảo vệ dữ liệu cá nhân.\n\nChương I\nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Nghị định này quy định về bảo vệ dữ liệu cá nhân và trách nhi ệm bảo vệ dữ\nliệu cá nhân của cơ quan, tổ chức, cá nhân có liên quan.\n2. Nghị\n\n[nd13_2023-p0002-fixed-72c00604bc6ae58b] (nguồn: nd13_2023, trang 2)\n4 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\nd) Cơ quan, t ổ chức, cá nhân n ước ngoài tr ực tiếp tham gia ho ặc có liên quan\nđến hoạt động xử lý dữ liệu cá nhân tại Việt Nam.\nĐiều 2. Giải thích từ ngữ\nTrong Nghị định này, các từ ngữ dưới đây được hiểu như sau:\n1. Dữ liệu cá nhân là thông tin d ưới dạng ký hi ệu, chữ viết, chữ số, hình ảnh,\nâm thanh ho ặc dạng tương tự trên môi tr ường điện tử gắn liền với một con ng ười\ncụ thể hoặc giúp xác định một con người cụ thể. Dữ liệu cá nhân bao g ồm dữ liệu\ncá nhân cơ bản và dữ liệu cá nhân nhạy cảm.\n2. Thông tin giúp xác định một con người cụ thể là thông tin hình thành từ hoạt\nđộng của cá nhân mà khi k ết hợp với các dữ liệu, thông tin lưu trữ khác có thể xác\nđịnh một con người cụ thể.\n3. Dữ liệu cá nhân cơ bản bao gồm:\na) Họ, chữ đệm và tên khai sinh, tên gọi khác (nếu có);\nb) Ngày, tháng, năm sinh; ngày, tháng, năm chết hoặc mất tích;\nc) Giới tí",
+    "latency_ms": 0.3,
+    "error": null
+  },
+  {
+    "query_id": "Q02",
+    "split": "dev",
+    "question": "Theo Nghị định 13/2023, sự đồng ý của chủ thể dữ liệu được định nghĩa thế nào?",
+    "config": "bm25",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 4,
+        "evidence": "8. Sự đồng ý của chủ thể dữ liệu là việc thể hiện rõ ràng, tự nguyện, khẳng định\nviệc cho phép xử lý dữ liệu cá nhân của chủ thể dữ liệu."
+      }
+    ],
+    "top3": [
+      {
+        "id": "nd13_2023-p0009-fixed-7090ca0d6aed188d",
+        "rank": 1,
+        "score": 20.29677,
+        "source_id": "nd13_2023",
+        "page": 9,
+        "hit": false,
+        "text": "li ệu cá nhân và tham gia\nphòng, chống các hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân.\n\nMục 2\nBẢO VỆ DỮ LIỆU CÁ NHÂN\nTRONG QUÁ TRÌNH XỬ LÝ DỮ LIỆU CÁ NHÂN\n\nĐiều 11. Sự đồng ý của chủ thể dữ liệu\n1. Sự đồng ý của chủ thể dữ liệu được áp dụng đối với tất cả các hoạt động trong\nquy trình xử lý dữ liệu cá nhân, trừ trường hợp luật có quy định khác.\n2. Sự đồng ý của chủ thể dữ liệu chỉ có hiệu lực khi chủ thể dữ liệu tự nguyện\nvà biết rõ các nội dung sau:\na) Loại dữ liệu cá nhân được xử lý;\nb) Mục đích xử lý dữ liệu cá nhân;\nc) Tổ chức, cá nhân được xử lý dữ liệu cá nhân;\nd) Các quyền, nghĩa vụ của chủ thể dữ liệu.\n3. Sự đồng ý c ủa chủ thể dữ liệu phải được thể hiện rõ ràng, c ụ thể bằng văn\nbản, giọng nói, đánh dấu vào ô đồng ý, cú pháp đồng ý qua tin nhắn, chọn các thiết\nlập kỹ thuật đồng ý hoặc qua một hành động khác thể hiện được điều này."
+      },
+      {
+        "id": "nd13_2023-p0010-fixed-cfd16b72f7ba22ef",
+        "rank": 2,
+        "score": 19.13228,
+        "source_id": "nd13_2023",
+        "page": 10,
+        "hit": false,
+        "text": "12 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\n4. Sự đồng ý ph ải được tiến hành cho cùng m ột mục đích. Khi có nhi ều mục\nđích, Bên Ki ểm soát d ữ liệu cá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân li ệt\nkê các mục đích để chủ thể dữ liệu đồng ý với một hoặc nhiều mục đích nêu ra.\n5. Sự đồng ý c ủa chủ thể dữ liệu phải được thể hi ện ở một định dạng có th ể\nđược in, sao chép b ằng v ăn b ản, bao g ồm c ả d ưới d ạng điện t ử ho ặc định d ạng\nkiểm chứng được.\n6. Sự im l ặng hoặc không ph ản hồi của chủ thể dữ liệu không được coi là s ự\nđồng ý.\n7. Chủ thể dữ liệu có thể đồng ý một phần hoặc với điều kiện kèm theo.\n8. Đối v ới x ử lý d ữ li ệu cá nhân nh ạy c ảm, chủ th ể dữ liệu ph ải được thông\nbáo rằng dữ liệu cần xử lý là dữ liệu cá nhân nhạy cảm.\n9. Sự đồng ý của chủ thể dữ liệu có hiệu lực cho tới khi chủ thể dữ liệu có quyết\nđịnh khác hoặc khi cơ quan nhà nước có thẩm quyền yêu cầu b"
+      },
+      {
+        "id": "nd13_2023-p0007-fixed-ed08f7aa40a61eb3",
+        "rank": 3,
+        "score": 18.89938,
+        "source_id": "nd13_2023",
+        "page": 7,
+        "hit": false,
+        "text": "háp luật.\n\nChương II\nHOẠT ĐỘNG BẢO VỆ DỮ LIỆU CÁ NHÂN\n\nMục 1\nQUYỀN VÀ NGHĨA VỤ CỦA CHỦ THỂ DỮ LIỆU\n\nĐiều 9. Quyền của chủ thể dữ liệu\n1. Quyền được biết\nChủ th ể d ữ li ệu được bi ết v ề ho ạt động x ử lý d ữ li ệu cá nhân c ủa mình, tr ừ\ntrường hợp luật có quy định khác.\n2. Quyền đồng ý\nChủ th ể d ữ li ệu được đồng ý ho ặc không đồng ý cho phép x ử lý d ữ li ệu cá\nnhân của mình, trừ trường hợp quy định tại Điều 17 Nghị định này.\n3. Quyền truy cập\nChủ thể dữ liệu được truy c ập để xem, ch ỉnh sửa hoặc yêu c ầu chỉnh sửa dữ\nliệu cá nhân của mình, trừ trường hợp luật có quy định khác."
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "rr": 0.0,
+    "context_ids": [
+      "nd13_2023-p0009-fixed-7090ca0d6aed188d",
+      "nd13_2023-p0010-fixed-cfd16b72f7ba22ef",
+      "nd13_2023-p0007-fixed-ed08f7aa40a61eb3"
+    ],
+    "context_chars": 2560,
+    "context_hit": false,
+    "context": "[nd13_2023-p0009-fixed-7090ca0d6aed188d] (nguồn: nd13_2023, trang 9)\nli ệu cá nhân và tham gia\nphòng, chống các hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân.\n\nMục 2\nBẢO VỆ DỮ LIỆU CÁ NHÂN\nTRONG QUÁ TRÌNH XỬ LÝ DỮ LIỆU CÁ NHÂN\n\nĐiều 11. Sự đồng ý của chủ thể dữ liệu\n1. Sự đồng ý của chủ thể dữ liệu được áp dụng đối với tất cả các hoạt động trong\nquy trình xử lý dữ liệu cá nhân, trừ trường hợp luật có quy định khác.\n2. Sự đồng ý của chủ thể dữ liệu chỉ có hiệu lực khi chủ thể dữ liệu tự nguyện\nvà biết rõ các nội dung sau:\na) Loại dữ liệu cá nhân được xử lý;\nb) Mục đích xử lý dữ liệu cá nhân;\nc) Tổ chức, cá nhân được xử lý dữ liệu cá nhân;\nd) Các quyền, nghĩa vụ của chủ thể dữ liệu.\n3. Sự đồng ý c ủa chủ thể dữ liệu phải được thể hiện rõ ràng, c ụ thể bằng văn\nbản, giọng nói, đánh dấu vào ô đồng ý, cú pháp đồng ý qua tin nhắn, chọn các thiết\nlập kỹ thuật đồng ý hoặc qua một hành động khác thể hiện được điều này.\n\n[nd13_2023-p0010-fixed-cfd16b72f7ba22ef] (nguồn: nd13_2023, trang 10)\n12 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\n4. Sự đồng ý ph ải được tiến hành cho cùng m ột mục đích. Khi có nhi ều mục\nđích, Bên Ki ểm soát d ữ liệu cá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân li ệt\nkê các mục đích để chủ thể dữ liệu đồng ý với một hoặc nhiều mục đích nêu ra.\n5. Sự đồng ý c ủa chủ thể dữ liệu phải được thể hi ện ở một định dạng có th ể\nđược in, sao chép b ằng v ăn b ản, bao g ồm c ả d ưới d ạng điện t ử ho ặc định d ạng\nkiểm chứng được.\n6. Sự im l ặng hoặc không ph ản hồi của chủ thể dữ liệu không được coi là s ự\nđồng ý.\n7. Chủ thể dữ liệu có thể đồng ý một phần hoặc với điều kiện kèm theo.\n8. Đối v ới x ử lý d ữ li ệu cá nhân nh ạy c ảm, chủ th ể dữ liệu ph ải được thông\nbáo rằng dữ liệu cần xử lý là dữ liệu cá nhân nhạy cảm.\n9. Sự đồng ý của chủ thể dữ liệu có hiệu lực cho tới khi chủ thể dữ liệu có quyết\nđịnh khác hoặc khi cơ quan nhà nước có thẩm quyền yêu cầu b\n\n[nd13_2023-p0007-fixed-ed08f7aa40a61eb3] (nguồn: nd13_2023, trang 7)\nháp luật.\n\nChương II\nHOẠT ĐỘNG BẢO VỆ DỮ LIỆU CÁ NHÂN\n\nMục 1\nQUYỀN VÀ NGHĨA VỤ CỦA CHỦ THỂ DỮ LIỆU\n\nĐiều 9. Quyền của chủ thể dữ liệu\n1. Quyền được biết\nChủ th ể d ữ li ệu được bi ết v ề ho ạt động x ử lý d ữ li ệu cá nhân c ủa mình, tr ừ\ntrường hợp luật có quy định khác.\n2. Quyền đồng ý\nChủ th ể d ữ li ệu được đồng ý ho ặc không đồng ý cho phép x ử lý d ữ li ệu cá\nnhân của mình, trừ trường hợp quy định tại Điều 17 Nghị định này.\n3. Quyền truy cập\nChủ thể dữ liệu được truy c ập để xem, ch ỉnh sửa hoặc yêu c ầu chỉnh sửa dữ\nliệu cá nhân của mình, trừ trường hợp luật có quy định khác.",
+    "latency_ms": 0.3,
+    "error": null
+  },
+  {
+    "query_id": "Q03",
+    "split": "dev",
+    "question": "Theo nguyên tắc tại Nghị định 13/2023, dữ liệu cá nhân được lưu trữ trong bao lâu?",
+    "config": "bm25",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 5,
+        "evidence": "7. Dữ liệu cá nhân ch ỉ được lưu trữ trong kho ảng thời gian phù h ợp với mục\nđích xử lý dữ liệu, trừ trường hợp pháp luật có quy định khác."
+      }
+    ],
+    "top3": [
+      {
+        "id": "nd13_2023-p0005-fixed-bed0b81601a2dabd",
+        "rank": 1,
+        "score": 18.69059,
+        "source_id": "nd13_2023",
+        "page": 5,
+        "hit": true,
+        "text": "Dữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá trình\nxử lý, bao g ồm cả việc bảo vệ trước các hành vi vi ph ạm quy định về bảo vệ dữ\nliệu cá nhân và phòng, ch ống sự mất mát, phá hủy hoặc thiệt hại do sự cố, sử dụng\ncác biện pháp kỹ thuật.\n7. Dữ liệu cá nhân ch ỉ được lưu trữ trong kho ảng thời gian phù h ợp với mục\nđích xử lý dữ liệu, trừ trường hợp pháp luật có quy định khác.\n8. Bên Ki ểm soát d ữ liệu, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân ph ải chịu\ntrách nhi ệm tuân th ủ các nguyên t ắc xử lý d ữ liệu được quy định từ khoản 1 t ới\nkhoản 7 Điều này và ch ứng minh s ự tuân th ủ của mình v ới các nguyên t ắc xử lý\ndữ liệu đó.\nĐiều 4. Xử lý vi phạm quy định bảo vệ dữ liệu cá nhân\nCơ quan, t ổ chức, cá nhân vi ph ạm quy định bảo vệ dữ liệu cá nhân tùy theo\nmức độ có th ể bị xử lý k ỷ luật, x ử phạt vi ph ạm hành chính, x ử lý hình s ự theo\nquy định.\nĐiều 5. Quả"
+      },
+      {
+        "id": "nd13_2023-p0005-fixed-5f9fa1ce598b209d",
+        "rank": 2,
+        "score": 17.7673,
+        "source_id": "nd13_2023",
+        "page": 5,
+        "hit": false,
+        "text": "CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023 7\n\nĐiều 3. Nguyên tắc bảo vệ dữ liệu cá nhân\n1. Dữ liệu cá nhân được xử lý theo quy định của pháp luật.\n2. Chủ thể dữ liệu được biết về hoạt động liên quan t ới xử lý d ữ liệu cá nhân\ncủa mình, trừ trường hợp luật có quy định khác.\n3. Dữ liệu cá nhân ch ỉ được xử lý đúng với mục đích đã được Bên Ki ểm soát\ndữ li ệu cá nhân, Bên X ử lý d ữ li ệu cá nhân, Bên Ki ểm soát và x ử lý d ữ li ệu cá\nnhân, Bên thứ ba đăng ký, tuyên bố về xử lý dữ liệu cá nhân.\n4. Dữ liệu cá nhân thu th ập phải phù hợp và giới hạn trong phạm vi, mục đích\ncần xử lý. D ữ liệu cá nhân không được mua, bán d ưới mọi hình th ức, trừ trường\nhợp luật có quy định khác.\n5. Dữ liệu cá nhân được cập nhật, bổ sung phù hợp với mục đích xử lý.\n6. Dữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá trình\nxử lý, bao g ồm cả việc bảo vệ trước các hành vi vi ph ạm quy định về bảo"
+      },
+      {
+        "id": "nd13_2023-p0002-fixed-72c00604bc6ae58b",
+        "rank": 3,
+        "score": 16.88955,
+        "source_id": "nd13_2023",
+        "page": 2,
+        "hit": false,
+        "text": "4 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\nd) Cơ quan, t ổ chức, cá nhân n ước ngoài tr ực tiếp tham gia ho ặc có liên quan\nđến hoạt động xử lý dữ liệu cá nhân tại Việt Nam.\nĐiều 2. Giải thích từ ngữ\nTrong Nghị định này, các từ ngữ dưới đây được hiểu như sau:\n1. Dữ liệu cá nhân là thông tin d ưới dạng ký hi ệu, chữ viết, chữ số, hình ảnh,\nâm thanh ho ặc dạng tương tự trên môi tr ường điện tử gắn liền với một con ng ười\ncụ thể hoặc giúp xác định một con người cụ thể. Dữ liệu cá nhân bao g ồm dữ liệu\ncá nhân cơ bản và dữ liệu cá nhân nhạy cảm.\n2. Thông tin giúp xác định một con người cụ thể là thông tin hình thành từ hoạt\nđộng của cá nhân mà khi k ết hợp với các dữ liệu, thông tin lưu trữ khác có thể xác\nđịnh một con người cụ thể.\n3. Dữ liệu cá nhân cơ bản bao gồm:\na) Họ, chữ đệm và tên khai sinh, tên gọi khác (nếu có);\nb) Ngày, tháng, năm sinh; ngày, tháng, năm chết hoặc mất tích;\nc) Giới tí"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "rr": 1.0,
+    "context_ids": [
+      "nd13_2023-p0005-fixed-bed0b81601a2dabd",
+      "nd13_2023-p0005-fixed-5f9fa1ce598b209d",
+      "nd13_2023-p0002-fixed-72c00604bc6ae58b"
+    ],
+    "context_chars": 2909,
+    "context_hit": true,
+    "context": "[nd13_2023-p0005-fixed-bed0b81601a2dabd] (nguồn: nd13_2023, trang 5)\nDữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá trình\nxử lý, bao g ồm cả việc bảo vệ trước các hành vi vi ph ạm quy định về bảo vệ dữ\nliệu cá nhân và phòng, ch ống sự mất mát, phá hủy hoặc thiệt hại do sự cố, sử dụng\ncác biện pháp kỹ thuật.\n7. Dữ liệu cá nhân ch ỉ được lưu trữ trong kho ảng thời gian phù h ợp với mục\nđích xử lý dữ liệu, trừ trường hợp pháp luật có quy định khác.\n8. Bên Ki ểm soát d ữ liệu, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân ph ải chịu\ntrách nhi ệm tuân th ủ các nguyên t ắc xử lý d ữ liệu được quy định từ khoản 1 t ới\nkhoản 7 Điều này và ch ứng minh s ự tuân th ủ của mình v ới các nguyên t ắc xử lý\ndữ liệu đó.\nĐiều 4. Xử lý vi phạm quy định bảo vệ dữ liệu cá nhân\nCơ quan, t ổ chức, cá nhân vi ph ạm quy định bảo vệ dữ liệu cá nhân tùy theo\nmức độ có th ể bị xử lý k ỷ luật, x ử phạt vi ph ạm hành chính, x ử lý hình s ự theo\nquy định.\nĐiều 5. Quả\n\n[nd13_2023-p0005-fixed-5f9fa1ce598b209d] (nguồn: nd13_2023, trang 5)\nCÔNG BÁO/Số 685 + 686/Ngày 30-4-2023 7\n\nĐiều 3. Nguyên tắc bảo vệ dữ liệu cá nhân\n1. Dữ liệu cá nhân được xử lý theo quy định của pháp luật.\n2. Chủ thể dữ liệu được biết về hoạt động liên quan t ới xử lý d ữ liệu cá nhân\ncủa mình, trừ trường hợp luật có quy định khác.\n3. Dữ liệu cá nhân ch ỉ được xử lý đúng với mục đích đã được Bên Ki ểm soát\ndữ li ệu cá nhân, Bên X ử lý d ữ li ệu cá nhân, Bên Ki ểm soát và x ử lý d ữ li ệu cá\nnhân, Bên thứ ba đăng ký, tuyên bố về xử lý dữ liệu cá nhân.\n4. Dữ liệu cá nhân thu th ập phải phù hợp và giới hạn trong phạm vi, mục đích\ncần xử lý. D ữ liệu cá nhân không được mua, bán d ưới mọi hình th ức, trừ trường\nhợp luật có quy định khác.\n5. Dữ liệu cá nhân được cập nhật, bổ sung phù hợp với mục đích xử lý.\n6. Dữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá trình\nxử lý, bao g ồm cả việc bảo vệ trước các hành vi vi ph ạm quy định về bảo\n\n[nd13_2023-p0002-fixed-72c00604bc6ae58b] (nguồn: nd13_2023, trang 2)\n4 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\nd) Cơ quan, t ổ chức, cá nhân n ước ngoài tr ực tiếp tham gia ho ặc có liên quan\nđến hoạt động xử lý dữ liệu cá nhân tại Việt Nam.\nĐiều 2. Giải thích từ ngữ\nTrong Nghị định này, các từ ngữ dưới đây được hiểu như sau:\n1. Dữ liệu cá nhân là thông tin d ưới dạng ký hi ệu, chữ viết, chữ số, hình ảnh,\nâm thanh ho ặc dạng tương tự trên môi tr ường điện tử gắn liền với một con ng ười\ncụ thể hoặc giúp xác định một con người cụ thể. Dữ liệu cá nhân bao g ồm dữ liệu\ncá nhân cơ bản và dữ liệu cá nhân nhạy cảm.\n2. Thông tin giúp xác định một con người cụ thể là thông tin hình thành từ hoạt\nđộng của cá nhân mà khi k ết hợp với các dữ liệu, thông tin lưu trữ khác có thể xác\nđịnh một con người cụ thể.\n3. Dữ liệu cá nhân cơ bản bao gồm:\na) Họ, chữ đệm và tên khai sinh, tên gọi khác (nếu có);\nb) Ngày, tháng, năm sinh; ngày, tháng, năm chết hoặc mất tích;\nc) Giới tí",
+    "latency_ms": 0.3,
+    "error": null
+  },
+  {
+    "query_id": "Q04",
+    "split": "dev",
+    "question": "Quyền truy cập trong Nghị định 13/2023 cho phép chủ thể làm gì, và có ngoại lệ gì?",
+    "config": "bm25",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 7,
+        "evidence": "3. Quyền truy cập\nChủ thể dữ liệu được truy c ập để xem, ch ỉnh sửa hoặc yêu c ầu chỉnh sửa dữ\nliệu cá nhân của mình, trừ trường hợp luật có quy định khác."
+      }
+    ],
+    "top3": [
+      {
+        "id": "nd13_2023-p0007-fixed-ed08f7aa40a61eb3",
+        "rank": 1,
+        "score": 22.58719,
+        "source_id": "nd13_2023",
+        "page": 7,
+        "hit": true,
+        "text": "háp luật.\n\nChương II\nHOẠT ĐỘNG BẢO VỆ DỮ LIỆU CÁ NHÂN\n\nMục 1\nQUYỀN VÀ NGHĨA VỤ CỦA CHỦ THỂ DỮ LIỆU\n\nĐiều 9. Quyền của chủ thể dữ liệu\n1. Quyền được biết\nChủ th ể d ữ li ệu được bi ết v ề ho ạt động x ử lý d ữ li ệu cá nhân c ủa mình, tr ừ\ntrường hợp luật có quy định khác.\n2. Quyền đồng ý\nChủ th ể d ữ li ệu được đồng ý ho ặc không đồng ý cho phép x ử lý d ữ li ệu cá\nnhân của mình, trừ trường hợp quy định tại Điều 17 Nghị định này.\n3. Quyền truy cập\nChủ thể dữ liệu được truy c ập để xem, ch ỉnh sửa hoặc yêu c ầu chỉnh sửa dữ\nliệu cá nhân của mình, trừ trường hợp luật có quy định khác."
+      },
+      {
+        "id": "nd13_2023-p0012-fixed-ed68943b32058d19",
+        "rank": 2,
+        "score": 14.74277,
+        "source_id": "nd13_2023",
+        "page": 12,
+        "hit": false,
+        "text": "14 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\n2. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân:\na) Được cung cấp dữ liệu cá nhân của chủ thể dữ liệu cho tổ chức, cá nhân khác khi\ncó sự đồng ý của chủ thể dữ liệu, trừ trường hợp pháp luật có quy định khác;\nb) Thay m ặt chủ thể dữ liệu cung c ấp dữ liệu cá nhân c ủa chủ thể dữ liệu cho\ntổ ch ức ho ặc cá nhân khác khi ch ủ th ể d ữ li ệu đồng ý cho phép đại di ện và ủy\nquyền, trừ trường hợp pháp luật có quy định khác.\n3. Việc cung cấp dữ liệu cá nhân của chủ thể dữ liệu được Bên Kiểm soát dữ liệu\ncá nhân, Bên Kiểm soát và x ử lý d ữ liệu cá nhân th ực hiện trong 72 giờ sau khi có\nyêu cầu của chủ thể dữ liệu, trừ trường hợp luật có quy định khác.\n4. Bên Ki ểm soát d ữ li ệu cá nhân, Bên Ki ểm soát và x ử lý d ữ li ệu cá nhân\nkhông cung cấp dữ liệu cá nhân trong trường hợp:\na) Gây tổn hại tới quốc phòng, an ninh quốc gia, t"
+      },
+      {
+        "id": "nd13_2023-p0004-fixed-13b48dad9e572ec0",
+        "rank": 3,
+        "score": 13.60088,
+        "source_id": "nd13_2023",
+        "page": 4,
+        "hit": false,
+        "text": "6 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\n8. Sự đồng ý của chủ thể dữ liệu là việc thể hiện rõ ràng, tự nguyện, khẳng định\nviệc cho phép xử lý dữ liệu cá nhân của chủ thể dữ liệu.\n9. Bên Ki ểm soát d ữ liệu cá nhân là t ổ chức, cá nhân quy ết định mục đích và\nphương tiện xử lý dữ liệu cá nhân.\n10. Bên Xử lý dữ liệu cá nhân là t ổ chức, cá nhân th ực hiện việc xử lý dữ liệu\nthay mặt cho Bên Ki ểm soát dữ liệu, thông qua m ột hợp đồng hoặc thỏa thuận với\nBên Kiểm soát dữ liệu.\n11. Bên Kiểm soát và xử lý dữ liệu cá nhân là tổ chức, cá nhân đồng thời quyết\nđịnh mục đích, phương tiện và trực tiếp xử lý dữ liệu cá nhân.\n12. Bên thứ ba là tổ chức, cá nhân ngoài Chủ thể dữ liệu, Bên Kiểm soát dữ liệu\ncá nhân, Bên Xử lý d ữ liệu cá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân được\nphép xử lý dữ liệu cá nhân.\n13. Xử lý dữ liệu cá nhân tự động là hình thức xử lý dữ liệu cá nhân được thực\nhiện bằng"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "rr": 1.0,
+    "context_ids": [
+      "nd13_2023-p0007-fixed-ed08f7aa40a61eb3",
+      "nd13_2023-p0012-fixed-ed68943b32058d19",
+      "nd13_2023-p0004-fixed-13b48dad9e572ec0"
+    ],
+    "context_chars": 2601,
+    "context_hit": true,
+    "context": "[nd13_2023-p0007-fixed-ed08f7aa40a61eb3] (nguồn: nd13_2023, trang 7)\nháp luật.\n\nChương II\nHOẠT ĐỘNG BẢO VỆ DỮ LIỆU CÁ NHÂN\n\nMục 1\nQUYỀN VÀ NGHĨA VỤ CỦA CHỦ THỂ DỮ LIỆU\n\nĐiều 9. Quyền của chủ thể dữ liệu\n1. Quyền được biết\nChủ th ể d ữ li ệu được bi ết v ề ho ạt động x ử lý d ữ li ệu cá nhân c ủa mình, tr ừ\ntrường hợp luật có quy định khác.\n2. Quyền đồng ý\nChủ th ể d ữ li ệu được đồng ý ho ặc không đồng ý cho phép x ử lý d ữ li ệu cá\nnhân của mình, trừ trường hợp quy định tại Điều 17 Nghị định này.\n3. Quyền truy cập\nChủ thể dữ liệu được truy c ập để xem, ch ỉnh sửa hoặc yêu c ầu chỉnh sửa dữ\nliệu cá nhân của mình, trừ trường hợp luật có quy định khác.\n\n[nd13_2023-p0012-fixed-ed68943b32058d19] (nguồn: nd13_2023, trang 12)\n14 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\n2. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân:\na) Được cung cấp dữ liệu cá nhân của chủ thể dữ liệu cho tổ chức, cá nhân khác khi\ncó sự đồng ý của chủ thể dữ liệu, trừ trường hợp pháp luật có quy định khác;\nb) Thay m ặt chủ thể dữ liệu cung c ấp dữ liệu cá nhân c ủa chủ thể dữ liệu cho\ntổ ch ức ho ặc cá nhân khác khi ch ủ th ể d ữ li ệu đồng ý cho phép đại di ện và ủy\nquyền, trừ trường hợp pháp luật có quy định khác.\n3. Việc cung cấp dữ liệu cá nhân của chủ thể dữ liệu được Bên Kiểm soát dữ liệu\ncá nhân, Bên Kiểm soát và x ử lý d ữ liệu cá nhân th ực hiện trong 72 giờ sau khi có\nyêu cầu của chủ thể dữ liệu, trừ trường hợp luật có quy định khác.\n4. Bên Ki ểm soát d ữ li ệu cá nhân, Bên Ki ểm soát và x ử lý d ữ li ệu cá nhân\nkhông cung cấp dữ liệu cá nhân trong trường hợp:\na) Gây tổn hại tới quốc phòng, an ninh quốc gia, t\n\n[nd13_2023-p0004-fixed-13b48dad9e572ec0] (nguồn: nd13_2023, trang 4)\n6 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\n8. Sự đồng ý của chủ thể dữ liệu là việc thể hiện rõ ràng, tự nguyện, khẳng định\nviệc cho phép xử lý dữ liệu cá nhân của chủ thể dữ liệu.\n9. Bên Ki ểm soát d ữ liệu cá nhân là t ổ chức, cá nhân quy ết định mục đích và\nphương tiện xử lý dữ liệu cá nhân.\n10. Bên Xử lý dữ liệu cá nhân là t ổ chức, cá nhân th ực hiện việc xử lý dữ liệu\nthay mặt cho Bên Ki ểm soát dữ liệu, thông qua m ột hợp đồng hoặc thỏa thuận với\nBên Kiểm soát dữ liệu.\n11. Bên Kiểm soát và xử lý dữ liệu cá nhân là tổ chức, cá nhân đồng thời quyết\nđịnh mục đích, phương tiện và trực tiếp xử lý dữ liệu cá nhân.\n12. Bên thứ ba là tổ chức, cá nhân ngoài Chủ thể dữ liệu, Bên Kiểm soát dữ liệu\ncá nhân, Bên Xử lý d ữ liệu cá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân được\nphép xử lý dữ liệu cá nhân.\n13. Xử lý dữ liệu cá nhân tự động là hình thức xử lý dữ liệu cá nhân được thực\nhiện bằng",
+    "latency_ms": 0.3,
+    "error": null
+  },
+  {
+    "query_id": "Q05",
+    "split": "dev",
+    "question": "Theo Nghị định 13/2023, yêu cầu hạn chế xử lý dữ liệu phải được thực hiện trong thời hạn nào và với phạm vi nào?",
+    "config": "bm25",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 8,
+        "evidence": "b) Việc hạn chế xử lý dữ liệu được thực hiện trong 72 giờ sau khi có yêu cầu của\nchủ thể dữ liệu, với toàn bộ dữ liệu cá nhân mà chủ thể dữ liệu yêu cầu hạn chế, trừ\ntrường hợp luật có quy định khác."
+      }
+    ],
+    "top3": [
+      {
+        "id": "nd13_2023-p0008-fixed-3c37fbb7c3b25ada",
+        "rank": 1,
+        "score": 33.97828,
+        "source_id": "nd13_2023",
+        "page": 8,
+        "hit": true,
+        "text": "10 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\n4. Quyền rút lại sự đồng ý\nChủ thể dữ liệu được quyền rút lại sự đồng ý của mình, trừ trường hợp luật có\nquy định khác.\n5. Quyền xóa dữ liệu\nChủ th ể d ữ li ệu được xóa ho ặc yêu c ầu xóa d ữ li ệu cá nhân c ủa mình, tr ừ\ntrường hợp luật có quy định khác.\n6. Quyền hạn chế xử lý dữ liệu\na) Chủ thể dữ liệu được yêu c ầu hạn chế xử lý d ữ liệu cá nhân c ủa mình, tr ừ\ntrường hợp luật có quy định khác;\nb) Việc hạn chế xử lý dữ liệu được thực hiện trong 72 giờ sau khi có yêu cầu của\nchủ thể dữ liệu, với toàn bộ dữ liệu cá nhân mà chủ thể dữ liệu yêu cầu hạn chế, trừ\ntrường hợp luật có quy định khác.\n7. Quyền cung cấp dữ liệu\nChủ thể dữ liệu được yêu c ầu Bên Ki ểm soát d ữ liệu cá nhân, Bên Ki ểm soát\nvà x ử lý d ữ li ệu cá nhân cung c ấp cho b ản thân d ữ li ệu cá nhân c ủa mình, tr ừ\ntrường hợp luật có quy định khác.\n8. Quyền phản đối xử lý dữ liệu\na)"
+      },
+      {
+        "id": "nd13_2023-p0008-fixed-e11d3a569bd40e85",
+        "rank": 2,
+        "score": 26.33011,
+        "source_id": "nd13_2023",
+        "page": 8,
+        "hit": false,
+        "text": "ử lý d ữ li ệu cá nhân cung c ấp cho b ản thân d ữ li ệu cá nhân c ủa mình, tr ừ\ntrường hợp luật có quy định khác.\n8. Quyền phản đối xử lý dữ liệu\na) Chủ thể dữ liệu được phản đối Bên Ki ểm soát d ữ liệu cá nhân, Bên Ki ểm\nsoát và xử lý dữ liệu cá nhân xử lý dữ liệu cá nhân của mình nhằm ngăn chặn hoặc\nhạn chế tiết lộ dữ liệu cá nhân ho ặc sử dụng cho m ục đích quảng cáo, ti ếp thị, trừ\ntrường hợp luật có quy định khác;\nb) Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thực\nhiện yêu cầu của chủ thể dữ liệu trong 72 giờ sau khi nhận được yêu cầu, trừ trường\nhợp luật có quy định khác.\n9. Quyền khiếu nại, tố cáo, khởi kiện\nChủ thể dữ liệu có quy ền khiếu nại, tố cáo ho ặc khởi kiện theo quy định của\npháp luật.\n10. Quyền yêu cầu bồi thường thiệt hại\nChủ thể dữ liệu có quyền yêu cầu bồi thường thiệt hại theo quy định của pháp\nluật khi x ảy ra vi ph ạm quy định về bảo v"
+      },
+      {
+        "id": "nd13_2023-p0013-fixed-851b171fec729587",
+        "rank": 3,
+        "score": 24.58234,
+        "source_id": "nd13_2023",
+        "page": 13,
+        "hit": false,
+        "text": "ấp dữ liệu cá nhân theo yêu cầu;\nb) Trường hợp dữ liệu cá nhân được yêu c ầu không thuộc thẩm quyền thì Bên\nKiểm soát dữ liệu cá nhân, Bên Ki ểm soát và xử lý dữ liệu cá nhân nhận được yêu\ncầu phải thông báo và h ướng dẫn tổ chức, cá nhân yêu c ầu đến cơ quan có th ẩm\nquyền hoặc thông báo rõ ràng việc không thể cung cấp dữ liệu cá nhân.\n9. Giải quyết yêu cầu cung cấp dữ liệu cá nhân\nKhi nhận được yêu cầu cung cấp dữ liệu cá nhân hợp lệ, Bên Kiểm soát dữ liệu\ncá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân có trách nhi ệm cung c ấp dữ liệu\ncá nhân thông báo v ề thời hạn, địa điểm, hình th ức cung c ấp dữ liệu cá nhân; chi\nphí thực tế để in, sao, ch ụp, gửi thông tin qua d ịch vụ bưu chính, fax (n ếu có) và\nphương th ức, th ời h ạn thanh toán; th ực hi ện vi ệc cung c ấp d ữ li ệu cá nhân theo\ntrình tự, thủ tục quy định tại Điều này.\nĐiều 15. Chỉnh sửa dữ liệu cá nhân\n1. Chủ thể dữ liệu"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "rr": 1.0,
+    "context_ids": [
+      "nd13_2023-p0008-fixed-3c37fbb7c3b25ada",
+      "nd13_2023-p0008-fixed-e11d3a569bd40e85",
+      "nd13_2023-p0013-fixed-851b171fec729587"
+    ],
+    "context_chars": 2911,
+    "context_hit": true,
+    "context": "[nd13_2023-p0008-fixed-3c37fbb7c3b25ada] (nguồn: nd13_2023, trang 8)\n10 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\n4. Quyền rút lại sự đồng ý\nChủ thể dữ liệu được quyền rút lại sự đồng ý của mình, trừ trường hợp luật có\nquy định khác.\n5. Quyền xóa dữ liệu\nChủ th ể d ữ li ệu được xóa ho ặc yêu c ầu xóa d ữ li ệu cá nhân c ủa mình, tr ừ\ntrường hợp luật có quy định khác.\n6. Quyền hạn chế xử lý dữ liệu\na) Chủ thể dữ liệu được yêu c ầu hạn chế xử lý d ữ liệu cá nhân c ủa mình, tr ừ\ntrường hợp luật có quy định khác;\nb) Việc hạn chế xử lý dữ liệu được thực hiện trong 72 giờ sau khi có yêu cầu của\nchủ thể dữ liệu, với toàn bộ dữ liệu cá nhân mà chủ thể dữ liệu yêu cầu hạn chế, trừ\ntrường hợp luật có quy định khác.\n7. Quyền cung cấp dữ liệu\nChủ thể dữ liệu được yêu c ầu Bên Ki ểm soát d ữ liệu cá nhân, Bên Ki ểm soát\nvà x ử lý d ữ li ệu cá nhân cung c ấp cho b ản thân d ữ li ệu cá nhân c ủa mình, tr ừ\ntrường hợp luật có quy định khác.\n8. Quyền phản đối xử lý dữ liệu\na)\n\n[nd13_2023-p0008-fixed-e11d3a569bd40e85] (nguồn: nd13_2023, trang 8)\nử lý d ữ li ệu cá nhân cung c ấp cho b ản thân d ữ li ệu cá nhân c ủa mình, tr ừ\ntrường hợp luật có quy định khác.\n8. Quyền phản đối xử lý dữ liệu\na) Chủ thể dữ liệu được phản đối Bên Ki ểm soát d ữ liệu cá nhân, Bên Ki ểm\nsoát và xử lý dữ liệu cá nhân xử lý dữ liệu cá nhân của mình nhằm ngăn chặn hoặc\nhạn chế tiết lộ dữ liệu cá nhân ho ặc sử dụng cho m ục đích quảng cáo, ti ếp thị, trừ\ntrường hợp luật có quy định khác;\nb) Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thực\nhiện yêu cầu của chủ thể dữ liệu trong 72 giờ sau khi nhận được yêu cầu, trừ trường\nhợp luật có quy định khác.\n9. Quyền khiếu nại, tố cáo, khởi kiện\nChủ thể dữ liệu có quy ền khiếu nại, tố cáo ho ặc khởi kiện theo quy định của\npháp luật.\n10. Quyền yêu cầu bồi thường thiệt hại\nChủ thể dữ liệu có quyền yêu cầu bồi thường thiệt hại theo quy định của pháp\nluật khi x ảy ra vi ph ạm quy định về bảo v\n\n[nd13_2023-p0013-fixed-851b171fec729587] (nguồn: nd13_2023, trang 13)\nấp dữ liệu cá nhân theo yêu cầu;\nb) Trường hợp dữ liệu cá nhân được yêu c ầu không thuộc thẩm quyền thì Bên\nKiểm soát dữ liệu cá nhân, Bên Ki ểm soát và xử lý dữ liệu cá nhân nhận được yêu\ncầu phải thông báo và h ướng dẫn tổ chức, cá nhân yêu c ầu đến cơ quan có th ẩm\nquyền hoặc thông báo rõ ràng việc không thể cung cấp dữ liệu cá nhân.\n9. Giải quyết yêu cầu cung cấp dữ liệu cá nhân\nKhi nhận được yêu cầu cung cấp dữ liệu cá nhân hợp lệ, Bên Kiểm soát dữ liệu\ncá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân có trách nhi ệm cung c ấp dữ liệu\ncá nhân thông báo v ề thời hạn, địa điểm, hình th ức cung c ấp dữ liệu cá nhân; chi\nphí thực tế để in, sao, ch ụp, gửi thông tin qua d ịch vụ bưu chính, fax (n ếu có) và\nphương th ức, th ời h ạn thanh toán; th ực hi ện vi ệc cung c ấp d ữ li ệu cá nhân theo\ntrình tự, thủ tục quy định tại Điều này.\nĐiều 15. Chỉnh sửa dữ liệu cá nhân\n1. Chủ thể dữ liệu",
+    "latency_ms": 0.4,
+    "error": null
+  },
+  {
+    "query_id": "Q06",
+    "split": "dev",
+    "question": "Theo Nghị định 13/2023, chủ thể phải tự nguyện và biết rõ những nội dung nào để sự đồng ý có hiệu lực?",
+    "config": "bm25",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 9,
+        "evidence": "2. Sự đồng ý của chủ thể dữ liệu chỉ có hiệu lực khi chủ thể dữ liệu tự nguyện\nvà biết rõ các nội dung sau:\na) Loại dữ liệu cá nhân được xử lý;\nb) Mục đích xử lý dữ liệu cá nhân;\nc) Tổ chức, cá nhân được xử lý dữ liệu cá nhân;\nd) Các quyền, nghĩa vụ của chủ thể dữ liệu."
+      }
+    ],
+    "top3": [
+      {
+        "id": "nd13_2023-p0009-fixed-7090ca0d6aed188d",
+        "rank": 1,
+        "score": 37.41376,
+        "source_id": "nd13_2023",
+        "page": 9,
+        "hit": true,
+        "text": "li ệu cá nhân và tham gia\nphòng, chống các hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân.\n\nMục 2\nBẢO VỆ DỮ LIỆU CÁ NHÂN\nTRONG QUÁ TRÌNH XỬ LÝ DỮ LIỆU CÁ NHÂN\n\nĐiều 11. Sự đồng ý của chủ thể dữ liệu\n1. Sự đồng ý của chủ thể dữ liệu được áp dụng đối với tất cả các hoạt động trong\nquy trình xử lý dữ liệu cá nhân, trừ trường hợp luật có quy định khác.\n2. Sự đồng ý của chủ thể dữ liệu chỉ có hiệu lực khi chủ thể dữ liệu tự nguyện\nvà biết rõ các nội dung sau:\na) Loại dữ liệu cá nhân được xử lý;\nb) Mục đích xử lý dữ liệu cá nhân;\nc) Tổ chức, cá nhân được xử lý dữ liệu cá nhân;\nd) Các quyền, nghĩa vụ của chủ thể dữ liệu.\n3. Sự đồng ý c ủa chủ thể dữ liệu phải được thể hiện rõ ràng, c ụ thể bằng văn\nbản, giọng nói, đánh dấu vào ô đồng ý, cú pháp đồng ý qua tin nhắn, chọn các thiết\nlập kỹ thuật đồng ý hoặc qua một hành động khác thể hiện được điều này."
+      },
+      {
+        "id": "nd13_2023-p0010-fixed-d9f49e648201be24",
+        "rank": 2,
+        "score": 26.11147,
+        "source_id": "nd13_2023",
+        "page": 10,
+        "hit": false,
+        "text": "hạy cảm.\n9. Sự đồng ý của chủ thể dữ liệu có hiệu lực cho tới khi chủ thể dữ liệu có quyết\nđịnh khác hoặc khi cơ quan nhà nước có thẩm quyền yêu cầu bằng văn bản.\n10. Trong tr ường hợp có tranh ch ấp, trách nhi ệm chứng minh s ự đồng ý c ủa\nchủ thể dữ liệu thuộc về Bên Ki ểm soát d ữ liệu cá nhân, Bên Ki ểm soát và x ử lý\ndữ liệu cá nhân.\n11. Thông qua việc ủy quyền theo quy định của Bộ luật Dân sự, tổ chức, cá nhân\ncó thể thay mặt chủ thể dữ liệu thực hiện các thủ tục liên quan t ới xử lý d ữ liệu cá\nnhân của chủ thể dữ liệu với Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý\ndữ liệu cá nhân trong trường hợp chủ thể dữ liệu đã biết rõ và đồng ý theo quy định\ntại khoản 3 Điều này, trừ trường hợp luật có quy định khác.\nĐiều 12. Rút lại sự đồng ý\n1. Việc rút lại sự đồng ý không ảnh hưởng đến tính hợp pháp của việc xử lý dữ\nliệu đã được đồng ý trước khi rút lại sự đồng ý.\n2. Việc rút"
+      },
+      {
+        "id": "nd13_2023-p0010-fixed-cfd16b72f7ba22ef",
+        "rank": 3,
+        "score": 24.70942,
+        "source_id": "nd13_2023",
+        "page": 10,
+        "hit": false,
+        "text": "12 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\n4. Sự đồng ý ph ải được tiến hành cho cùng m ột mục đích. Khi có nhi ều mục\nđích, Bên Ki ểm soát d ữ liệu cá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân li ệt\nkê các mục đích để chủ thể dữ liệu đồng ý với một hoặc nhiều mục đích nêu ra.\n5. Sự đồng ý c ủa chủ thể dữ liệu phải được thể hi ện ở một định dạng có th ể\nđược in, sao chép b ằng v ăn b ản, bao g ồm c ả d ưới d ạng điện t ử ho ặc định d ạng\nkiểm chứng được.\n6. Sự im l ặng hoặc không ph ản hồi của chủ thể dữ liệu không được coi là s ự\nđồng ý.\n7. Chủ thể dữ liệu có thể đồng ý một phần hoặc với điều kiện kèm theo.\n8. Đối v ới x ử lý d ữ li ệu cá nhân nh ạy c ảm, chủ th ể dữ liệu ph ải được thông\nbáo rằng dữ liệu cần xử lý là dữ liệu cá nhân nhạy cảm.\n9. Sự đồng ý của chủ thể dữ liệu có hiệu lực cho tới khi chủ thể dữ liệu có quyết\nđịnh khác hoặc khi cơ quan nhà nước có thẩm quyền yêu cầu b"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "rr": 1.0,
+    "context_ids": [
+      "nd13_2023-p0009-fixed-7090ca0d6aed188d",
+      "nd13_2023-p0010-fixed-d9f49e648201be24",
+      "nd13_2023-p0010-fixed-cfd16b72f7ba22ef"
+    ],
+    "context_chars": 2871,
+    "context_hit": true,
+    "context": "[nd13_2023-p0009-fixed-7090ca0d6aed188d] (nguồn: nd13_2023, trang 9)\nli ệu cá nhân và tham gia\nphòng, chống các hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân.\n\nMục 2\nBẢO VỆ DỮ LIỆU CÁ NHÂN\nTRONG QUÁ TRÌNH XỬ LÝ DỮ LIỆU CÁ NHÂN\n\nĐiều 11. Sự đồng ý của chủ thể dữ liệu\n1. Sự đồng ý của chủ thể dữ liệu được áp dụng đối với tất cả các hoạt động trong\nquy trình xử lý dữ liệu cá nhân, trừ trường hợp luật có quy định khác.\n2. Sự đồng ý của chủ thể dữ liệu chỉ có hiệu lực khi chủ thể dữ liệu tự nguyện\nvà biết rõ các nội dung sau:\na) Loại dữ liệu cá nhân được xử lý;\nb) Mục đích xử lý dữ liệu cá nhân;\nc) Tổ chức, cá nhân được xử lý dữ liệu cá nhân;\nd) Các quyền, nghĩa vụ của chủ thể dữ liệu.\n3. Sự đồng ý c ủa chủ thể dữ liệu phải được thể hiện rõ ràng, c ụ thể bằng văn\nbản, giọng nói, đánh dấu vào ô đồng ý, cú pháp đồng ý qua tin nhắn, chọn các thiết\nlập kỹ thuật đồng ý hoặc qua một hành động khác thể hiện được điều này.\n\n[nd13_2023-p0010-fixed-d9f49e648201be24] (nguồn: nd13_2023, trang 10)\nhạy cảm.\n9. Sự đồng ý của chủ thể dữ liệu có hiệu lực cho tới khi chủ thể dữ liệu có quyết\nđịnh khác hoặc khi cơ quan nhà nước có thẩm quyền yêu cầu bằng văn bản.\n10. Trong tr ường hợp có tranh ch ấp, trách nhi ệm chứng minh s ự đồng ý c ủa\nchủ thể dữ liệu thuộc về Bên Ki ểm soát d ữ liệu cá nhân, Bên Ki ểm soát và x ử lý\ndữ liệu cá nhân.\n11. Thông qua việc ủy quyền theo quy định của Bộ luật Dân sự, tổ chức, cá nhân\ncó thể thay mặt chủ thể dữ liệu thực hiện các thủ tục liên quan t ới xử lý d ữ liệu cá\nnhân của chủ thể dữ liệu với Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý\ndữ liệu cá nhân trong trường hợp chủ thể dữ liệu đã biết rõ và đồng ý theo quy định\ntại khoản 3 Điều này, trừ trường hợp luật có quy định khác.\nĐiều 12. Rút lại sự đồng ý\n1. Việc rút lại sự đồng ý không ảnh hưởng đến tính hợp pháp của việc xử lý dữ\nliệu đã được đồng ý trước khi rút lại sự đồng ý.\n2. Việc rút\n\n[nd13_2023-p0010-fixed-cfd16b72f7ba22ef] (nguồn: nd13_2023, trang 10)\n12 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\n4. Sự đồng ý ph ải được tiến hành cho cùng m ột mục đích. Khi có nhi ều mục\nđích, Bên Ki ểm soát d ữ liệu cá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân li ệt\nkê các mục đích để chủ thể dữ liệu đồng ý với một hoặc nhiều mục đích nêu ra.\n5. Sự đồng ý c ủa chủ thể dữ liệu phải được thể hi ện ở một định dạng có th ể\nđược in, sao chép b ằng v ăn b ản, bao g ồm c ả d ưới d ạng điện t ử ho ặc định d ạng\nkiểm chứng được.\n6. Sự im l ặng hoặc không ph ản hồi của chủ thể dữ liệu không được coi là s ự\nđồng ý.\n7. Chủ thể dữ liệu có thể đồng ý một phần hoặc với điều kiện kèm theo.\n8. Đối v ới x ử lý d ữ li ệu cá nhân nh ạy c ảm, chủ th ể dữ liệu ph ải được thông\nbáo rằng dữ liệu cần xử lý là dữ liệu cá nhân nhạy cảm.\n9. Sự đồng ý của chủ thể dữ liệu có hiệu lực cho tới khi chủ thể dữ liệu có quyết\nđịnh khác hoặc khi cơ quan nhà nước có thẩm quyền yêu cầu b",
+    "latency_ms": 0.3,
+    "error": null
+  },
+  {
+    "query_id": "Q07",
+    "split": "dev",
+    "question": "Theo Nghị định 13/2023, im lặng hoặc không phản hồi có được coi là đồng ý không?",
+    "config": "bm25",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 10,
+        "evidence": "6. Sự im l ặng hoặc không ph ản hồi của chủ thể dữ liệu không được coi là s ự\nđồng ý."
+      }
+    ],
+    "top3": [
+      {
+        "id": "nd13_2023-p0010-fixed-cfd16b72f7ba22ef",
+        "rank": 1,
+        "score": 29.16676,
+        "source_id": "nd13_2023",
+        "page": 10,
+        "hit": true,
+        "text": "12 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\n4. Sự đồng ý ph ải được tiến hành cho cùng m ột mục đích. Khi có nhi ều mục\nđích, Bên Ki ểm soát d ữ liệu cá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân li ệt\nkê các mục đích để chủ thể dữ liệu đồng ý với một hoặc nhiều mục đích nêu ra.\n5. Sự đồng ý c ủa chủ thể dữ liệu phải được thể hi ện ở một định dạng có th ể\nđược in, sao chép b ằng v ăn b ản, bao g ồm c ả d ưới d ạng điện t ử ho ặc định d ạng\nkiểm chứng được.\n6. Sự im l ặng hoặc không ph ản hồi của chủ thể dữ liệu không được coi là s ự\nđồng ý.\n7. Chủ thể dữ liệu có thể đồng ý một phần hoặc với điều kiện kèm theo.\n8. Đối v ới x ử lý d ữ li ệu cá nhân nh ạy c ảm, chủ th ể dữ liệu ph ải được thông\nbáo rằng dữ liệu cần xử lý là dữ liệu cá nhân nhạy cảm.\n9. Sự đồng ý của chủ thể dữ liệu có hiệu lực cho tới khi chủ thể dữ liệu có quyết\nđịnh khác hoặc khi cơ quan nhà nước có thẩm quyền yêu cầu b"
+      },
+      {
+        "id": "nd13_2023-p0016-fixed-4194921a5bbaa069",
+        "rank": 2,
+        "score": 22.08581,
+        "source_id": "nd13_2023",
+        "page": 16,
+        "hit": false,
+        "text": "liệu cá nhân của người bị tuyên bố mất tích, đã chết\n1. Việc xử lý dữ liệu cá nhân liên quan đến dữ liệu cá nhân của người bị tuyên\nbố mất tích, người đã chết phải được sự đồng ý của vợ, chồng hoặc con thành niên\ncủa người đó, trường hợp không có nh ững người này thì ph ải được sự đồng ý c ủa\ncha, mẹ của người bị tuyên bố mất tích, người đã chết, trừ trường hợp quy định tại\nĐiều 17 và Điều 18 Nghị định này.\n2. Trường hợp không có tất cả những người được nêu tại khoản 1 Điều này thì\nđược coi là không có sự đồng ý.\nĐiều 20. Xử lý dữ liệu cá nhân của trẻ em\n1. Xử lý d ữ liệu cá nhân c ủa trẻ em luôn được thực hiện theo nguyên t ắc bảo\nvệ các quyền và vì lợi ích tốt nhất của trẻ em."
+      },
+      {
+        "id": "nd13_2023-p0014-fixed-40696bf6921ffcb0",
+        "rank": 3,
+        "score": 18.62506,
+        "source_id": "nd13_2023",
+        "page": 14,
+        "hit": false,
+        "text": "êu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát\nvà xử lý dữ liệu cá nhân xóa dữ liệu cá nhân của mình trong các trường hợp sau:\na) Nh ận th ấy không còn c ần thi ết cho m ục đích thu th ập đã đồng ý và ch ấp\nnhận các thiệt hại có thể xảy ra khi yêu cầu xóa dữ liệu;\nb) Rút lại sự đồng ý;\nc) Phản đối việc xử lý dữ liệu và Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát\nvà xử lý dữ liệu cá nhân không có lý do chính đáng để tiếp tục xử lý;\nd) Dữ liệu cá nhân được xử lý không đúng với mục đích đã đồng ý ho ặc việc\nxử lý dữ liệu cá nhân là vi phạm quy định của pháp luật;\nđ) Dữ liệu cá nhân phải xóa theo quy định của pháp luật.\n2. Việc xóa dữ liệu sẽ không áp d ụng khi có đề nghị của chủ thể dữ liệu trong\ncác trường hợp:\na) Pháp luật quy định không cho phép xóa dữ liệu;\nb) Dữ liệu cá nhân được xử lý b ởi cơ quan nhà n ước có th ẩm quyền với mục\nđích phục vụ hoạt động của cơ quan nhà nước theo"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "rr": 1.0,
+    "context_ids": [
+      "nd13_2023-p0010-fixed-cfd16b72f7ba22ef",
+      "nd13_2023-p0016-fixed-4194921a5bbaa069",
+      "nd13_2023-p0014-fixed-40696bf6921ffcb0"
+    ],
+    "context_chars": 2700,
+    "context_hit": true,
+    "context": "[nd13_2023-p0010-fixed-cfd16b72f7ba22ef] (nguồn: nd13_2023, trang 10)\n12 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\n4. Sự đồng ý ph ải được tiến hành cho cùng m ột mục đích. Khi có nhi ều mục\nđích, Bên Ki ểm soát d ữ liệu cá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân li ệt\nkê các mục đích để chủ thể dữ liệu đồng ý với một hoặc nhiều mục đích nêu ra.\n5. Sự đồng ý c ủa chủ thể dữ liệu phải được thể hi ện ở một định dạng có th ể\nđược in, sao chép b ằng v ăn b ản, bao g ồm c ả d ưới d ạng điện t ử ho ặc định d ạng\nkiểm chứng được.\n6. Sự im l ặng hoặc không ph ản hồi của chủ thể dữ liệu không được coi là s ự\nđồng ý.\n7. Chủ thể dữ liệu có thể đồng ý một phần hoặc với điều kiện kèm theo.\n8. Đối v ới x ử lý d ữ li ệu cá nhân nh ạy c ảm, chủ th ể dữ liệu ph ải được thông\nbáo rằng dữ liệu cần xử lý là dữ liệu cá nhân nhạy cảm.\n9. Sự đồng ý của chủ thể dữ liệu có hiệu lực cho tới khi chủ thể dữ liệu có quyết\nđịnh khác hoặc khi cơ quan nhà nước có thẩm quyền yêu cầu b\n\n[nd13_2023-p0016-fixed-4194921a5bbaa069] (nguồn: nd13_2023, trang 16)\nliệu cá nhân của người bị tuyên bố mất tích, đã chết\n1. Việc xử lý dữ liệu cá nhân liên quan đến dữ liệu cá nhân của người bị tuyên\nbố mất tích, người đã chết phải được sự đồng ý của vợ, chồng hoặc con thành niên\ncủa người đó, trường hợp không có nh ững người này thì ph ải được sự đồng ý c ủa\ncha, mẹ của người bị tuyên bố mất tích, người đã chết, trừ trường hợp quy định tại\nĐiều 17 và Điều 18 Nghị định này.\n2. Trường hợp không có tất cả những người được nêu tại khoản 1 Điều này thì\nđược coi là không có sự đồng ý.\nĐiều 20. Xử lý dữ liệu cá nhân của trẻ em\n1. Xử lý d ữ liệu cá nhân c ủa trẻ em luôn được thực hiện theo nguyên t ắc bảo\nvệ các quyền và vì lợi ích tốt nhất của trẻ em.\n\n[nd13_2023-p0014-fixed-40696bf6921ffcb0] (nguồn: nd13_2023, trang 14)\nêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát\nvà xử lý dữ liệu cá nhân xóa dữ liệu cá nhân của mình trong các trường hợp sau:\na) Nh ận th ấy không còn c ần thi ết cho m ục đích thu th ập đã đồng ý và ch ấp\nnhận các thiệt hại có thể xảy ra khi yêu cầu xóa dữ liệu;\nb) Rút lại sự đồng ý;\nc) Phản đối việc xử lý dữ liệu và Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát\nvà xử lý dữ liệu cá nhân không có lý do chính đáng để tiếp tục xử lý;\nd) Dữ liệu cá nhân được xử lý không đúng với mục đích đã đồng ý ho ặc việc\nxử lý dữ liệu cá nhân là vi phạm quy định của pháp luật;\nđ) Dữ liệu cá nhân phải xóa theo quy định của pháp luật.\n2. Việc xóa dữ liệu sẽ không áp d ụng khi có đề nghị của chủ thể dữ liệu trong\ncác trường hợp:\na) Pháp luật quy định không cho phép xóa dữ liệu;\nb) Dữ liệu cá nhân được xử lý b ởi cơ quan nhà n ước có th ẩm quyền với mục\nđích phục vụ hoạt động của cơ quan nhà nước theo",
+    "latency_ms": 0.3,
+    "error": null
+  },
+  {
+    "query_id": "Q08",
+    "split": "dev",
+    "question": "Trong Nghị định 13/2023 tiếng Việt, Bên Kiểm soát dữ liệu phải thông báo vi phạm cho cơ quan nào, trong thời hạn nào và nếu thông báo muộn thì sao?",
+    "config": "bm25",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 18,
+        "evidence": "1. Tr ường h ợp phát hi ện x ảy ra vi ph ạm quy định b ảo v ệ d ữ li ệu cá nhân,\nBên Ki ểm soát d ữ li ệu cá nhân, Bên Ki ểm soát và x ử lý d ữ li ệu cá nhân thông\nbáo cho B ộ Công an (C ục An ninh m ạng và phòng, ch ống t ội ph ạm s ử d ụng\ncông nghệ cao) ch ậm nhất 72 gi ờ sau khi x ảy ra hành vi vi ph ạm theo M ẫu số 03\ntại Ph ụ l ục c ủa Ngh ị định này. Tr ường h ợp thông báo sau 72 gi ờ thì ph ải kèm\ntheo lý do thông báo ch ậm, muộn."
+      }
+    ],
+    "top3": [
+      {
+        "id": "nd13_2023-p0013-fixed-851b171fec729587",
+        "rank": 1,
+        "score": 30.64509,
+        "source_id": "nd13_2023",
+        "page": 13,
+        "hit": false,
+        "text": "ấp dữ liệu cá nhân theo yêu cầu;\nb) Trường hợp dữ liệu cá nhân được yêu c ầu không thuộc thẩm quyền thì Bên\nKiểm soát dữ liệu cá nhân, Bên Ki ểm soát và xử lý dữ liệu cá nhân nhận được yêu\ncầu phải thông báo và h ướng dẫn tổ chức, cá nhân yêu c ầu đến cơ quan có th ẩm\nquyền hoặc thông báo rõ ràng việc không thể cung cấp dữ liệu cá nhân.\n9. Giải quyết yêu cầu cung cấp dữ liệu cá nhân\nKhi nhận được yêu cầu cung cấp dữ liệu cá nhân hợp lệ, Bên Kiểm soát dữ liệu\ncá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân có trách nhi ệm cung c ấp dữ liệu\ncá nhân thông báo v ề thời hạn, địa điểm, hình th ức cung c ấp dữ liệu cá nhân; chi\nphí thực tế để in, sao, ch ụp, gửi thông tin qua d ịch vụ bưu chính, fax (n ếu có) và\nphương th ức, th ời h ạn thanh toán; th ực hi ện vi ệc cung c ấp d ữ li ệu cá nhân theo\ntrình tự, thủ tục quy định tại Điều này.\nĐiều 15. Chỉnh sửa dữ liệu cá nhân\n1. Chủ thể dữ liệu"
+      },
+      {
+        "id": "nd13_2023-p0011-fixed-ea85e66c3c1537be",
+        "rank": 2,
+        "score": 28.41474,
+        "source_id": "nd13_2023",
+        "page": 11,
+        "hit": false,
+        "text": "CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023 13\n\n4. Sau khi th ực hi ện quy định t ại kho ản 2 Điều này, Bên Ki ểm soát d ữ li ệu,\nBên Xử lý dữ liệu, Bên Kiểm soát và x ử lý dữ liệu, Bên thứ ba phải ngừng và yêu\ncầu các t ổ chức, cá nhân có liên quan ng ừng xử lý d ữ liệu của chủ thể dữ liệu đã\nrút lại sự đồng ý.\nĐiều 13. Thông báo xử lý dữ liệu cá nhân\n1. Vi ệc thông báo được th ực hi ện m ột l ần tr ước khi ti ến hành đối v ới ho ạt\nđộng xử lý dữ liệu cá nhân.\n2. Nội dung thông báo cho chủ thể dữ liệu về xử lý dữ liệu cá nhân:\na) Mục đích xử lý;\nb) Loại dữ liệu cá nhân được sử dụng có liên quan tới mục đích xử lý quy định\ntại điểm a khoản 2 Điều này;\nc) Cách thức xử lý;\nd) Thông tin v ề các tổ chức, cá nhân khác có liên quan t ới mục đích xử lý quy\nđịnh tại điểm a khoản 2 Điều này;\nđ) Hậu quả, thiệt hại không mong muốn có khả năng xảy ra;\ne) Thời gian bắt đầu, thời gian kết thúc xử lý dữ liệu."
+      },
+      {
+        "id": "nd13_2023-p0011-fixed-700998245558d338",
+        "rank": 3,
+        "score": 28.32685,
+        "source_id": "nd13_2023",
+        "page": 11,
+        "hit": false,
+        "text": "uy\nđịnh tại điểm a khoản 2 Điều này;\nđ) Hậu quả, thiệt hại không mong muốn có khả năng xảy ra;\ne) Thời gian bắt đầu, thời gian kết thúc xử lý dữ liệu.\n3. Việc thông báo cho ch ủ thể dữ liệu phải được thể hiện ở một định dạng có\nthể được in, sao chép b ằng văn bản, bao gồm cả dưới dạng điện tử hoặc định dạng\nkiểm chứng được.\n4. Bên Ki ểm soát d ữ li ệu cá nhân, Bên Ki ểm soát và x ử lý d ữ li ệu cá nhân\nkhông cần thực hiện quy định tại khoản 1 Điều này trong các trường hợp sau:\na) Chủ thể dữ liệu đã biết rõ và đồng ý toàn bộ với nội dung quy định tại khoản 1\nvà kho ản 2 Điều này tr ước khi đồng ý cho Bên Ki ểm soát d ữ li ệu cá nhân, Bên\nKiểm soát và xử lý dữ liệu cá nhân tiến hành thu thập dữ liệu cá nhân, phù hợp với\ncác quy định tại Điều 9 Nghị định này;\nb) Dữ liệu cá nhân được xử lý b ởi cơ quan nhà n ước có th ẩm quyền với mục\nđích phục vụ hoạt động của cơ quan nhà nước theo quy định"
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "rr": 0.0,
+    "context_ids": [
+      "nd13_2023-p0013-fixed-851b171fec729587",
+      "nd13_2023-p0011-fixed-ea85e66c3c1537be",
+      "nd13_2023-p0011-fixed-700998245558d338"
+    ],
+    "context_chars": 2914,
+    "context_hit": false,
+    "context": "[nd13_2023-p0013-fixed-851b171fec729587] (nguồn: nd13_2023, trang 13)\nấp dữ liệu cá nhân theo yêu cầu;\nb) Trường hợp dữ liệu cá nhân được yêu c ầu không thuộc thẩm quyền thì Bên\nKiểm soát dữ liệu cá nhân, Bên Ki ểm soát và xử lý dữ liệu cá nhân nhận được yêu\ncầu phải thông báo và h ướng dẫn tổ chức, cá nhân yêu c ầu đến cơ quan có th ẩm\nquyền hoặc thông báo rõ ràng việc không thể cung cấp dữ liệu cá nhân.\n9. Giải quyết yêu cầu cung cấp dữ liệu cá nhân\nKhi nhận được yêu cầu cung cấp dữ liệu cá nhân hợp lệ, Bên Kiểm soát dữ liệu\ncá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân có trách nhi ệm cung c ấp dữ liệu\ncá nhân thông báo v ề thời hạn, địa điểm, hình th ức cung c ấp dữ liệu cá nhân; chi\nphí thực tế để in, sao, ch ụp, gửi thông tin qua d ịch vụ bưu chính, fax (n ếu có) và\nphương th ức, th ời h ạn thanh toán; th ực hi ện vi ệc cung c ấp d ữ li ệu cá nhân theo\ntrình tự, thủ tục quy định tại Điều này.\nĐiều 15. Chỉnh sửa dữ liệu cá nhân\n1. Chủ thể dữ liệu\n\n[nd13_2023-p0011-fixed-ea85e66c3c1537be] (nguồn: nd13_2023, trang 11)\nCÔNG BÁO/Số 685 + 686/Ngày 30-4-2023 13\n\n4. Sau khi th ực hi ện quy định t ại kho ản 2 Điều này, Bên Ki ểm soát d ữ li ệu,\nBên Xử lý dữ liệu, Bên Kiểm soát và x ử lý dữ liệu, Bên thứ ba phải ngừng và yêu\ncầu các t ổ chức, cá nhân có liên quan ng ừng xử lý d ữ liệu của chủ thể dữ liệu đã\nrút lại sự đồng ý.\nĐiều 13. Thông báo xử lý dữ liệu cá nhân\n1. Vi ệc thông báo được th ực hi ện m ột l ần tr ước khi ti ến hành đối v ới ho ạt\nđộng xử lý dữ liệu cá nhân.\n2. Nội dung thông báo cho chủ thể dữ liệu về xử lý dữ liệu cá nhân:\na) Mục đích xử lý;\nb) Loại dữ liệu cá nhân được sử dụng có liên quan tới mục đích xử lý quy định\ntại điểm a khoản 2 Điều này;\nc) Cách thức xử lý;\nd) Thông tin v ề các tổ chức, cá nhân khác có liên quan t ới mục đích xử lý quy\nđịnh tại điểm a khoản 2 Điều này;\nđ) Hậu quả, thiệt hại không mong muốn có khả năng xảy ra;\ne) Thời gian bắt đầu, thời gian kết thúc xử lý dữ liệu.\n\n[nd13_2023-p0011-fixed-700998245558d338] (nguồn: nd13_2023, trang 11)\nuy\nđịnh tại điểm a khoản 2 Điều này;\nđ) Hậu quả, thiệt hại không mong muốn có khả năng xảy ra;\ne) Thời gian bắt đầu, thời gian kết thúc xử lý dữ liệu.\n3. Việc thông báo cho ch ủ thể dữ liệu phải được thể hiện ở một định dạng có\nthể được in, sao chép b ằng văn bản, bao gồm cả dưới dạng điện tử hoặc định dạng\nkiểm chứng được.\n4. Bên Ki ểm soát d ữ li ệu cá nhân, Bên Ki ểm soát và x ử lý d ữ li ệu cá nhân\nkhông cần thực hiện quy định tại khoản 1 Điều này trong các trường hợp sau:\na) Chủ thể dữ liệu đã biết rõ và đồng ý toàn bộ với nội dung quy định tại khoản 1\nvà kho ản 2 Điều này tr ước khi đồng ý cho Bên Ki ểm soát d ữ li ệu cá nhân, Bên\nKiểm soát và xử lý dữ liệu cá nhân tiến hành thu thập dữ liệu cá nhân, phù hợp với\ncác quy định tại Điều 9 Nghị định này;\nb) Dữ liệu cá nhân được xử lý b ởi cơ quan nhà n ước có th ẩm quyền với mục\nđích phục vụ hoạt động của cơ quan nhà nước theo quy định",
+    "latency_ms": 0.4,
+    "error": null
+  },
+  {
+    "query_id": "Q09",
+    "split": "dev",
+    "question": "Theo Nghị định 13/2023, các biện pháp bảo vệ dữ liệu cá nhân bắt đầu và kéo dài khi nào?",
+    "config": "bm25",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 23,
+        "evidence": "1. Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu và trong\nsuốt quá trình xử lý dữ liệu cá nhân."
+      }
+    ],
+    "top3": [
+      {
+        "id": "nd13_2023-p0023-fixed-ee6f23b174d0fa4f",
+        "rank": 1,
+        "score": 26.86878,
+        "source_id": "nd13_2023",
+        "page": 23,
+        "hit": true,
+        "text": "CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023 25\n\nMục 4\nBIỆN PHÁP, ĐIỀU KIỆN BẢO ĐẢM BẢO VỆ DỮ LIỆU CÁ NHÂN\n\nĐiều 26. Biện pháp bảo vệ dữ liệu cá nhân\n1. Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu và trong\nsuốt quá trình xử lý dữ liệu cá nhân.\n2. Các biện pháp bảo vệ dữ liệu cá nhân, bao gồm:\na) Biện pháp quản lý do tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá nhân\nthực hiện;\nb) Bi ện pháp k ỹ thu ật do t ổ ch ức, cá nhân có liên quan t ới x ử lý d ữ li ệu cá\nnhân thực hiện;\nc) Biện pháp do c ơ quan qu ản lý nhà n ước có th ẩm quyền thực hiện theo quy\nđịnh của Nghị định này và pháp luật có liên quan;\nd) Biện pháp điều tra, tố tụng do cơ quan nhà nước có thẩm quyền thực hiện;\nđ) Các biện pháp khác theo quy định của pháp luật.\nĐiều 27. Bảo vệ dữ liệu cá nhân cơ bản\n1. Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 Nghị định này.\n2. Xây d ựng, ban hành các quy đ"
+      },
+      {
+        "id": "nd13_2023-p0023-fixed-2b02c0cdd0f32d63",
+        "rank": 2,
+        "score": 18.41313,
+        "source_id": "nd13_2023",
+        "page": 23,
+        "hit": false,
+        "text": "uật.\nĐiều 27. Bảo vệ dữ liệu cá nhân cơ bản\n1. Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 Nghị định này.\n2. Xây d ựng, ban hành các quy định về bảo vệ dữ liệu cá nhân, nêu rõ nh ững\nviệc cần thực hiện theo quy định của Nghị định này.\n3. Khuyến khích áp d ụng các tiêu chu ẩn bảo vệ dữ liệu cá nhân phù h ợp với\nlĩnh vực, ngành nghề, hoạt động có liên quan tới xử lý dữ liệu cá nhân.\n4. Kiểm tra an ninh m ạng đối với hệ thống và phương tiện, thiết bị phục vụ xử\nlý d ữ li ệu cá nhân tr ước khi x ử lý, xóa không th ể khôi ph ục được ho ặc h ủy các\nthiết bị chứa dữ liệu cá nhân.\nĐiều 28. Bảo vệ dữ liệu cá nhân nhạy cảm\n1. Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 và Điều 27 Nghị\nđịnh này.\n2. Chỉ định bộ phận có chức năng bảo vệ dữ liệu cá nhân, chỉ định nhân sự phụ\ntrách bảo vệ dữ liệu cá nhân và trao đổi thông tin về bộ phận và cá nhân ph ụ trách"
+      },
+      {
+        "id": "nd13_2023-p0011-fixed-ea85e66c3c1537be",
+        "rank": 3,
+        "score": 17.95019,
+        "source_id": "nd13_2023",
+        "page": 11,
+        "hit": false,
+        "text": "CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023 13\n\n4. Sau khi th ực hi ện quy định t ại kho ản 2 Điều này, Bên Ki ểm soát d ữ li ệu,\nBên Xử lý dữ liệu, Bên Kiểm soát và x ử lý dữ liệu, Bên thứ ba phải ngừng và yêu\ncầu các t ổ chức, cá nhân có liên quan ng ừng xử lý d ữ liệu của chủ thể dữ liệu đã\nrút lại sự đồng ý.\nĐiều 13. Thông báo xử lý dữ liệu cá nhân\n1. Vi ệc thông báo được th ực hi ện m ột l ần tr ước khi ti ến hành đối v ới ho ạt\nđộng xử lý dữ liệu cá nhân.\n2. Nội dung thông báo cho chủ thể dữ liệu về xử lý dữ liệu cá nhân:\na) Mục đích xử lý;\nb) Loại dữ liệu cá nhân được sử dụng có liên quan tới mục đích xử lý quy định\ntại điểm a khoản 2 Điều này;\nc) Cách thức xử lý;\nd) Thông tin v ề các tổ chức, cá nhân khác có liên quan t ới mục đích xử lý quy\nđịnh tại điểm a khoản 2 Điều này;\nđ) Hậu quả, thiệt hại không mong muốn có khả năng xảy ra;\ne) Thời gian bắt đầu, thời gian kết thúc xử lý dữ liệu."
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "rr": 1.0,
+    "context_ids": [
+      "nd13_2023-p0023-fixed-ee6f23b174d0fa4f",
+      "nd13_2023-p0023-fixed-2b02c0cdd0f32d63",
+      "nd13_2023-p0011-fixed-ea85e66c3c1537be"
+    ],
+    "context_chars": 2893,
+    "context_hit": true,
+    "context": "[nd13_2023-p0023-fixed-ee6f23b174d0fa4f] (nguồn: nd13_2023, trang 23)\nCÔNG BÁO/Số 685 + 686/Ngày 30-4-2023 25\n\nMục 4\nBIỆN PHÁP, ĐIỀU KIỆN BẢO ĐẢM BẢO VỆ DỮ LIỆU CÁ NHÂN\n\nĐiều 26. Biện pháp bảo vệ dữ liệu cá nhân\n1. Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu và trong\nsuốt quá trình xử lý dữ liệu cá nhân.\n2. Các biện pháp bảo vệ dữ liệu cá nhân, bao gồm:\na) Biện pháp quản lý do tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá nhân\nthực hiện;\nb) Bi ện pháp k ỹ thu ật do t ổ ch ức, cá nhân có liên quan t ới x ử lý d ữ li ệu cá\nnhân thực hiện;\nc) Biện pháp do c ơ quan qu ản lý nhà n ước có th ẩm quyền thực hiện theo quy\nđịnh của Nghị định này và pháp luật có liên quan;\nd) Biện pháp điều tra, tố tụng do cơ quan nhà nước có thẩm quyền thực hiện;\nđ) Các biện pháp khác theo quy định của pháp luật.\nĐiều 27. Bảo vệ dữ liệu cá nhân cơ bản\n1. Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 Nghị định này.\n2. Xây d ựng, ban hành các quy đ\n\n[nd13_2023-p0023-fixed-2b02c0cdd0f32d63] (nguồn: nd13_2023, trang 23)\nuật.\nĐiều 27. Bảo vệ dữ liệu cá nhân cơ bản\n1. Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 Nghị định này.\n2. Xây d ựng, ban hành các quy định về bảo vệ dữ liệu cá nhân, nêu rõ nh ững\nviệc cần thực hiện theo quy định của Nghị định này.\n3. Khuyến khích áp d ụng các tiêu chu ẩn bảo vệ dữ liệu cá nhân phù h ợp với\nlĩnh vực, ngành nghề, hoạt động có liên quan tới xử lý dữ liệu cá nhân.\n4. Kiểm tra an ninh m ạng đối với hệ thống và phương tiện, thiết bị phục vụ xử\nlý d ữ li ệu cá nhân tr ước khi x ử lý, xóa không th ể khôi ph ục được ho ặc h ủy các\nthiết bị chứa dữ liệu cá nhân.\nĐiều 28. Bảo vệ dữ liệu cá nhân nhạy cảm\n1. Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 và Điều 27 Nghị\nđịnh này.\n2. Chỉ định bộ phận có chức năng bảo vệ dữ liệu cá nhân, chỉ định nhân sự phụ\ntrách bảo vệ dữ liệu cá nhân và trao đổi thông tin về bộ phận và cá nhân ph ụ trách\n\n[nd13_2023-p0011-fixed-ea85e66c3c1537be] (nguồn: nd13_2023, trang 11)\nCÔNG BÁO/Số 685 + 686/Ngày 30-4-2023 13\n\n4. Sau khi th ực hi ện quy định t ại kho ản 2 Điều này, Bên Ki ểm soát d ữ li ệu,\nBên Xử lý dữ liệu, Bên Kiểm soát và x ử lý dữ liệu, Bên thứ ba phải ngừng và yêu\ncầu các t ổ chức, cá nhân có liên quan ng ừng xử lý d ữ liệu của chủ thể dữ liệu đã\nrút lại sự đồng ý.\nĐiều 13. Thông báo xử lý dữ liệu cá nhân\n1. Vi ệc thông báo được th ực hi ện m ột l ần tr ước khi ti ến hành đối v ới ho ạt\nđộng xử lý dữ liệu cá nhân.\n2. Nội dung thông báo cho chủ thể dữ liệu về xử lý dữ liệu cá nhân:\na) Mục đích xử lý;\nb) Loại dữ liệu cá nhân được sử dụng có liên quan tới mục đích xử lý quy định\ntại điểm a khoản 2 Điều này;\nc) Cách thức xử lý;\nd) Thông tin v ề các tổ chức, cá nhân khác có liên quan t ới mục đích xử lý quy\nđịnh tại điểm a khoản 2 Điều này;\nđ) Hậu quả, thiệt hại không mong muốn có khả năng xảy ra;\ne) Thời gian bắt đầu, thời gian kết thúc xử lý dữ liệu.",
+    "latency_ms": 0.4,
+    "error": null
+  },
+  {
+    "query_id": "Q10",
+    "split": "dev",
+    "question": "Ngày bắt đầu hiệu lực được ghi tại Điều 43 của Nghị định 13/2023 là ngày nào?",
+    "config": "bm25",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 29,
+        "evidence": "1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023."
+      }
+    ],
+    "top3": [
+      {
+        "id": "nd13_2023-p0029-fixed-6741a33d64bbbe2e",
+        "rank": 1,
+        "score": 25.1856,
+        "source_id": "nd13_2023",
+        "page": 29,
+        "hit": true,
+        "text": "CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023 31\n\n3. Thông báo k ịp th ời cho B ộ Công an v ề nh ững vi ph ạm liên quan t ới ho ạt\nđộng bảo vệ dữ liệu cá nhân.\n4. Phối hợp với Bộ Công an trong xử lý những vi phạm liên quan tới hoạt động\nbảo vệ dữ liệu cá nhân.\n\nChương IV\nĐIỀU KHOẢN THI HÀNH\n\nĐiều 43. Hiệu lực thi hành\n1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023.\n2. Các doanh nghi ệp siêu nh ỏ, doanh nghi ệp nh ỏ, doanh nghi ệp v ừa, doanh\nnghiệp khởi nghiệp được quyền lựa chọn miễn trừ quy định về chỉ định cá nhân và\nbộ ph ận b ảo v ệ d ữ li ệu cá nhân trong th ời gian 02 n ăm đầu k ể t ừ khi thành l ập\ndoanh nghiệp.\n3. Các doanh nghi ệp siêu nh ỏ, doanh nghi ệp nh ỏ, doanh nghi ệp v ừa, doanh\nnghiệp khởi nghiệp trực tiếp kinh doanh hoạt động xử lý dữ liệu cá nhân không áp\ndụng quy định tại khoản 2 Điều này.\nĐiều 44. Trách nhiệm thi hành\n1. Bộ tr ưởng B ộ Công an đôn đốc, ki"
+      },
+      {
+        "id": "nd13_2023-p0011-fixed-ea85e66c3c1537be",
+        "rank": 2,
+        "score": 18.00951,
+        "source_id": "nd13_2023",
+        "page": 11,
+        "hit": false,
+        "text": "CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023 13\n\n4. Sau khi th ực hi ện quy định t ại kho ản 2 Điều này, Bên Ki ểm soát d ữ li ệu,\nBên Xử lý dữ liệu, Bên Kiểm soát và x ử lý dữ liệu, Bên thứ ba phải ngừng và yêu\ncầu các t ổ chức, cá nhân có liên quan ng ừng xử lý d ữ liệu của chủ thể dữ liệu đã\nrút lại sự đồng ý.\nĐiều 13. Thông báo xử lý dữ liệu cá nhân\n1. Vi ệc thông báo được th ực hi ện m ột l ần tr ước khi ti ến hành đối v ới ho ạt\nđộng xử lý dữ liệu cá nhân.\n2. Nội dung thông báo cho chủ thể dữ liệu về xử lý dữ liệu cá nhân:\na) Mục đích xử lý;\nb) Loại dữ liệu cá nhân được sử dụng có liên quan tới mục đích xử lý quy định\ntại điểm a khoản 2 Điều này;\nc) Cách thức xử lý;\nd) Thông tin v ề các tổ chức, cá nhân khác có liên quan t ới mục đích xử lý quy\nđịnh tại điểm a khoản 2 Điều này;\nđ) Hậu quả, thiệt hại không mong muốn có khả năng xảy ra;\ne) Thời gian bắt đầu, thời gian kết thúc xử lý dữ liệu."
+      },
+      {
+        "id": "nd13_2023-p0023-fixed-ee6f23b174d0fa4f",
+        "rank": 3,
+        "score": 16.18139,
+        "source_id": "nd13_2023",
+        "page": 23,
+        "hit": false,
+        "text": "CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023 25\n\nMục 4\nBIỆN PHÁP, ĐIỀU KIỆN BẢO ĐẢM BẢO VỆ DỮ LIỆU CÁ NHÂN\n\nĐiều 26. Biện pháp bảo vệ dữ liệu cá nhân\n1. Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu và trong\nsuốt quá trình xử lý dữ liệu cá nhân.\n2. Các biện pháp bảo vệ dữ liệu cá nhân, bao gồm:\na) Biện pháp quản lý do tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá nhân\nthực hiện;\nb) Bi ện pháp k ỹ thu ật do t ổ ch ức, cá nhân có liên quan t ới x ử lý d ữ li ệu cá\nnhân thực hiện;\nc) Biện pháp do c ơ quan qu ản lý nhà n ước có th ẩm quyền thực hiện theo quy\nđịnh của Nghị định này và pháp luật có liên quan;\nd) Biện pháp điều tra, tố tụng do cơ quan nhà nước có thẩm quyền thực hiện;\nđ) Các biện pháp khác theo quy định của pháp luật.\nĐiều 27. Bảo vệ dữ liệu cá nhân cơ bản\n1. Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 Nghị định này.\n2. Xây d ựng, ban hành các quy đ"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "rr": 1.0,
+    "context_ids": [
+      "nd13_2023-p0029-fixed-6741a33d64bbbe2e",
+      "nd13_2023-p0011-fixed-ea85e66c3c1537be",
+      "nd13_2023-p0023-fixed-ee6f23b174d0fa4f"
+    ],
+    "context_chars": 2914,
+    "context_hit": true,
+    "context": "[nd13_2023-p0029-fixed-6741a33d64bbbe2e] (nguồn: nd13_2023, trang 29)\nCÔNG BÁO/Số 685 + 686/Ngày 30-4-2023 31\n\n3. Thông báo k ịp th ời cho B ộ Công an v ề nh ững vi ph ạm liên quan t ới ho ạt\nđộng bảo vệ dữ liệu cá nhân.\n4. Phối hợp với Bộ Công an trong xử lý những vi phạm liên quan tới hoạt động\nbảo vệ dữ liệu cá nhân.\n\nChương IV\nĐIỀU KHOẢN THI HÀNH\n\nĐiều 43. Hiệu lực thi hành\n1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023.\n2. Các doanh nghi ệp siêu nh ỏ, doanh nghi ệp nh ỏ, doanh nghi ệp v ừa, doanh\nnghiệp khởi nghiệp được quyền lựa chọn miễn trừ quy định về chỉ định cá nhân và\nbộ ph ận b ảo v ệ d ữ li ệu cá nhân trong th ời gian 02 n ăm đầu k ể t ừ khi thành l ập\ndoanh nghiệp.\n3. Các doanh nghi ệp siêu nh ỏ, doanh nghi ệp nh ỏ, doanh nghi ệp v ừa, doanh\nnghiệp khởi nghiệp trực tiếp kinh doanh hoạt động xử lý dữ liệu cá nhân không áp\ndụng quy định tại khoản 2 Điều này.\nĐiều 44. Trách nhiệm thi hành\n1. Bộ tr ưởng B ộ Công an đôn đốc, ki\n\n[nd13_2023-p0011-fixed-ea85e66c3c1537be] (nguồn: nd13_2023, trang 11)\nCÔNG BÁO/Số 685 + 686/Ngày 30-4-2023 13\n\n4. Sau khi th ực hi ện quy định t ại kho ản 2 Điều này, Bên Ki ểm soát d ữ li ệu,\nBên Xử lý dữ liệu, Bên Kiểm soát và x ử lý dữ liệu, Bên thứ ba phải ngừng và yêu\ncầu các t ổ chức, cá nhân có liên quan ng ừng xử lý d ữ liệu của chủ thể dữ liệu đã\nrút lại sự đồng ý.\nĐiều 13. Thông báo xử lý dữ liệu cá nhân\n1. Vi ệc thông báo được th ực hi ện m ột l ần tr ước khi ti ến hành đối v ới ho ạt\nđộng xử lý dữ liệu cá nhân.\n2. Nội dung thông báo cho chủ thể dữ liệu về xử lý dữ liệu cá nhân:\na) Mục đích xử lý;\nb) Loại dữ liệu cá nhân được sử dụng có liên quan tới mục đích xử lý quy định\ntại điểm a khoản 2 Điều này;\nc) Cách thức xử lý;\nd) Thông tin v ề các tổ chức, cá nhân khác có liên quan t ới mục đích xử lý quy\nđịnh tại điểm a khoản 2 Điều này;\nđ) Hậu quả, thiệt hại không mong muốn có khả năng xảy ra;\ne) Thời gian bắt đầu, thời gian kết thúc xử lý dữ liệu.\n\n[nd13_2023-p0023-fixed-ee6f23b174d0fa4f] (nguồn: nd13_2023, trang 23)\nCÔNG BÁO/Số 685 + 686/Ngày 30-4-2023 25\n\nMục 4\nBIỆN PHÁP, ĐIỀU KIỆN BẢO ĐẢM BẢO VỆ DỮ LIỆU CÁ NHÂN\n\nĐiều 26. Biện pháp bảo vệ dữ liệu cá nhân\n1. Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu và trong\nsuốt quá trình xử lý dữ liệu cá nhân.\n2. Các biện pháp bảo vệ dữ liệu cá nhân, bao gồm:\na) Biện pháp quản lý do tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá nhân\nthực hiện;\nb) Bi ện pháp k ỹ thu ật do t ổ ch ức, cá nhân có liên quan t ới x ử lý d ữ li ệu cá\nnhân thực hiện;\nc) Biện pháp do c ơ quan qu ản lý nhà n ước có th ẩm quyền thực hiện theo quy\nđịnh của Nghị định này và pháp luật có liên quan;\nd) Biện pháp điều tra, tố tụng do cơ quan nhà nước có thẩm quyền thực hiện;\nđ) Các biện pháp khác theo quy định của pháp luật.\nĐiều 27. Bảo vệ dữ liệu cá nhân cơ bản\n1. Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 Nghị định này.\n2. Xây d ựng, ban hành các quy đ",
+    "latency_ms": 0.2,
+    "error": null
+  },
+  {
+    "query_id": "Q11",
+    "split": "dev",
+    "question": "In the English paper Attention Is All You Need, how many identical layers does the encoder contain?",
+    "config": "bm25",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 3,
+        "evidence": "Encoder: The encoder is composed of a stack of N = 6 identical layers."
+      }
+    ],
+    "top3": [
+      {
+        "id": "attention_2017-p0001-fixed-d44dc19c80fab5b0",
+        "rank": 1,
+        "score": 30.19949,
+        "source_id": "attention_2017",
+        "page": 1,
+        "hit": false,
+        "text": "Provided proper attribution is provided, Google hereby grants permission to\nreproduce the tables and figures in this paper solely for use in journalistic or\nscholarly works.\nAttention Is All You Need\nAshish Vaswani∗\nGoogle Brain\navaswani@google.com\nNoam Shazeer∗\nGoogle Brain\nnoam@google.com\nNiki Parmar∗\nGoogle Research\nnikip@google.com\nJakob Uszkoreit∗\nGoogle Research\nusz@google.com\nLlion Jones∗\nGoogle Research\nllion@google.com\nAidan N. Gomez∗ †\nUniversity of Toronto\naidan@cs.toronto.edu\nŁukasz Kaiser∗\nGoogle Brain\nlukaszkaiser@google.com\nIllia Polosukhin∗ ‡\nillia.polosukhin@gmail.com\nAbstract\nThe dominant sequence transduction models are based on complex recurrent or\nconvolutional neural networks that include an encoder and a decoder. The best\nperforming models also connect the encoder and decoder through an attention\nmechanism. We propose a new simple network architecture, the Transfor"
+      },
+      {
+        "id": "attention_2017-p0005-fixed-f8aee7b129d527c9",
+        "rank": 2,
+        "score": 26.66825,
+        "source_id": "attention_2017",
+        "page": 5,
+        "hit": false,
+        "text": "to all positions in the previous layer of the\nencoder.\n• Similarly, self-attention layers in the decoder allow each position in the decoder to attend to\nall positions in the decoder up to and including that position. We need to prevent leftward\ninformation flow in the decoder to preserve the auto-regressive property. We implement this\ninside of scaled dot-product attention by masking out (setting to −∞) all values in the input\nof the softmax which correspond to illegal connections. See Figure 2.\n3.3 Position-wise Feed-Forward Networks\nIn addition to attention sub-layers, each of the layers in our encoder and decoder contains a fully\nconnected feed-forward network, which is applied to each position separately and identically. This\nconsists of two linear transformations with a ReLU activation in between.\nFFN(x) = max(0, xW1 + b1)W2 + b2 (2)\nWhile the linear transformations are the same ac"
+      },
+      {
+        "id": "attention_2017-p0003-fixed-973cd5442a2f7f73",
+        "rank": 3,
+        "score": 26.48707,
+        "source_id": "attention_2017",
+        "page": 3,
+        "hit": true,
+        "text": "Figure 1: The Transformer - model architecture.\nThe Transformer follows this overall architecture using stacked self-attention and point-wise, fully\nconnected layers for both the encoder and decoder, shown in the left and right halves of Figure 1,\nrespectively.\n3.1 Encoder and Decoder Stacks\nEncoder: The encoder is composed of a stack of N = 6 identical layers. Each layer has two\nsub-layers. The first is a multi-head self-attention mechanism, and the second is a simple, position-\nwise fully connected feed-forward network. We employ a residual connection [11] around each of\nthe two sub-layers, followed by layer normalization [ 1]. That is, the output of each sub-layer is\nLayerNorm(x + Sublayer(x)), where Sublayer(x) is the function implemented by the sub-layer\nitself. To facilitate these residual connections, all sub-layers in the model, as well as the embedding\nlayers, produce outputs of"
+      }
+    ],
+    "hit1": false,
+    "hit3": true,
+    "rr": 0.3333333333333333,
+    "context_ids": [
+      "attention_2017-p0001-fixed-d44dc19c80fab5b0",
+      "attention_2017-p0005-fixed-f8aee7b129d527c9",
+      "attention_2017-p0003-fixed-973cd5442a2f7f73"
+    ],
+    "context_chars": 2940,
+    "context_hit": true,
+    "context": "[attention_2017-p0001-fixed-d44dc19c80fab5b0] (nguồn: attention_2017, trang 1)\nProvided proper attribution is provided, Google hereby grants permission to\nreproduce the tables and figures in this paper solely for use in journalistic or\nscholarly works.\nAttention Is All You Need\nAshish Vaswani∗\nGoogle Brain\navaswani@google.com\nNoam Shazeer∗\nGoogle Brain\nnoam@google.com\nNiki Parmar∗\nGoogle Research\nnikip@google.com\nJakob Uszkoreit∗\nGoogle Research\nusz@google.com\nLlion Jones∗\nGoogle Research\nllion@google.com\nAidan N. Gomez∗ †\nUniversity of Toronto\naidan@cs.toronto.edu\nŁukasz Kaiser∗\nGoogle Brain\nlukaszkaiser@google.com\nIllia Polosukhin∗ ‡\nillia.polosukhin@gmail.com\nAbstract\nThe dominant sequence transduction models are based on complex recurrent or\nconvolutional neural networks that include an encoder and a decoder. The best\nperforming models also connect the encoder and decoder through an attention\nmechanism. We propose a new simple network architecture, the Transfor\n\n[attention_2017-p0005-fixed-f8aee7b129d527c9] (nguồn: attention_2017, trang 5)\nto all positions in the previous layer of the\nencoder.\n• Similarly, self-attention layers in the decoder allow each position in the decoder to attend to\nall positions in the decoder up to and including that position. We need to prevent leftward\ninformation flow in the decoder to preserve the auto-regressive property. We implement this\ninside of scaled dot-product attention by masking out (setting to −∞) all values in the input\nof the softmax which correspond to illegal connections. See Figure 2.\n3.3 Position-wise Feed-Forward Networks\nIn addition to attention sub-layers, each of the layers in our encoder and decoder contains a fully\nconnected feed-forward network, which is applied to each position separately and identically. This\nconsists of two linear transformations with a ReLU activation in between.\nFFN(x) = max(0, xW1 + b1)W2 + b2 (2)\nWhile the linear transformations are the same ac\n\n[attention_2017-p0003-fixed-973cd5442a2f7f73] (nguồn: attention_2017, trang 3)\nFigure 1: The Transformer - model architecture.\nThe Transformer follows this overall architecture using stacked self-attention and point-wise, fully\nconnected layers for both the encoder and decoder, shown in the left and right halves of Figure 1,\nrespectively.\n3.1 Encoder and Decoder Stacks\nEncoder: The encoder is composed of a stack of N = 6 identical layers. Each layer has two\nsub-layers. The first is a multi-head self-attention mechanism, and the second is a simple, position-\nwise fully connected feed-forward network. We employ a residual connection [11] around each of\nthe two sub-layers, followed by layer normalization [ 1]. That is, the output of each sub-layer is\nLayerNorm(x + Sublayer(x)), where Sublayer(x) is the function implemented by the sub-layer\nitself. To facilitate these residual connections, all sub-layers in the model, as well as the embedding\nlayers, produce outputs of",
+    "latency_ms": 0.2,
+    "error": null
+  },
+  {
+    "query_id": "Q12",
+    "split": "dev",
+    "question": "In Attention Is All You Need, what does masking in the decoder ensure about the outputs a prediction may depend on?",
+    "config": "bm25",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 3,
+        "evidence": "This\nmasking, combined with fact that the output embeddings are offset by one position, ensures that the\npredictions for position i can depend only on the known outputs at positions less than i."
+      }
+    ],
+    "top3": [
+      {
+        "id": "attention_2017-p0003-fixed-6538c17aa23e8cfe",
+        "rank": 1,
+        "score": 35.87479,
+        "source_id": "attention_2017",
+        "page": 3,
+        "hit": true,
+        "text": "ed by the sub-layer\nitself. To facilitate these residual connections, all sub-layers in the model, as well as the embedding\nlayers, produce outputs of dimension dmodel = 512.\nDecoder: The decoder is also composed of a stack of N = 6identical layers. In addition to the two\nsub-layers in each encoder layer, the decoder inserts a third sub-layer, which performs multi-head\nattention over the output of the encoder stack. Similar to the encoder, we employ residual connections\naround each of the sub-layers, followed by layer normalization. We also modify the self-attention\nsub-layer in the decoder stack to prevent positions from attending to subsequent positions. This\nmasking, combined with fact that the output embeddings are offset by one position, ensures that the\npredictions for position i can depend only on the known outputs at positions less than i.\n3.2 Attention\nAn attention function can"
+      },
+      {
+        "id": "attention_2017-p0005-fixed-f8aee7b129d527c9",
+        "rank": 2,
+        "score": 31.2401,
+        "source_id": "attention_2017",
+        "page": 5,
+        "hit": false,
+        "text": "to all positions in the previous layer of the\nencoder.\n• Similarly, self-attention layers in the decoder allow each position in the decoder to attend to\nall positions in the decoder up to and including that position. We need to prevent leftward\ninformation flow in the decoder to preserve the auto-regressive property. We implement this\ninside of scaled dot-product attention by masking out (setting to −∞) all values in the input\nof the softmax which correspond to illegal connections. See Figure 2.\n3.3 Position-wise Feed-Forward Networks\nIn addition to attention sub-layers, each of the layers in our encoder and decoder contains a fully\nconnected feed-forward network, which is applied to each position separately and identically. This\nconsists of two linear transformations with a ReLU activation in between.\nFFN(x) = max(0, xW1 + b1)W2 + b2 (2)\nWhile the linear transformations are the same ac"
+      },
+      {
+        "id": "attention_2017-p0001-fixed-d44dc19c80fab5b0",
+        "rank": 3,
+        "score": 30.59281,
+        "source_id": "attention_2017",
+        "page": 1,
+        "hit": false,
+        "text": "Provided proper attribution is provided, Google hereby grants permission to\nreproduce the tables and figures in this paper solely for use in journalistic or\nscholarly works.\nAttention Is All You Need\nAshish Vaswani∗\nGoogle Brain\navaswani@google.com\nNoam Shazeer∗\nGoogle Brain\nnoam@google.com\nNiki Parmar∗\nGoogle Research\nnikip@google.com\nJakob Uszkoreit∗\nGoogle Research\nusz@google.com\nLlion Jones∗\nGoogle Research\nllion@google.com\nAidan N. Gomez∗ †\nUniversity of Toronto\naidan@cs.toronto.edu\nŁukasz Kaiser∗\nGoogle Brain\nlukaszkaiser@google.com\nIllia Polosukhin∗ ‡\nillia.polosukhin@gmail.com\nAbstract\nThe dominant sequence transduction models are based on complex recurrent or\nconvolutional neural networks that include an encoder and a decoder. The best\nperforming models also connect the encoder and decoder through an attention\nmechanism. We propose a new simple network architecture, the Transfor"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "rr": 1.0,
+    "context_ids": [
+      "attention_2017-p0003-fixed-6538c17aa23e8cfe",
+      "attention_2017-p0005-fixed-f8aee7b129d527c9",
+      "attention_2017-p0001-fixed-d44dc19c80fab5b0"
+    ],
+    "context_chars": 2939,
+    "context_hit": true,
+    "context": "[attention_2017-p0003-fixed-6538c17aa23e8cfe] (nguồn: attention_2017, trang 3)\ned by the sub-layer\nitself. To facilitate these residual connections, all sub-layers in the model, as well as the embedding\nlayers, produce outputs of dimension dmodel = 512.\nDecoder: The decoder is also composed of a stack of N = 6identical layers. In addition to the two\nsub-layers in each encoder layer, the decoder inserts a third sub-layer, which performs multi-head\nattention over the output of the encoder stack. Similar to the encoder, we employ residual connections\naround each of the sub-layers, followed by layer normalization. We also modify the self-attention\nsub-layer in the decoder stack to prevent positions from attending to subsequent positions. This\nmasking, combined with fact that the output embeddings are offset by one position, ensures that the\npredictions for position i can depend only on the known outputs at positions less than i.\n3.2 Attention\nAn attention function can\n\n[attention_2017-p0005-fixed-f8aee7b129d527c9] (nguồn: attention_2017, trang 5)\nto all positions in the previous layer of the\nencoder.\n• Similarly, self-attention layers in the decoder allow each position in the decoder to attend to\nall positions in the decoder up to and including that position. We need to prevent leftward\ninformation flow in the decoder to preserve the auto-regressive property. We implement this\ninside of scaled dot-product attention by masking out (setting to −∞) all values in the input\nof the softmax which correspond to illegal connections. See Figure 2.\n3.3 Position-wise Feed-Forward Networks\nIn addition to attention sub-layers, each of the layers in our encoder and decoder contains a fully\nconnected feed-forward network, which is applied to each position separately and identically. This\nconsists of two linear transformations with a ReLU activation in between.\nFFN(x) = max(0, xW1 + b1)W2 + b2 (2)\nWhile the linear transformations are the same ac\n\n[attention_2017-p0001-fixed-d44dc19c80fab5b0] (nguồn: attention_2017, trang 1)\nProvided proper attribution is provided, Google hereby grants permission to\nreproduce the tables and figures in this paper solely for use in journalistic or\nscholarly works.\nAttention Is All You Need\nAshish Vaswani∗\nGoogle Brain\navaswani@google.com\nNoam Shazeer∗\nGoogle Brain\nnoam@google.com\nNiki Parmar∗\nGoogle Research\nnikip@google.com\nJakob Uszkoreit∗\nGoogle Research\nusz@google.com\nLlion Jones∗\nGoogle Research\nllion@google.com\nAidan N. Gomez∗ †\nUniversity of Toronto\naidan@cs.toronto.edu\nŁukasz Kaiser∗\nGoogle Brain\nlukaszkaiser@google.com\nIllia Polosukhin∗ ‡\nillia.polosukhin@gmail.com\nAbstract\nThe dominant sequence transduction models are based on complex recurrent or\nconvolutional neural networks that include an encoder and a decoder. The best\nperforming models also connect the encoder and decoder through an attention\nmechanism. We propose a new simple network architecture, the Transfor",
+    "latency_ms": 0.2,
+    "error": null
+  },
+  {
+    "query_id": "Q13",
+    "split": "dev",
+    "question": "In Attention Is All You Need, how many parallel attention heads are used and what are the key and value dimensions per head?",
+    "config": "bm25",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 5,
+        "evidence": "In this work we employ h = 8 parallel attention layers, or heads. For each of these we use\ndk = dv = dmodel/h = 64."
+      }
+    ],
+    "top3": [
+      {
+        "id": "attention_2017-p0009-fixed-f682efbe9bebfdea",
+        "rank": 1,
+        "score": 46.34853,
+        "source_id": "attention_2017",
+        "page": 9,
+        "hit": false,
+        "text": ".2 5.47 25.7\n(E) positional embedding instead of sinusoids 4.92 25.7\nbig 6 1024 4096 16 0.3 300K 4.33 26.4 213\ndevelopment set, newstest2013. We used beam search as described in the previous section, but no\ncheckpoint averaging. We present these results in Table 3.\nIn Table 3 rows (A), we vary the number of attention heads and the attention key and value dimensions,\nkeeping the amount of computation constant, as described in Section 3.2.2. While single-head\nattention is 0.9 BLEU worse than the best setting, quality also drops off with too many heads.\nIn Table 3 rows (B), we observe that reducing the attention key size dk hurts model quality. This\nsuggests that determining compatibility is not easy and that a more sophisticated compatibility\nfunction than dot product may be beneficial. We further observe in rows (C) and (D) that, as expected,\nbigger models are better, and dropout is very"
+      },
+      {
+        "id": "attention_2017-p0004-fixed-f3aaacbf4c1dac63",
+        "rank": 2,
+        "score": 37.64737,
+        "source_id": "attention_2017",
+        "page": 4,
+        "hit": false,
+        "text": "Scaled Dot-Product Attention\nMulti-Head Attention\nFigure 2: (left) Scaled Dot-Product Attention. (right) Multi-Head Attention consists of several\nattention layers running in parallel.\nof the values, where the weight assigned to each value is computed by a compatibility function of the\nquery with the corresponding key.\n3.2.1 Scaled Dot-Product Attention\nWe call our particular attention \"Scaled Dot-Product Attention\" (Figure 2). The input consists of\nqueries and keys of dimension dk, and values of dimension dv. We compute the dot products of the\nquery with all keys, divide each by √dk, and apply a softmax function to obtain the weights on the\nvalues.\nIn practice, we compute the attention function on a set of queries simultaneously, packed together\ninto a matrix Q. The keys and values are also packed together into matrices K and V . We compute\nthe matrix of outputs as:\nAttention(Q, K, V) ="
+      },
+      {
+        "id": "attention_2017-p0005-fixed-d2cabfbc285e14a3",
+        "rank": 3,
+        "score": 33.88687,
+        "source_id": "attention_2017",
+        "page": 5,
+        "hit": true,
+        "text": "output values. These are concatenated and once again projected, resulting in the final values, as\ndepicted in Figure 2.\nMulti-head attention allows the model to jointly attend to information from different representation\nsubspaces at different positions. With a single attention head, averaging inhibits this.\nMultiHead(Q, K, V) = Concat(head1, ...,headh)W O\nwhere headi = Attention(QW Qi , KWKi , V WVi )\nWhere the projections are parameter matricesW Qi ∈ Rdmodel×dk, W Ki ∈ Rdmodel×dk, W Vi ∈ Rdmodel×dv\nand W O ∈ Rhdv×dmodel.\nIn this work we employ h = 8 parallel attention layers, or heads. For each of these we use\ndk = dv = dmodel/h = 64. Due to the reduced dimension of each head, the total computational cost\nis similar to that of single-head attention with full dimensionality.\n3.2.3 Applications of Attention in our Model\nThe Transformer uses multi-head attention in three different ways:\n•"
+      }
+    ],
+    "hit1": false,
+    "hit3": true,
+    "rr": 0.3333333333333333,
+    "context_ids": [
+      "attention_2017-p0009-fixed-f682efbe9bebfdea",
+      "attention_2017-p0004-fixed-f3aaacbf4c1dac63",
+      "attention_2017-p0005-fixed-d2cabfbc285e14a3"
+    ],
+    "context_chars": 2939,
+    "context_hit": true,
+    "context": "[attention_2017-p0009-fixed-f682efbe9bebfdea] (nguồn: attention_2017, trang 9)\n.2 5.47 25.7\n(E) positional embedding instead of sinusoids 4.92 25.7\nbig 6 1024 4096 16 0.3 300K 4.33 26.4 213\ndevelopment set, newstest2013. We used beam search as described in the previous section, but no\ncheckpoint averaging. We present these results in Table 3.\nIn Table 3 rows (A), we vary the number of attention heads and the attention key and value dimensions,\nkeeping the amount of computation constant, as described in Section 3.2.2. While single-head\nattention is 0.9 BLEU worse than the best setting, quality also drops off with too many heads.\nIn Table 3 rows (B), we observe that reducing the attention key size dk hurts model quality. This\nsuggests that determining compatibility is not easy and that a more sophisticated compatibility\nfunction than dot product may be beneficial. We further observe in rows (C) and (D) that, as expected,\nbigger models are better, and dropout is very\n\n[attention_2017-p0004-fixed-f3aaacbf4c1dac63] (nguồn: attention_2017, trang 4)\nScaled Dot-Product Attention\nMulti-Head Attention\nFigure 2: (left) Scaled Dot-Product Attention. (right) Multi-Head Attention consists of several\nattention layers running in parallel.\nof the values, where the weight assigned to each value is computed by a compatibility function of the\nquery with the corresponding key.\n3.2.1 Scaled Dot-Product Attention\nWe call our particular attention \"Scaled Dot-Product Attention\" (Figure 2). The input consists of\nqueries and keys of dimension dk, and values of dimension dv. We compute the dot products of the\nquery with all keys, divide each by √dk, and apply a softmax function to obtain the weights on the\nvalues.\nIn practice, we compute the attention function on a set of queries simultaneously, packed together\ninto a matrix Q. The keys and values are also packed together into matrices K and V . We compute\nthe matrix of outputs as:\nAttention(Q, K, V) =\n\n[attention_2017-p0005-fixed-d2cabfbc285e14a3] (nguồn: attention_2017, trang 5)\noutput values. These are concatenated and once again projected, resulting in the final values, as\ndepicted in Figure 2.\nMulti-head attention allows the model to jointly attend to information from different representation\nsubspaces at different positions. With a single attention head, averaging inhibits this.\nMultiHead(Q, K, V) = Concat(head1, ...,headh)W O\nwhere headi = Attention(QW Qi , KWKi , V WVi )\nWhere the projections are parameter matricesW Qi ∈ Rdmodel×dk, W Ki ∈ Rdmodel×dk, W Vi ∈ Rdmodel×dv\nand W O ∈ Rhdv×dmodel.\nIn this work we employ h = 8 parallel attention layers, or heads. For each of these we use\ndk = dv = dmodel/h = 64. Due to the reduced dimension of each head, the total computational cost\nis similar to that of single-head attention with full dimensionality.\n3.2.3 Applications of Attention in our Model\nThe Transformer uses multi-head attention in three different ways:\n•",
+    "latency_ms": 0.2,
+    "error": null
+  },
+  {
+    "query_id": "Q14",
+    "split": "dev",
+    "question": "What two transformations and activation make up the position-wise feed-forward network in Attention Is All You Need?",
+    "config": "bm25",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 5,
+        "evidence": "This\nconsists of two linear transformations with a ReLU activation in between."
+      }
+    ],
+    "top3": [
+      {
+        "id": "attention_2017-p0005-fixed-f8aee7b129d527c9",
+        "rank": 1,
+        "score": 56.46597,
+        "source_id": "attention_2017",
+        "page": 5,
+        "hit": true,
+        "text": "to all positions in the previous layer of the\nencoder.\n• Similarly, self-attention layers in the decoder allow each position in the decoder to attend to\nall positions in the decoder up to and including that position. We need to prevent leftward\ninformation flow in the decoder to preserve the auto-regressive property. We implement this\ninside of scaled dot-product attention by masking out (setting to −∞) all values in the input\nof the softmax which correspond to illegal connections. See Figure 2.\n3.3 Position-wise Feed-Forward Networks\nIn addition to attention sub-layers, each of the layers in our encoder and decoder contains a fully\nconnected feed-forward network, which is applied to each position separately and identically. This\nconsists of two linear transformations with a ReLU activation in between.\nFFN(x) = max(0, xW1 + b1)W2 + b2 (2)\nWhile the linear transformations are the same ac"
+      },
+      {
+        "id": "attention_2017-p0003-fixed-973cd5442a2f7f73",
+        "rank": 2,
+        "score": 34.8256,
+        "source_id": "attention_2017",
+        "page": 3,
+        "hit": false,
+        "text": "Figure 1: The Transformer - model architecture.\nThe Transformer follows this overall architecture using stacked self-attention and point-wise, fully\nconnected layers for both the encoder and decoder, shown in the left and right halves of Figure 1,\nrespectively.\n3.1 Encoder and Decoder Stacks\nEncoder: The encoder is composed of a stack of N = 6 identical layers. Each layer has two\nsub-layers. The first is a multi-head self-attention mechanism, and the second is a simple, position-\nwise fully connected feed-forward network. We employ a residual connection [11] around each of\nthe two sub-layers, followed by layer normalization [ 1]. That is, the output of each sub-layer is\nLayerNorm(x + Sublayer(x)), where Sublayer(x) is the function implemented by the sub-layer\nitself. To facilitate these residual connections, all sub-layers in the model, as well as the embedding\nlayers, produce outputs of"
+      },
+      {
+        "id": "attention_2017-p0007-fixed-a1e1711e7eccacf9",
+        "rank": 3,
+        "score": 27.07918,
+        "source_id": "attention_2017",
+        "page": 7,
+        "hit": false,
+        "text": "n the case of contiguous kernels,\nor O(logk(n)) in the case of dilated convolutions [ 18], increasing the length of the longest paths\nbetween any two positions in the network. Convolutional layers are generally more expensive than\nrecurrent layers, by a factor of k. Separable convolutions [ 6], however, decrease the complexity\nconsiderably, to O(k · n · d + n · d2). Even with k = n, however, the complexity of a separable\nconvolution is equal to the combination of a self-attention layer and a point-wise feed-forward layer,\nthe approach we take in our model.\nAs side benefit, self-attention could yield more interpretable models. We inspect attention distributions\nfrom our models and present and discuss examples in the appendix. Not only do individual attention\nheads clearly learn to perform different tasks, many appear to exhibit behavior related to the syntactic\nand semantic structure of t"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "rr": 1.0,
+    "context_ids": [
+      "attention_2017-p0005-fixed-f8aee7b129d527c9",
+      "attention_2017-p0003-fixed-973cd5442a2f7f73",
+      "attention_2017-p0007-fixed-a1e1711e7eccacf9"
+    ],
+    "context_chars": 2940,
+    "context_hit": true,
+    "context": "[attention_2017-p0005-fixed-f8aee7b129d527c9] (nguồn: attention_2017, trang 5)\nto all positions in the previous layer of the\nencoder.\n• Similarly, self-attention layers in the decoder allow each position in the decoder to attend to\nall positions in the decoder up to and including that position. We need to prevent leftward\ninformation flow in the decoder to preserve the auto-regressive property. We implement this\ninside of scaled dot-product attention by masking out (setting to −∞) all values in the input\nof the softmax which correspond to illegal connections. See Figure 2.\n3.3 Position-wise Feed-Forward Networks\nIn addition to attention sub-layers, each of the layers in our encoder and decoder contains a fully\nconnected feed-forward network, which is applied to each position separately and identically. This\nconsists of two linear transformations with a ReLU activation in between.\nFFN(x) = max(0, xW1 + b1)W2 + b2 (2)\nWhile the linear transformations are the same ac\n\n[attention_2017-p0003-fixed-973cd5442a2f7f73] (nguồn: attention_2017, trang 3)\nFigure 1: The Transformer - model architecture.\nThe Transformer follows this overall architecture using stacked self-attention and point-wise, fully\nconnected layers for both the encoder and decoder, shown in the left and right halves of Figure 1,\nrespectively.\n3.1 Encoder and Decoder Stacks\nEncoder: The encoder is composed of a stack of N = 6 identical layers. Each layer has two\nsub-layers. The first is a multi-head self-attention mechanism, and the second is a simple, position-\nwise fully connected feed-forward network. We employ a residual connection [11] around each of\nthe two sub-layers, followed by layer normalization [ 1]. That is, the output of each sub-layer is\nLayerNorm(x + Sublayer(x)), where Sublayer(x) is the function implemented by the sub-layer\nitself. To facilitate these residual connections, all sub-layers in the model, as well as the embedding\nlayers, produce outputs of\n\n[attention_2017-p0007-fixed-a1e1711e7eccacf9] (nguồn: attention_2017, trang 7)\nn the case of contiguous kernels,\nor O(logk(n)) in the case of dilated convolutions [ 18], increasing the length of the longest paths\nbetween any two positions in the network. Convolutional layers are generally more expensive than\nrecurrent layers, by a factor of k. Separable convolutions [ 6], however, decrease the complexity\nconsiderably, to O(k · n · d + n · d2). Even with k = n, however, the complexity of a separable\nconvolution is equal to the combination of a self-attention layer and a point-wise feed-forward layer,\nthe approach we take in our model.\nAs side benefit, self-attention could yield more interpretable models. We inspect attention distributions\nfrom our models and present and discuss examples in the appendix. Not only do individual attention\nheads clearly learn to perform different tasks, many appear to exhibit behavior related to the syntactic\nand semantic structure of t",
+    "latency_ms": 0.2,
+    "error": null
+  },
+  {
+    "query_id": "Q15",
+    "split": "dev",
+    "question": "In the English paper Attention Is All You Need, what functions are used for the fixed positional encodings?",
+    "config": "bm25",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 6,
+        "evidence": "In this work, we use sine and cosine functions of different frequencies:"
+      }
+    ],
+    "top3": [
+      {
+        "id": "attention_2017-p0006-fixed-ddd4c7ecf2ccc8eb",
+        "rank": 1,
+        "score": 33.7807,
+        "source_id": "attention_2017",
+        "page": 6,
+        "hit": true,
+        "text": "okens in the sequence. To this end, we add \"positional encodings\" to the input embeddings at the\nbottoms of the encoder and decoder stacks. The positional encodings have the same dimension dmodel\nas the embeddings, so that the two can be summed. There are many choices of positional encodings,\nlearned and fixed [9].\nIn this work, we use sine and cosine functions of different frequencies:\nP E(pos,2i) = sin(pos/100002i/dmodel)\nP E(pos,2i+1) = cos(pos/100002i/dmodel)\nwhere pos is the position and i is the dimension. That is, each dimension of the positional encoding\ncorresponds to a sinusoid. The wavelengths form a geometric progression from 2π to 10000 · 2π. We\nchose this function because we hypothesized it would allow the model to easily learn to attend by\nrelative positions, since for any fixed offset k, P Epos+k can be represented as a linear function of\nP Epos.\nWe also experimented with"
+      },
+      {
+        "id": "attention_2017-p0001-fixed-d44dc19c80fab5b0",
+        "rank": 2,
+        "score": 30.805,
+        "source_id": "attention_2017",
+        "page": 1,
+        "hit": false,
+        "text": "Provided proper attribution is provided, Google hereby grants permission to\nreproduce the tables and figures in this paper solely for use in journalistic or\nscholarly works.\nAttention Is All You Need\nAshish Vaswani∗\nGoogle Brain\navaswani@google.com\nNoam Shazeer∗\nGoogle Brain\nnoam@google.com\nNiki Parmar∗\nGoogle Research\nnikip@google.com\nJakob Uszkoreit∗\nGoogle Research\nusz@google.com\nLlion Jones∗\nGoogle Research\nllion@google.com\nAidan N. Gomez∗ †\nUniversity of Toronto\naidan@cs.toronto.edu\nŁukasz Kaiser∗\nGoogle Brain\nlukaszkaiser@google.com\nIllia Polosukhin∗ ‡\nillia.polosukhin@gmail.com\nAbstract\nThe dominant sequence transduction models are based on complex recurrent or\nconvolutional neural networks that include an encoder and a decoder. The best\nperforming models also connect the encoder and decoder through an attention\nmechanism. We propose a new simple network architecture, the Transfor"
+      },
+      {
+        "id": "attention_2017-p0004-fixed-b9410585593f4129",
+        "rank": 3,
+        "score": 24.99702,
+        "source_id": "attention_2017",
+        "page": 4,
+        "hit": false,
+        "text": "ether\ninto a matrix Q. The keys and values are also packed together into matrices K and V . We compute\nthe matrix of outputs as:\nAttention(Q, K, V) = softmax(QK T√dk )V (1)\nThe two most commonly used attention functions are additive attention [2], and dot-product (multi-\nplicative) attention. Dot-product attention is identical to our algorithm, except for the scaling factor\nof 1√dk . Additive attention computes the compatibility function using a feed-forward network witha single hidden layer. While the two are similar in theoretical complexity, dot-product attention is\nmuch faster and more space-efficient in practice, since it can be implemented using highly optimized\nmatrix multiplication code.\nWhile for small values of dk the two mechanisms perform similarly, additive attention outperforms\ndot product attention without scaling for larger values of dk [3]. We suspect that for large valu"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "rr": 1.0,
+    "context_ids": [
+      "attention_2017-p0006-fixed-ddd4c7ecf2ccc8eb",
+      "attention_2017-p0001-fixed-d44dc19c80fab5b0",
+      "attention_2017-p0004-fixed-b9410585593f4129"
+    ],
+    "context_chars": 2941,
+    "context_hit": true,
+    "context": "[attention_2017-p0006-fixed-ddd4c7ecf2ccc8eb] (nguồn: attention_2017, trang 6)\nokens in the sequence. To this end, we add \"positional encodings\" to the input embeddings at the\nbottoms of the encoder and decoder stacks. The positional encodings have the same dimension dmodel\nas the embeddings, so that the two can be summed. There are many choices of positional encodings,\nlearned and fixed [9].\nIn this work, we use sine and cosine functions of different frequencies:\nP E(pos,2i) = sin(pos/100002i/dmodel)\nP E(pos,2i+1) = cos(pos/100002i/dmodel)\nwhere pos is the position and i is the dimension. That is, each dimension of the positional encoding\ncorresponds to a sinusoid. The wavelengths form a geometric progression from 2π to 10000 · 2π. We\nchose this function because we hypothesized it would allow the model to easily learn to attend by\nrelative positions, since for any fixed offset k, P Epos+k can be represented as a linear function of\nP Epos.\nWe also experimented with\n\n[attention_2017-p0001-fixed-d44dc19c80fab5b0] (nguồn: attention_2017, trang 1)\nProvided proper attribution is provided, Google hereby grants permission to\nreproduce the tables and figures in this paper solely for use in journalistic or\nscholarly works.\nAttention Is All You Need\nAshish Vaswani∗\nGoogle Brain\navaswani@google.com\nNoam Shazeer∗\nGoogle Brain\nnoam@google.com\nNiki Parmar∗\nGoogle Research\nnikip@google.com\nJakob Uszkoreit∗\nGoogle Research\nusz@google.com\nLlion Jones∗\nGoogle Research\nllion@google.com\nAidan N. Gomez∗ †\nUniversity of Toronto\naidan@cs.toronto.edu\nŁukasz Kaiser∗\nGoogle Brain\nlukaszkaiser@google.com\nIllia Polosukhin∗ ‡\nillia.polosukhin@gmail.com\nAbstract\nThe dominant sequence transduction models are based on complex recurrent or\nconvolutional neural networks that include an encoder and a decoder. The best\nperforming models also connect the encoder and decoder through an attention\nmechanism. We propose a new simple network architecture, the Transfor\n\n[attention_2017-p0004-fixed-b9410585593f4129] (nguồn: attention_2017, trang 4)\nether\ninto a matrix Q. The keys and values are also packed together into matrices K and V . We compute\nthe matrix of outputs as:\nAttention(Q, K, V) = softmax(QK T√dk )V (1)\nThe two most commonly used attention functions are additive attention [2], and dot-product (multi-\nplicative) attention. Dot-product attention is identical to our algorithm, except for the scaling factor\nof 1√dk . Additive attention computes the compatibility function using a feed-forward network witha single hidden layer. While the two are similar in theoretical complexity, dot-product attention is\nmuch faster and more space-efficient in practice, since it can be implemented using highly optimized\nmatrix multiplication code.\nWhile for small values of dk the two mechanisms perform similarly, additive attention outperforms\ndot product attention without scaling for larger values of dk [3]. We suspect that for large valu",
+    "latency_ms": 0.2,
+    "error": null
+  },
+  {
+    "query_id": "Q16",
+    "split": "dev",
+    "question": "Approximately how many sentence pairs are in the English-German training dataset used in Attention Is All You Need?",
+    "config": "bm25",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 7,
+        "evidence": "We trained on the standard WMT 2014 English-German dataset consisting of about 4.5 million\nsentence pairs."
+      }
+    ],
+    "top3": [
+      {
+        "id": "attention_2017-p0007-fixed-ea16339a040402a7",
+        "rank": 1,
+        "score": 42.39842,
+        "source_id": "attention_2017",
+        "page": 7,
+        "hit": true,
+        "text": "ividual attention\nheads clearly learn to perform different tasks, many appear to exhibit behavior related to the syntactic\nand semantic structure of the sentences.\n5 Training\nThis section describes the training regime for our models.\n5.1 Training Data and Batching\nWe trained on the standard WMT 2014 English-German dataset consisting of about 4.5 million\nsentence pairs. Sentences were encoded using byte-pair encoding [ 3], which has a shared source-\ntarget vocabulary of about 37000 tokens. For English-French, we used the significantly larger WMT\n2014 English-French dataset consisting of 36M sentences and split tokens into a 32000 word-piece\nvocabulary [38]. Sentence pairs were batched together by approximate sequence length. Each training\nbatch contained a set of sentence pairs containing approximately 25000 source tokens and 25000\ntarget tokens.\n5.2 Hardware and Schedule\nWe trained our m"
+      },
+      {
+        "id": "attention_2017-p0009-fixed-de91aacab5d25a96",
+        "rank": 2,
+        "score": 24.31929,
+        "source_id": "attention_2017",
+        "page": 9,
+        "hit": false,
+        "text": "37].\nWe trained a 4-layer transformer with dmodel = 1024on the Wall Street Journal (WSJ) portion of the\nPenn Treebank [25], about 40K training sentences. We also trained it in a semi-supervised setting,\nusing the larger high-confidence and BerkleyParser corpora from with approximately 17M sentences\n[37]. We used a vocabulary of 16K tokens for the WSJ only setting and a vocabulary of 32K tokens\nfor the semi-supervised setting.\nWe performed only a small number of experiments to select the dropout, both attention and residual\n(section 5.4), learning rates and beam size on the Section 22 development set, all other parameters\nremained unchanged from the English-to-German base translation model. During inference, we\n9"
+      },
+      {
+        "id": "attention_2017-p0001-fixed-d44dc19c80fab5b0",
+        "rank": 3,
+        "score": 24.26112,
+        "source_id": "attention_2017",
+        "page": 1,
+        "hit": false,
+        "text": "Provided proper attribution is provided, Google hereby grants permission to\nreproduce the tables and figures in this paper solely for use in journalistic or\nscholarly works.\nAttention Is All You Need\nAshish Vaswani∗\nGoogle Brain\navaswani@google.com\nNoam Shazeer∗\nGoogle Brain\nnoam@google.com\nNiki Parmar∗\nGoogle Research\nnikip@google.com\nJakob Uszkoreit∗\nGoogle Research\nusz@google.com\nLlion Jones∗\nGoogle Research\nllion@google.com\nAidan N. Gomez∗ †\nUniversity of Toronto\naidan@cs.toronto.edu\nŁukasz Kaiser∗\nGoogle Brain\nlukaszkaiser@google.com\nIllia Polosukhin∗ ‡\nillia.polosukhin@gmail.com\nAbstract\nThe dominant sequence transduction models are based on complex recurrent or\nconvolutional neural networks that include an encoder and a decoder. The best\nperforming models also connect the encoder and decoder through an attention\nmechanism. We propose a new simple network architecture, the Transfor"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "rr": 1.0,
+    "context_ids": [
+      "attention_2017-p0007-fixed-ea16339a040402a7",
+      "attention_2017-p0009-fixed-de91aacab5d25a96",
+      "attention_2017-p0001-fixed-d44dc19c80fab5b0"
+    ],
+    "context_chars": 2762,
+    "context_hit": true,
+    "context": "[attention_2017-p0007-fixed-ea16339a040402a7] (nguồn: attention_2017, trang 7)\nividual attention\nheads clearly learn to perform different tasks, many appear to exhibit behavior related to the syntactic\nand semantic structure of the sentences.\n5 Training\nThis section describes the training regime for our models.\n5.1 Training Data and Batching\nWe trained on the standard WMT 2014 English-German dataset consisting of about 4.5 million\nsentence pairs. Sentences were encoded using byte-pair encoding [ 3], which has a shared source-\ntarget vocabulary of about 37000 tokens. For English-French, we used the significantly larger WMT\n2014 English-French dataset consisting of 36M sentences and split tokens into a 32000 word-piece\nvocabulary [38]. Sentence pairs were batched together by approximate sequence length. Each training\nbatch contained a set of sentence pairs containing approximately 25000 source tokens and 25000\ntarget tokens.\n5.2 Hardware and Schedule\nWe trained our m\n\n[attention_2017-p0009-fixed-de91aacab5d25a96] (nguồn: attention_2017, trang 9)\n37].\nWe trained a 4-layer transformer with dmodel = 1024on the Wall Street Journal (WSJ) portion of the\nPenn Treebank [25], about 40K training sentences. We also trained it in a semi-supervised setting,\nusing the larger high-confidence and BerkleyParser corpora from with approximately 17M sentences\n[37]. We used a vocabulary of 16K tokens for the WSJ only setting and a vocabulary of 32K tokens\nfor the semi-supervised setting.\nWe performed only a small number of experiments to select the dropout, both attention and residual\n(section 5.4), learning rates and beam size on the Section 22 development set, all other parameters\nremained unchanged from the English-to-German base translation model. During inference, we\n9\n\n[attention_2017-p0001-fixed-d44dc19c80fab5b0] (nguồn: attention_2017, trang 1)\nProvided proper attribution is provided, Google hereby grants permission to\nreproduce the tables and figures in this paper solely for use in journalistic or\nscholarly works.\nAttention Is All You Need\nAshish Vaswani∗\nGoogle Brain\navaswani@google.com\nNoam Shazeer∗\nGoogle Brain\nnoam@google.com\nNiki Parmar∗\nGoogle Research\nnikip@google.com\nJakob Uszkoreit∗\nGoogle Research\nusz@google.com\nLlion Jones∗\nGoogle Research\nllion@google.com\nAidan N. Gomez∗ †\nUniversity of Toronto\naidan@cs.toronto.edu\nŁukasz Kaiser∗\nGoogle Brain\nlukaszkaiser@google.com\nIllia Polosukhin∗ ‡\nillia.polosukhin@gmail.com\nAbstract\nThe dominant sequence transduction models are based on complex recurrent or\nconvolutional neural networks that include an encoder and a decoder. The best\nperforming models also connect the encoder and decoder through an attention\nmechanism. We propose a new simple network architecture, the Transfor",
+    "latency_ms": 0.2,
+    "error": null
+  },
+  {
+    "query_id": "Q17",
+    "split": "dev",
+    "question": "What hardware configuration was used to train the models in Attention Is All You Need?",
+    "config": "bm25",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 7,
+        "evidence": "We trained our models on one machine with 8 NVIDIA P100 GPUs."
+      }
+    ],
+    "top3": [
+      {
+        "id": "attention_2017-p0001-fixed-d44dc19c80fab5b0",
+        "rank": 1,
+        "score": 24.52247,
+        "source_id": "attention_2017",
+        "page": 1,
+        "hit": false,
+        "text": "Provided proper attribution is provided, Google hereby grants permission to\nreproduce the tables and figures in this paper solely for use in journalistic or\nscholarly works.\nAttention Is All You Need\nAshish Vaswani∗\nGoogle Brain\navaswani@google.com\nNoam Shazeer∗\nGoogle Brain\nnoam@google.com\nNiki Parmar∗\nGoogle Research\nnikip@google.com\nJakob Uszkoreit∗\nGoogle Research\nusz@google.com\nLlion Jones∗\nGoogle Research\nllion@google.com\nAidan N. Gomez∗ †\nUniversity of Toronto\naidan@cs.toronto.edu\nŁukasz Kaiser∗\nGoogle Brain\nlukaszkaiser@google.com\nIllia Polosukhin∗ ‡\nillia.polosukhin@gmail.com\nAbstract\nThe dominant sequence transduction models are based on complex recurrent or\nconvolutional neural networks that include an encoder and a decoder. The best\nperforming models also connect the encoder and decoder through an attention\nmechanism. We propose a new simple network architecture, the Transfor"
+      },
+      {
+        "id": "attention_2017-p0005-fixed-f8aee7b129d527c9",
+        "rank": 2,
+        "score": 19.68217,
+        "source_id": "attention_2017",
+        "page": 5,
+        "hit": false,
+        "text": "to all positions in the previous layer of the\nencoder.\n• Similarly, self-attention layers in the decoder allow each position in the decoder to attend to\nall positions in the decoder up to and including that position. We need to prevent leftward\ninformation flow in the decoder to preserve the auto-regressive property. We implement this\ninside of scaled dot-product attention by masking out (setting to −∞) all values in the input\nof the softmax which correspond to illegal connections. See Figure 2.\n3.3 Position-wise Feed-Forward Networks\nIn addition to attention sub-layers, each of the layers in our encoder and decoder contains a fully\nconnected feed-forward network, which is applied to each position separately and identically. This\nconsists of two linear transformations with a ReLU activation in between.\nFFN(x) = max(0, xW1 + b1)W2 + b2 (2)\nWhile the linear transformations are the same ac"
+      },
+      {
+        "id": "attention_2017-p0001-fixed-48521f6a3673cfda",
+        "rank": 3,
+        "score": 17.86862,
+        "source_id": "attention_2017",
+        "page": 1,
+        "hit": false,
+        "text": "small fraction of the training costs of the\nbest models from the literature. We show that the Transformer generalizes well to\nother tasks by applying it successfully to English constituency parsing both with\nlarge and limited training data.\n∗Equal contribution. Listing order is random. Jakob proposed replacing RNNs with self-attention and started\nthe effort to evaluate this idea. Ashish, with Illia, designed and implemented the first Transformer models and\nhas been crucially involved in every aspect of this work. Noam proposed scaled dot-product attention, multi-head\nattention and the parameter-free position representation and became the other person involved in nearly every\ndetail. Niki designed, implemented, tuned and evaluated countless model variants in our original codebase and\ntensor2tensor. Llion also experimented with novel model variants, was responsible for our initial codebas"
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "rr": 0.0,
+    "context_ids": [
+      "attention_2017-p0001-fixed-d44dc19c80fab5b0",
+      "attention_2017-p0005-fixed-f8aee7b129d527c9",
+      "attention_2017-p0001-fixed-48521f6a3673cfda"
+    ],
+    "context_chars": 2939,
+    "context_hit": false,
+    "context": "[attention_2017-p0001-fixed-d44dc19c80fab5b0] (nguồn: attention_2017, trang 1)\nProvided proper attribution is provided, Google hereby grants permission to\nreproduce the tables and figures in this paper solely for use in journalistic or\nscholarly works.\nAttention Is All You Need\nAshish Vaswani∗\nGoogle Brain\navaswani@google.com\nNoam Shazeer∗\nGoogle Brain\nnoam@google.com\nNiki Parmar∗\nGoogle Research\nnikip@google.com\nJakob Uszkoreit∗\nGoogle Research\nusz@google.com\nLlion Jones∗\nGoogle Research\nllion@google.com\nAidan N. Gomez∗ †\nUniversity of Toronto\naidan@cs.toronto.edu\nŁukasz Kaiser∗\nGoogle Brain\nlukaszkaiser@google.com\nIllia Polosukhin∗ ‡\nillia.polosukhin@gmail.com\nAbstract\nThe dominant sequence transduction models are based on complex recurrent or\nconvolutional neural networks that include an encoder and a decoder. The best\nperforming models also connect the encoder and decoder through an attention\nmechanism. We propose a new simple network architecture, the Transfor\n\n[attention_2017-p0005-fixed-f8aee7b129d527c9] (nguồn: attention_2017, trang 5)\nto all positions in the previous layer of the\nencoder.\n• Similarly, self-attention layers in the decoder allow each position in the decoder to attend to\nall positions in the decoder up to and including that position. We need to prevent leftward\ninformation flow in the decoder to preserve the auto-regressive property. We implement this\ninside of scaled dot-product attention by masking out (setting to −∞) all values in the input\nof the softmax which correspond to illegal connections. See Figure 2.\n3.3 Position-wise Feed-Forward Networks\nIn addition to attention sub-layers, each of the layers in our encoder and decoder contains a fully\nconnected feed-forward network, which is applied to each position separately and identically. This\nconsists of two linear transformations with a ReLU activation in between.\nFFN(x) = max(0, xW1 + b1)W2 + b2 (2)\nWhile the linear transformations are the same ac\n\n[attention_2017-p0001-fixed-48521f6a3673cfda] (nguồn: attention_2017, trang 1)\nsmall fraction of the training costs of the\nbest models from the literature. We show that the Transformer generalizes well to\nother tasks by applying it successfully to English constituency parsing both with\nlarge and limited training data.\n∗Equal contribution. Listing order is random. Jakob proposed replacing RNNs with self-attention and started\nthe effort to evaluate this idea. Ashish, with Illia, designed and implemented the first Transformer models and\nhas been crucially involved in every aspect of this work. Noam proposed scaled dot-product attention, multi-head\nattention and the parameter-free position representation and became the other person involved in nearly every\ndetail. Niki designed, implemented, tuned and evaluated countless model variants in our original codebase and\ntensor2tensor. Llion also experimented with novel model variants, was responsible for our initial codebas",
+    "latency_ms": 0.2,
+    "error": null
+  },
+  {
+    "query_id": "Q18",
+    "split": "dev",
+    "question": "How many warmup steps were used in the learning-rate schedule in Attention Is All You Need?",
+    "config": "bm25",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 7,
+        "evidence": "We used\nwarmup_steps = 4000."
+      }
+    ],
+    "top3": [
+      {
+        "id": "attention_2017-p0007-fixed-25ae87fae1d179cb",
+        "rank": 1,
+        "score": 27.13639,
+        "source_id": "attention_2017",
+        "page": 7,
+        "hit": false,
+        "text": "tch contained a set of sentence pairs containing approximately 25000 source tokens and 25000\ntarget tokens.\n5.2 Hardware and Schedule\nWe trained our models on one machine with 8 NVIDIA P100 GPUs. For our base models using\nthe hyperparameters described throughout the paper, each training step took about 0.4 seconds. We\ntrained the base models for a total of 100,000 steps or 12 hours. For our big models,(described on the\nbottom line of table 3), step time was 1.0 seconds. The big models were trained for 300,000 steps\n(3.5 days).\n5.3 Optimizer\nWe used the Adam optimizer [20] with β1 = 0.9, β2 = 0.98 and ϵ = 10−9. We varied the learning\nrate over the course of training, according to the formula:\nlrate = d−0.5model · min(step_num−0.5, step_num · warmup_steps−1.5) (3)\nThis corresponds to increasing the learning rate linearly for the first warmup_steps training steps,\nand decreasing it thereaft"
+      },
+      {
+        "id": "attention_2017-p0001-fixed-d44dc19c80fab5b0",
+        "rank": 2,
+        "score": 22.1618,
+        "source_id": "attention_2017",
+        "page": 1,
+        "hit": false,
+        "text": "Provided proper attribution is provided, Google hereby grants permission to\nreproduce the tables and figures in this paper solely for use in journalistic or\nscholarly works.\nAttention Is All You Need\nAshish Vaswani∗\nGoogle Brain\navaswani@google.com\nNoam Shazeer∗\nGoogle Brain\nnoam@google.com\nNiki Parmar∗\nGoogle Research\nnikip@google.com\nJakob Uszkoreit∗\nGoogle Research\nusz@google.com\nLlion Jones∗\nGoogle Research\nllion@google.com\nAidan N. Gomez∗ †\nUniversity of Toronto\naidan@cs.toronto.edu\nŁukasz Kaiser∗\nGoogle Brain\nlukaszkaiser@google.com\nIllia Polosukhin∗ ‡\nillia.polosukhin@gmail.com\nAbstract\nThe dominant sequence transduction models are based on complex recurrent or\nconvolutional neural networks that include an encoder and a decoder. The best\nperforming models also connect the encoder and decoder through an attention\nmechanism. We propose a new simple network architecture, the Transfor"
+      },
+      {
+        "id": "attention_2017-p0008-fixed-1d8c8960ee40d23f",
+        "rank": 3,
+        "score": 21.25595,
+        "source_id": "attention_2017",
+        "page": 8,
+        "hit": false,
+        "text": "his model is\nlisted in the bottom line of Table 3. Training took 3.5 days on 8 P100 GPUs. Even our base model\nsurpasses all previously published models and ensembles, at a fraction of the training cost of any of\nthe competitive models.\nOn the WMT 2014 English-to-French translation task, our big model achieves a BLEU score of 41.0,\noutperforming all of the previously published single models, at less than 1/4 the training cost of the\nprevious state-of-the-art model. The Transformer (big) model trained for English-to-French used\ndropout rate Pdrop = 0.1, instead of 0.3.\nFor the base models, we used a single model obtained by averaging the last 5 checkpoints, which\nwere written at 10-minute intervals. For the big models, we averaged the last 20 checkpoints. We\nused beam search with a beam size of 4 and length penalty α = 0.6 [38]. These hyperparameters\nwere chosen after experimentation on th"
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "rr": 0.0,
+    "context_ids": [
+      "attention_2017-p0007-fixed-25ae87fae1d179cb",
+      "attention_2017-p0001-fixed-d44dc19c80fab5b0",
+      "attention_2017-p0008-fixed-1d8c8960ee40d23f"
+    ],
+    "context_chars": 2941,
+    "context_hit": false,
+    "context": "[attention_2017-p0007-fixed-25ae87fae1d179cb] (nguồn: attention_2017, trang 7)\ntch contained a set of sentence pairs containing approximately 25000 source tokens and 25000\ntarget tokens.\n5.2 Hardware and Schedule\nWe trained our models on one machine with 8 NVIDIA P100 GPUs. For our base models using\nthe hyperparameters described throughout the paper, each training step took about 0.4 seconds. We\ntrained the base models for a total of 100,000 steps or 12 hours. For our big models,(described on the\nbottom line of table 3), step time was 1.0 seconds. The big models were trained for 300,000 steps\n(3.5 days).\n5.3 Optimizer\nWe used the Adam optimizer [20] with β1 = 0.9, β2 = 0.98 and ϵ = 10−9. We varied the learning\nrate over the course of training, according to the formula:\nlrate = d−0.5model · min(step_num−0.5, step_num · warmup_steps−1.5) (3)\nThis corresponds to increasing the learning rate linearly for the first warmup_steps training steps,\nand decreasing it thereaft\n\n[attention_2017-p0001-fixed-d44dc19c80fab5b0] (nguồn: attention_2017, trang 1)\nProvided proper attribution is provided, Google hereby grants permission to\nreproduce the tables and figures in this paper solely for use in journalistic or\nscholarly works.\nAttention Is All You Need\nAshish Vaswani∗\nGoogle Brain\navaswani@google.com\nNoam Shazeer∗\nGoogle Brain\nnoam@google.com\nNiki Parmar∗\nGoogle Research\nnikip@google.com\nJakob Uszkoreit∗\nGoogle Research\nusz@google.com\nLlion Jones∗\nGoogle Research\nllion@google.com\nAidan N. Gomez∗ †\nUniversity of Toronto\naidan@cs.toronto.edu\nŁukasz Kaiser∗\nGoogle Brain\nlukaszkaiser@google.com\nIllia Polosukhin∗ ‡\nillia.polosukhin@gmail.com\nAbstract\nThe dominant sequence transduction models are based on complex recurrent or\nconvolutional neural networks that include an encoder and a decoder. The best\nperforming models also connect the encoder and decoder through an attention\nmechanism. We propose a new simple network architecture, the Transfor\n\n[attention_2017-p0008-fixed-1d8c8960ee40d23f] (nguồn: attention_2017, trang 8)\nhis model is\nlisted in the bottom line of Table 3. Training took 3.5 days on 8 P100 GPUs. Even our base model\nsurpasses all previously published models and ensembles, at a fraction of the training cost of any of\nthe competitive models.\nOn the WMT 2014 English-to-French translation task, our big model achieves a BLEU score of 41.0,\noutperforming all of the previously published single models, at less than 1/4 the training cost of the\nprevious state-of-the-art model. The Transformer (big) model trained for English-to-French used\ndropout rate Pdrop = 0.1, instead of 0.3.\nFor the base models, we used a single model obtained by averaging the last 5 checkpoints, which\nwere written at 10-minute intervals. For the big models, we averaged the last 20 checkpoints. We\nused beam search with a beam size of 4 and length penalty α = 0.6 [38]. These hyperparameters\nwere chosen after experimentation on th",
+    "latency_ms": 0.3,
+    "error": null
+  },
+  {
+    "query_id": "Q19",
+    "split": "dev",
+    "question": "In the English paper Attention Is All You Need, what value of label smoothing was used and how did it affect perplexity, accuracy and BLEU?",
+    "config": "bm25",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 8,
+        "evidence": "During training, we employed label smoothing of value ϵls = 0.1 [36]. This\nhurts perplexity, as the model learns to be more unsure, but improves accuracy and BLEU score."
+      }
+    ],
+    "top3": [
+      {
+        "id": "attention_2017-p0008-fixed-1be18feff1bc50a8",
+        "rank": 1,
+        "score": 50.64438,
+        "source_id": "attention_2017",
+        "page": 8,
+        "hit": true,
+        "text": "h sub-layer, before it is added to the\nsub-layer input and normalized. In addition, we apply dropout to the sums of the embeddings and the\npositional encodings in both the encoder and decoder stacks. For the base model, we use a rate of\nPdrop = 0.1.\nLabel Smoothing During training, we employed label smoothing of value ϵls = 0.1 [36]. This\nhurts perplexity, as the model learns to be more unsure, but improves accuracy and BLEU score.\n6 Results\n6.1 Machine Translation\nOn the WMT 2014 English-to-German translation task, the big transformer model (Transformer (big)\nin Table 2) outperforms the best previously reported models (including ensembles) by more than 2.0\nBLEU, establishing a new state-of-the-art BLEU score of 28.4. The configuration of this model is\nlisted in the bottom line of Table 3. Training took 3.5 days on 8 P100 GPUs. Even our base model\nsurpasses all previously published model"
+      },
+      {
+        "id": "attention_2017-p0001-fixed-d44dc19c80fab5b0",
+        "rank": 2,
+        "score": 29.92321,
+        "source_id": "attention_2017",
+        "page": 1,
+        "hit": false,
+        "text": "Provided proper attribution is provided, Google hereby grants permission to\nreproduce the tables and figures in this paper solely for use in journalistic or\nscholarly works.\nAttention Is All You Need\nAshish Vaswani∗\nGoogle Brain\navaswani@google.com\nNoam Shazeer∗\nGoogle Brain\nnoam@google.com\nNiki Parmar∗\nGoogle Research\nnikip@google.com\nJakob Uszkoreit∗\nGoogle Research\nusz@google.com\nLlion Jones∗\nGoogle Research\nllion@google.com\nAidan N. Gomez∗ †\nUniversity of Toronto\naidan@cs.toronto.edu\nŁukasz Kaiser∗\nGoogle Brain\nlukaszkaiser@google.com\nIllia Polosukhin∗ ‡\nillia.polosukhin@gmail.com\nAbstract\nThe dominant sequence transduction models are based on complex recurrent or\nconvolutional neural networks that include an encoder and a decoder. The best\nperforming models also connect the encoder and decoder through an attention\nmechanism. We propose a new simple network architecture, the Transfor"
+      },
+      {
+        "id": "attention_2017-p0009-fixed-f682efbe9bebfdea",
+        "rank": 3,
+        "score": 25.0205,
+        "source_id": "attention_2017",
+        "page": 9,
+        "hit": false,
+        "text": ".2 5.47 25.7\n(E) positional embedding instead of sinusoids 4.92 25.7\nbig 6 1024 4096 16 0.3 300K 4.33 26.4 213\ndevelopment set, newstest2013. We used beam search as described in the previous section, but no\ncheckpoint averaging. We present these results in Table 3.\nIn Table 3 rows (A), we vary the number of attention heads and the attention key and value dimensions,\nkeeping the amount of computation constant, as described in Section 3.2.2. While single-head\nattention is 0.9 BLEU worse than the best setting, quality also drops off with too many heads.\nIn Table 3 rows (B), we observe that reducing the attention key size dk hurts model quality. This\nsuggests that determining compatibility is not easy and that a more sophisticated compatibility\nfunction than dot product may be beneficial. We further observe in rows (C) and (D) that, as expected,\nbigger models are better, and dropout is very"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "rr": 1.0,
+    "context_ids": [
+      "attention_2017-p0008-fixed-1be18feff1bc50a8",
+      "attention_2017-p0001-fixed-d44dc19c80fab5b0",
+      "attention_2017-p0009-fixed-f682efbe9bebfdea"
+    ],
+    "context_chars": 2940,
+    "context_hit": true,
+    "context": "[attention_2017-p0008-fixed-1be18feff1bc50a8] (nguồn: attention_2017, trang 8)\nh sub-layer, before it is added to the\nsub-layer input and normalized. In addition, we apply dropout to the sums of the embeddings and the\npositional encodings in both the encoder and decoder stacks. For the base model, we use a rate of\nPdrop = 0.1.\nLabel Smoothing During training, we employed label smoothing of value ϵls = 0.1 [36]. This\nhurts perplexity, as the model learns to be more unsure, but improves accuracy and BLEU score.\n6 Results\n6.1 Machine Translation\nOn the WMT 2014 English-to-German translation task, the big transformer model (Transformer (big)\nin Table 2) outperforms the best previously reported models (including ensembles) by more than 2.0\nBLEU, establishing a new state-of-the-art BLEU score of 28.4. The configuration of this model is\nlisted in the bottom line of Table 3. Training took 3.5 days on 8 P100 GPUs. Even our base model\nsurpasses all previously published model\n\n[attention_2017-p0001-fixed-d44dc19c80fab5b0] (nguồn: attention_2017, trang 1)\nProvided proper attribution is provided, Google hereby grants permission to\nreproduce the tables and figures in this paper solely for use in journalistic or\nscholarly works.\nAttention Is All You Need\nAshish Vaswani∗\nGoogle Brain\navaswani@google.com\nNoam Shazeer∗\nGoogle Brain\nnoam@google.com\nNiki Parmar∗\nGoogle Research\nnikip@google.com\nJakob Uszkoreit∗\nGoogle Research\nusz@google.com\nLlion Jones∗\nGoogle Research\nllion@google.com\nAidan N. Gomez∗ †\nUniversity of Toronto\naidan@cs.toronto.edu\nŁukasz Kaiser∗\nGoogle Brain\nlukaszkaiser@google.com\nIllia Polosukhin∗ ‡\nillia.polosukhin@gmail.com\nAbstract\nThe dominant sequence transduction models are based on complex recurrent or\nconvolutional neural networks that include an encoder and a decoder. The best\nperforming models also connect the encoder and decoder through an attention\nmechanism. We propose a new simple network architecture, the Transfor\n\n[attention_2017-p0009-fixed-f682efbe9bebfdea] (nguồn: attention_2017, trang 9)\n.2 5.47 25.7\n(E) positional embedding instead of sinusoids 4.92 25.7\nbig 6 1024 4096 16 0.3 300K 4.33 26.4 213\ndevelopment set, newstest2013. We used beam search as described in the previous section, but no\ncheckpoint averaging. We present these results in Table 3.\nIn Table 3 rows (A), we vary the number of attention heads and the attention key and value dimensions,\nkeeping the amount of computation constant, as described in Section 3.2.2. While single-head\nattention is 0.9 BLEU worse than the best setting, quality also drops off with too many heads.\nIn Table 3 rows (B), we observe that reducing the attention key size dk hurts model quality. This\nsuggests that determining compatibility is not easy and that a more sophisticated compatibility\nfunction than dot product may be beneficial. We further observe in rows (C) and (D) that, as expected,\nbigger models are better, and dropout is very",
+    "latency_ms": 0.3,
+    "error": null
+  },
+  {
+    "query_id": "Q20",
+    "split": "dev",
+    "question": "For the base models in Attention Is All You Need, how many checkpoints were averaged, and how often were they written?",
+    "config": "bm25",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 8,
+        "evidence": "For the base models, we used a single model obtained by averaging the last 5 checkpoints, which\nwere written at 10-minute intervals."
+      }
+    ],
+    "top3": [
+      {
+        "id": "attention_2017-p0008-fixed-1d8c8960ee40d23f",
+        "rank": 1,
+        "score": 44.32892,
+        "source_id": "attention_2017",
+        "page": 8,
+        "hit": true,
+        "text": "his model is\nlisted in the bottom line of Table 3. Training took 3.5 days on 8 P100 GPUs. Even our base model\nsurpasses all previously published models and ensembles, at a fraction of the training cost of any of\nthe competitive models.\nOn the WMT 2014 English-to-French translation task, our big model achieves a BLEU score of 41.0,\noutperforming all of the previously published single models, at less than 1/4 the training cost of the\nprevious state-of-the-art model. The Transformer (big) model trained for English-to-French used\ndropout rate Pdrop = 0.1, instead of 0.3.\nFor the base models, we used a single model obtained by averaging the last 5 checkpoints, which\nwere written at 10-minute intervals. For the big models, we averaged the last 20 checkpoints. We\nused beam search with a beam size of 4 and length penalty α = 0.6 [38]. These hyperparameters\nwere chosen after experimentation on th"
+      },
+      {
+        "id": "attention_2017-p0001-fixed-d44dc19c80fab5b0",
+        "rank": 2,
+        "score": 26.98806,
+        "source_id": "attention_2017",
+        "page": 1,
+        "hit": false,
+        "text": "Provided proper attribution is provided, Google hereby grants permission to\nreproduce the tables and figures in this paper solely for use in journalistic or\nscholarly works.\nAttention Is All You Need\nAshish Vaswani∗\nGoogle Brain\navaswani@google.com\nNoam Shazeer∗\nGoogle Brain\nnoam@google.com\nNiki Parmar∗\nGoogle Research\nnikip@google.com\nJakob Uszkoreit∗\nGoogle Research\nusz@google.com\nLlion Jones∗\nGoogle Research\nllion@google.com\nAidan N. Gomez∗ †\nUniversity of Toronto\naidan@cs.toronto.edu\nŁukasz Kaiser∗\nGoogle Brain\nlukaszkaiser@google.com\nIllia Polosukhin∗ ‡\nillia.polosukhin@gmail.com\nAbstract\nThe dominant sequence transduction models are based on complex recurrent or\nconvolutional neural networks that include an encoder and a decoder. The best\nperforming models also connect the encoder and decoder through an attention\nmechanism. We propose a new simple network architecture, the Transfor"
+      },
+      {
+        "id": "attention_2017-p0007-fixed-ea16339a040402a7",
+        "rank": 3,
+        "score": 23.98312,
+        "source_id": "attention_2017",
+        "page": 7,
+        "hit": false,
+        "text": "ividual attention\nheads clearly learn to perform different tasks, many appear to exhibit behavior related to the syntactic\nand semantic structure of the sentences.\n5 Training\nThis section describes the training regime for our models.\n5.1 Training Data and Batching\nWe trained on the standard WMT 2014 English-German dataset consisting of about 4.5 million\nsentence pairs. Sentences were encoded using byte-pair encoding [ 3], which has a shared source-\ntarget vocabulary of about 37000 tokens. For English-French, we used the significantly larger WMT\n2014 English-French dataset consisting of 36M sentences and split tokens into a 32000 word-piece\nvocabulary [38]. Sentence pairs were batched together by approximate sequence length. Each training\nbatch contained a set of sentence pairs containing approximately 25000 source tokens and 25000\ntarget tokens.\n5.2 Hardware and Schedule\nWe trained our m"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "rr": 1.0,
+    "context_ids": [
+      "attention_2017-p0008-fixed-1d8c8960ee40d23f",
+      "attention_2017-p0001-fixed-d44dc19c80fab5b0",
+      "attention_2017-p0007-fixed-ea16339a040402a7"
+    ],
+    "context_chars": 2941,
+    "context_hit": true,
+    "context": "[attention_2017-p0008-fixed-1d8c8960ee40d23f] (nguồn: attention_2017, trang 8)\nhis model is\nlisted in the bottom line of Table 3. Training took 3.5 days on 8 P100 GPUs. Even our base model\nsurpasses all previously published models and ensembles, at a fraction of the training cost of any of\nthe competitive models.\nOn the WMT 2014 English-to-French translation task, our big model achieves a BLEU score of 41.0,\noutperforming all of the previously published single models, at less than 1/4 the training cost of the\nprevious state-of-the-art model. The Transformer (big) model trained for English-to-French used\ndropout rate Pdrop = 0.1, instead of 0.3.\nFor the base models, we used a single model obtained by averaging the last 5 checkpoints, which\nwere written at 10-minute intervals. For the big models, we averaged the last 20 checkpoints. We\nused beam search with a beam size of 4 and length penalty α = 0.6 [38]. These hyperparameters\nwere chosen after experimentation on th\n\n[attention_2017-p0001-fixed-d44dc19c80fab5b0] (nguồn: attention_2017, trang 1)\nProvided proper attribution is provided, Google hereby grants permission to\nreproduce the tables and figures in this paper solely for use in journalistic or\nscholarly works.\nAttention Is All You Need\nAshish Vaswani∗\nGoogle Brain\navaswani@google.com\nNoam Shazeer∗\nGoogle Brain\nnoam@google.com\nNiki Parmar∗\nGoogle Research\nnikip@google.com\nJakob Uszkoreit∗\nGoogle Research\nusz@google.com\nLlion Jones∗\nGoogle Research\nllion@google.com\nAidan N. Gomez∗ †\nUniversity of Toronto\naidan@cs.toronto.edu\nŁukasz Kaiser∗\nGoogle Brain\nlukaszkaiser@google.com\nIllia Polosukhin∗ ‡\nillia.polosukhin@gmail.com\nAbstract\nThe dominant sequence transduction models are based on complex recurrent or\nconvolutional neural networks that include an encoder and a decoder. The best\nperforming models also connect the encoder and decoder through an attention\nmechanism. We propose a new simple network architecture, the Transfor\n\n[attention_2017-p0007-fixed-ea16339a040402a7] (nguồn: attention_2017, trang 7)\nividual attention\nheads clearly learn to perform different tasks, many appear to exhibit behavior related to the syntactic\nand semantic structure of the sentences.\n5 Training\nThis section describes the training regime for our models.\n5.1 Training Data and Batching\nWe trained on the standard WMT 2014 English-German dataset consisting of about 4.5 million\nsentence pairs. Sentences were encoded using byte-pair encoding [ 3], which has a shared source-\ntarget vocabulary of about 37000 tokens. For English-French, we used the significantly larger WMT\n2014 English-French dataset consisting of 36M sentences and split tokens into a 32000 word-piece\nvocabulary [38]. Sentence pairs were batched together by approximate sequence length. Each training\nbatch contained a set of sentence pairs containing approximately 25000 source tokens and 25000\ntarget tokens.\n5.2 Hardware and Schedule\nWe trained our m",
+    "latency_ms": 0.2,
+    "error": null
+  }
+]
