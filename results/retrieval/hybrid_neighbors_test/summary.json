@@ -1,0 +1,22 @@
+{
+  "config": "hybrid_neighbors",
+  "split": "test",
+  "method": "hybrid",
+  "top_k": 3,
+  "filter": "none",
+  "neighbors": 1,
+  "budget_chars": 7000,
+  "note": "Cải thiện 1: hybrid + thêm chunk lân cận ±1 vào context (evidence bị cắt ở ranh giới)",
+  "N": 5,
+  "hit1": 3,
+  "hit3": 5,
+  "mrr3": 0.8,
+  "context_evidence": 5,
+  "avg_context_chars": 5532,
+  "median_latency_ms": 618.7,
+  "errors": 0,
+  "embed_tokens": 218,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "cost_usd": 4e-06
+}

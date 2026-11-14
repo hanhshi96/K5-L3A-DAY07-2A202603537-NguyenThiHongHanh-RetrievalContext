@@ -1,0 +1,22 @@
+{
+  "config": "dense",
+  "split": "test",
+  "method": "dense",
+  "top_k": 3,
+  "filter": "none",
+  "neighbors": 0,
+  "budget_chars": 4000,
+  "note": "Baseline: dense pgvector Day 6 (strategy A), query gốc",
+  "N": 5,
+  "hit1": 3,
+  "hit3": 5,
+  "mrr3": 0.7667,
+  "context_evidence": 5,
+  "avg_context_chars": 2831,
+  "median_latency_ms": 523.8,
+  "errors": 0,
+  "embed_tokens": 218,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "cost_usd": 4e-06
+}

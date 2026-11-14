@@ -1,0 +1,299 @@
+[
+  {
+    "query_id": "T01",
+    "split": "test",
+    "question": "Theo Nghị định 13/2023, khi chủ thể dữ liệu yêu cầu cung cấp dữ liệu cá nhân của mình, Bên Kiểm soát dữ liệu cá nhân phải cung cấp trong thời hạn bao lâu?",
+    "config": "hybrid_neighbors",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 12,
+        "evidence": "thực hiện trong 72 giờ sau khi có yêu cầu của chủ thể dữ liệu, trừ trường hợp luật có quy định khác"
+      }
+    ],
+    "top3": [
+      {
+        "id": "nd13_2023-p0012-fixed-ed68943b32058d19",
+        "rank": 1,
+        "score": 0.03178,
+        "source_id": "nd13_2023",
+        "page": 12,
+        "hit": true,
+        "text": "14 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\n2. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân:\na) Được cung cấp dữ liệu cá nhân của chủ thể dữ liệu cho tổ chức, cá nhân khác khi\ncó sự đồng ý của chủ thể dữ liệu, trừ trường hợp pháp luật có quy định khác;\nb) Thay m ặt chủ thể dữ liệu cung c ấp dữ liệu cá nhân c ủa chủ thể dữ liệu cho\ntổ ch ức ho ặc cá nhân khác khi ch ủ th ể d ữ li ệu đồng ý cho phép đại di ện và ủy\nquyền, trừ trường hợp pháp luật có quy định khác.\n3. Việc cung cấp dữ liệu cá nhân của chủ thể dữ liệu được Bên Kiểm soát dữ liệu\ncá nhân, Bên Kiểm soát và x ử lý d ữ liệu cá nhân th ực hiện trong 72 giờ sau khi có\nyêu cầu của chủ thể dữ liệu, trừ trường hợp luật có quy định khác.\n4. Bên Ki ểm soát d ữ li ệu cá nhân, Bên Ki ểm soát và x ử lý d ữ li ệu cá nhân\nkhông cung cấp dữ liệu cá nhân trong trường hợp:\na) Gây tổn hại tới quốc phòng, an ninh quốc gia, t"
+      },
+      {
+        "id": "nd13_2023-p0013-fixed-851b171fec729587",
+        "rank": 2,
+        "score": 0.03089,
+        "source_id": "nd13_2023",
+        "page": 13,
+        "hit": false,
+        "text": "ấp dữ liệu cá nhân theo yêu cầu;\nb) Trường hợp dữ liệu cá nhân được yêu c ầu không thuộc thẩm quyền thì Bên\nKiểm soát dữ liệu cá nhân, Bên Ki ểm soát và xử lý dữ liệu cá nhân nhận được yêu\ncầu phải thông báo và h ướng dẫn tổ chức, cá nhân yêu c ầu đến cơ quan có th ẩm\nquyền hoặc thông báo rõ ràng việc không thể cung cấp dữ liệu cá nhân.\n9. Giải quyết yêu cầu cung cấp dữ liệu cá nhân\nKhi nhận được yêu cầu cung cấp dữ liệu cá nhân hợp lệ, Bên Kiểm soát dữ liệu\ncá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân có trách nhi ệm cung c ấp dữ liệu\ncá nhân thông báo v ề thời hạn, địa điểm, hình th ức cung c ấp dữ liệu cá nhân; chi\nphí thực tế để in, sao, ch ụp, gửi thông tin qua d ịch vụ bưu chính, fax (n ếu có) và\nphương th ức, th ời h ạn thanh toán; th ực hi ện vi ệc cung c ấp d ữ li ệu cá nhân theo\ntrình tự, thủ tục quy định tại Điều này.\nĐiều 15. Chỉnh sửa dữ liệu cá nhân\n1. Chủ thể dữ liệu"
+      },
+      {
+        "id": "nd13_2023-p0011-fixed-79aa6289b03655c3",
+        "rank": 3,
+        "score": 0.03055,
+        "source_id": "nd13_2023",
+        "page": 11,
+        "hit": false,
+        "text": "9 Nghị định này;\nb) Dữ liệu cá nhân được xử lý b ởi cơ quan nhà n ước có th ẩm quyền với mục\nđích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật.\nĐiều 14. Cung cấp dữ liệu cá nhân\n1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát\nvà xử lý dữ liệu cá nhân cung cấp cho bản thân dữ liệu cá nhân của mình."
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "rr": 1.0,
+    "context_ids": [
+      "nd13_2023-p0011-fixed-79aa6289b03655c3",
+      "nd13_2023-p0012-fixed-ed68943b32058d19",
+      "nd13_2023-p0012-fixed-d8ba50e4d4632b33",
+      "nd13_2023-p0013-fixed-8106ea02f5453698",
+      "nd13_2023-p0013-fixed-851b171fec729587",
+      "nd13_2023-p0013-fixed-fc44061a47bf1c64",
+      "nd13_2023-p0011-fixed-700998245558d338"
+    ],
+    "context_chars": 5937,
+    "context_hit": true,
+    "context": "[nd13_2023-p0011-fixed-79aa6289b03655c3] (nguồn: nd13_2023, trang 11)\n9 Nghị định này;\nb) Dữ liệu cá nhân được xử lý b ởi cơ quan nhà n ước có th ẩm quyền với mục\nđích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật.\nĐiều 14. Cung cấp dữ liệu cá nhân\n1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát\nvà xử lý dữ liệu cá nhân cung cấp cho bản thân dữ liệu cá nhân của mình.\n\n[nd13_2023-p0012-fixed-ed68943b32058d19] (nguồn: nd13_2023, trang 12)\n14 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\n2. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân:\na) Được cung cấp dữ liệu cá nhân của chủ thể dữ liệu cho tổ chức, cá nhân khác khi\ncó sự đồng ý của chủ thể dữ liệu, trừ trường hợp pháp luật có quy định khác;\nb) Thay m ặt chủ thể dữ liệu cung c ấp dữ liệu cá nhân c ủa chủ thể dữ liệu cho\ntổ ch ức ho ặc cá nhân khác khi ch ủ th ể d ữ li ệu đồng ý cho phép đại di ện và ủy\nquyền, trừ trường hợp pháp luật có quy định khác.\n3. Việc cung cấp dữ liệu cá nhân của chủ thể dữ liệu được Bên Kiểm soát dữ liệu\ncá nhân, Bên Kiểm soát và x ử lý d ữ liệu cá nhân th ực hiện trong 72 giờ sau khi có\nyêu cầu của chủ thể dữ liệu, trừ trường hợp luật có quy định khác.\n4. Bên Ki ểm soát d ữ li ệu cá nhân, Bên Ki ểm soát và x ử lý d ữ li ệu cá nhân\nkhông cung cấp dữ liệu cá nhân trong trường hợp:\na) Gây tổn hại tới quốc phòng, an ninh quốc gia, t\n\n[nd13_2023-p0012-fixed-d8ba50e4d4632b33] (nguồn: nd13_2023, trang 12)\ná nhân, Bên Ki ểm soát và x ử lý d ữ li ệu cá nhân\nkhông cung cấp dữ liệu cá nhân trong trường hợp:\na) Gây tổn hại tới quốc phòng, an ninh quốc gia, trật tự an toàn xã hội;\nb) Việc cung c ấp dữ liệu cá nhân c ủa chủ thể dữ liệu có th ể ảnh hưởng tới sự\nan toàn, sức khỏe thể chất hoặc tinh thần của người khác;\nc) Chủ thể dữ liệu không đồng ý cung c ấp, cho phép đại diện hoặc ủy quyền\nnhận dữ liệu cá nhân.\n5. Hình thức yêu cầu cung cấp dữ liệu cá nhân:\na) Ch ủ th ể d ữ li ệu tr ực ti ếp ho ặc ủy quy ền cho ng ười khác đến tr ụ s ở Bên\nKiểm soát d ữ liệu cá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân yêu c ầu cung\ncấp dữ liệu cá nhân.\nNgười tiếp nhận yêu c ầu có trách nhi ệm hướng dẫn tổ chức, cá nhân yêu c ầu\nđiền các nội dung vào Phiếu yêu cầu cung cấp dữ liệu cá nhân.\nTrường hợp tổ chức, cá nhân yêu c ầu cung c ấp thông tin không bi ết chữ hoặc\nbị khuyết tật không thể viết yêu cầu th\n\n[nd13_2023-p0013-fixed-8106ea02f5453698] (nguồn: nd13_2023, trang 13)\nCÔNG BÁO/Số 685 + 686/Ngày 30-4-2023 15\n\na) Họ, tên; nơi cư trú, địa chỉ; số chứng minh nhân dân, thẻ căn cước công dân\nhoặc số hộ chiếu của người yêu cầu; số fax, điện thoại, địa chỉ thư điện tử (nếu có);\nb) Dữ liệu cá nhân được yêu cầu cung cấp, trong đó chỉ rõ tên v ăn bản, hồ sơ,\ntài liệu;\nc) Hình thức cung cấp dữ liệu cá nhân;\nd) Lý do, mục đích yêu cầu cung cấp dữ liệu cá nhân.\n7. Trường hợp yêu cầu cung cấp dữ liệu cá nhân quy định tại khoản 2 Điều này\nthì phải kèm theo văn bản đồng ý của cá nhân, tổ chức liên quan.\n8. Tiếp nhận yêu cầu cung cấp dữ liệu cá nhân\na) Bên Ki ểm soát d ữ liệu cá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân có\ntrách nhiệm tiếp nhận yêu cầu cung cấp dữ liệu cá nhân và theo dõi quá trình, danh\nsách cung cấp dữ liệu cá nhân theo yêu cầu;\nb) Trường hợp dữ liệu cá nhân được yêu c ầu không thuộc thẩm quyền thì Bên\nKiểm soát dữ liệu cá nhân, Bên Ki ểm soát\n\n[nd13_2023-p0013-fixed-851b171fec729587] (nguồn: nd13_2023, trang 13)\nấp dữ liệu cá nhân theo yêu cầu;\nb) Trường hợp dữ liệu cá nhân được yêu c ầu không thuộc thẩm quyền thì Bên\nKiểm soát dữ liệu cá nhân, Bên Ki ểm soát và xử lý dữ liệu cá nhân nhận được yêu\ncầu phải thông báo và h ướng dẫn tổ chức, cá nhân yêu c ầu đến cơ quan có th ẩm\nquyền hoặc thông báo rõ ràng việc không thể cung cấp dữ liệu cá nhân.\n9. Giải quyết yêu cầu cung cấp dữ liệu cá nhân\nKhi nhận được yêu cầu cung cấp dữ liệu cá nhân hợp lệ, Bên Kiểm soát dữ liệu\ncá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân có trách nhi ệm cung c ấp dữ liệu\ncá nhân thông báo v ề thời hạn, địa điểm, hình th ức cung c ấp dữ liệu cá nhân; chi\nphí thực tế để in, sao, ch ụp, gửi thông tin qua d ịch vụ bưu chính, fax (n ếu có) và\nphương th ức, th ời h ạn thanh toán; th ực hi ện vi ệc cung c ấp d ữ li ệu cá nhân theo\ntrình tự, thủ tục quy định tại Điều này.\nĐiều 15. Chỉnh sửa dữ liệu cá nhân\n1. Chủ thể dữ liệu\n\n[nd13_2023-p0013-fixed-fc44061a47bf1c64] (nguồn: nd13_2023, trang 13)\noán; th ực hi ện vi ệc cung c ấp d ữ li ệu cá nhân theo\ntrình tự, thủ tục quy định tại Điều này.\nĐiều 15. Chỉnh sửa dữ liệu cá nhân\n1. Chủ thể dữ liệu:\na) Được truy cập để xem, chỉnh sửa dữ liệu cá nhân c ủa mình sau khi đã được\nBên Kiểm soát d ữ liệu cá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân thu th ập\ntheo sự đồng ý, trừ trường hợp luật có quy định khác;\nb) Tr ường h ợp không th ể ch ỉnh s ửa tr ực ti ếp vì lý do k ỹ thuật ho ặc vì lý do\nkhác, chủ thể dữ liệu yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử\nlý dữ liệu cá nhân chỉnh sửa dữ liệu cá nhân của mình.\n\n[nd13_2023-p0011-fixed-700998245558d338] (nguồn: nd13_2023, trang 11)\nuy\nđịnh tại điểm a khoản 2 Điều này;\nđ) Hậu quả, thiệt hại không mong muốn có khả năng xảy ra;\ne) Thời gian bắt đầu, thời gian kết thúc xử lý dữ liệu.\n3. Việc thông báo cho ch ủ thể dữ liệu phải được thể hiện ở một định dạng có\nthể được in, sao chép b ằng văn bản, bao gồm cả dưới dạng điện tử hoặc định dạng\nkiểm chứng được.\n4. Bên Ki ểm soát d ữ li ệu cá nhân, Bên Ki ểm soát và x ử lý d ữ li ệu cá nhân\nkhông cần thực hiện quy định tại khoản 1 Điều này trong các trường hợp sau:\na) Chủ thể dữ liệu đã biết rõ và đồng ý toàn bộ với nội dung quy định tại khoản 1\nvà kho ản 2 Điều này tr ước khi đồng ý cho Bên Ki ểm soát d ữ li ệu cá nhân, Bên\nKiểm soát và xử lý dữ liệu cá nhân tiến hành thu thập dữ liệu cá nhân, phù hợp với\ncác quy định tại Điều 9 Nghị định này;\nb) Dữ liệu cá nhân được xử lý b ởi cơ quan nhà n ước có th ẩm quyền với mục\nđích phục vụ hoạt động của cơ quan nhà nước theo quy định",
+    "latency_ms": 618.7,
+    "error": null
+  },
+  {
+    "query_id": "T02",
+    "split": "test",
+    "question": "Theo Nghị định 13/2023, xử lý dữ liệu cá nhân của người đã chết cần sự đồng ý của ai?",
+    "config": "hybrid_neighbors",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 16,
+        "evidence": "người đã chết phải được sự đồng ý của vợ, chồng hoặc con thành niên"
+      }
+    ],
+    "top3": [
+      {
+        "id": "nd13_2023-p0016-fixed-4194921a5bbaa069",
+        "rank": 1,
+        "score": 0.03279,
+        "source_id": "nd13_2023",
+        "page": 16,
+        "hit": true,
+        "text": "liệu cá nhân của người bị tuyên bố mất tích, đã chết\n1. Việc xử lý dữ liệu cá nhân liên quan đến dữ liệu cá nhân của người bị tuyên\nbố mất tích, người đã chết phải được sự đồng ý của vợ, chồng hoặc con thành niên\ncủa người đó, trường hợp không có nh ững người này thì ph ải được sự đồng ý c ủa\ncha, mẹ của người bị tuyên bố mất tích, người đã chết, trừ trường hợp quy định tại\nĐiều 17 và Điều 18 Nghị định này.\n2. Trường hợp không có tất cả những người được nêu tại khoản 1 Điều này thì\nđược coi là không có sự đồng ý.\nĐiều 20. Xử lý dữ liệu cá nhân của trẻ em\n1. Xử lý d ữ liệu cá nhân c ủa trẻ em luôn được thực hiện theo nguyên t ắc bảo\nvệ các quyền và vì lợi ích tốt nhất của trẻ em."
+      },
+      {
+        "id": "nd13_2023-p0016-fixed-06e793efe7d3943a",
+        "rank": 2,
+        "score": 0.032,
+        "source_id": "nd13_2023",
+        "page": 16,
+        "hit": false,
+        "text": "quan theo quy định của luật.\n5. Ph ục v ụ ho ạt động c ủa c ơ quan nhà n ước đã được quy định theo lu ật\nchuyên ngành.\nĐiều 18. Xử lý dữ liệu cá nhân thu được từ hoạt động ghi âm, ghi hình t ại\nnơi công cộng\nCơ quan, t ổ ch ức có th ẩm quy ền được ghi âm, ghi hình và x ử lý d ữ li ệu cá\nnhân thu được từ hoạt động ghi âm, ghi hình t ại nơi công c ộng với mục đích bảo\nvệ an ninh qu ốc gia, trật tự an toàn xã h ội, quyền và lợi ích hợp pháp của tổ chức,\ncá nhân theo quy định của pháp lu ật mà không c ần có s ự đồng ý c ủa chủ thể. Khi\nthực hiện việc ghi âm, ghi hình, c ơ quan, t ổ chức có th ẩm quyền có trách nhi ệm\nthông báo để ch ủ th ể hi ểu được mình đang b ị ghi âm, ghi hình, tr ừ tr ường h ợp\npháp luật có quy định khác.\nĐiều 19. Xử lý dữ liệu cá nhân của người bị tuyên bố mất tích, đã chết\n1. Việc xử lý dữ liệu cá nhân liên quan đến dữ liệu cá nhân của người bị tuyên\nbố mất tích, ngườ"
+      },
+      {
+        "id": "nd13_2023-p0015-fixed-e30e084c02e3ae17",
+        "rank": 3,
+        "score": 0.03102,
+        "source_id": "nd13_2023",
+        "page": 15,
+        "hit": false,
+        "text": "n thi ết v ới ho ạt động c ủa Bên\nKiểm soát dữ liệu cá nhân, Bên Ki ểm soát và x ử lý dữ liệu cá nhân, Bên X ử lý dữ\nliệu cá nhân, Bên thứ ba;\nc) Bên Ki ểm soát d ữ liệu cá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân,\nBên X ử lý d ữ li ệu cá nhân, Bên th ứ ba b ị gi ải th ể ho ặc không còn ho ạt động\nhoặc tuyên b ố phá s ản ho ặc b ị ch ấm d ứt ho ạt động kinh doanh theo quy định\ncủa pháp lu ật.\nĐiều 17. Xử lý dữ liệu cá nhân trong trường hợp không cần sự đồng ý của\nchủ thể dữ liệu\n1. Trong trường hợp khẩn cấp, cần xử lý ngay d ữ liệu cá nhân có liên quan để\nbảo vệ tính m ạng, sức khỏe của chủ thể dữ liệu hoặc người khác. Bên Ki ểm soát"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "rr": 1.0,
+    "context_ids": [
+      "nd13_2023-p0016-fixed-06e793efe7d3943a",
+      "nd13_2023-p0016-fixed-4194921a5bbaa069",
+      "nd13_2023-p0017-fixed-bb34830ee36b5304",
+      "nd13_2023-p0016-fixed-8c7be5b75dbfa3bb",
+      "nd13_2023-p0015-fixed-25634920d343de2d",
+      "nd13_2023-p0015-fixed-e30e084c02e3ae17"
+    ],
+    "context_chars": 5362,
+    "context_hit": true,
+    "context": "[nd13_2023-p0016-fixed-06e793efe7d3943a] (nguồn: nd13_2023, trang 16)\nquan theo quy định của luật.\n5. Ph ục v ụ ho ạt động c ủa c ơ quan nhà n ước đã được quy định theo lu ật\nchuyên ngành.\nĐiều 18. Xử lý dữ liệu cá nhân thu được từ hoạt động ghi âm, ghi hình t ại\nnơi công cộng\nCơ quan, t ổ ch ức có th ẩm quy ền được ghi âm, ghi hình và x ử lý d ữ li ệu cá\nnhân thu được từ hoạt động ghi âm, ghi hình t ại nơi công c ộng với mục đích bảo\nvệ an ninh qu ốc gia, trật tự an toàn xã h ội, quyền và lợi ích hợp pháp của tổ chức,\ncá nhân theo quy định của pháp lu ật mà không c ần có s ự đồng ý c ủa chủ thể. Khi\nthực hiện việc ghi âm, ghi hình, c ơ quan, t ổ chức có th ẩm quyền có trách nhi ệm\nthông báo để ch ủ th ể hi ểu được mình đang b ị ghi âm, ghi hình, tr ừ tr ường h ợp\npháp luật có quy định khác.\nĐiều 19. Xử lý dữ liệu cá nhân của người bị tuyên bố mất tích, đã chết\n1. Việc xử lý dữ liệu cá nhân liên quan đến dữ liệu cá nhân của người bị tuyên\nbố mất tích, ngườ\n\n[nd13_2023-p0016-fixed-4194921a5bbaa069] (nguồn: nd13_2023, trang 16)\nliệu cá nhân của người bị tuyên bố mất tích, đã chết\n1. Việc xử lý dữ liệu cá nhân liên quan đến dữ liệu cá nhân của người bị tuyên\nbố mất tích, người đã chết phải được sự đồng ý của vợ, chồng hoặc con thành niên\ncủa người đó, trường hợp không có nh ững người này thì ph ải được sự đồng ý c ủa\ncha, mẹ của người bị tuyên bố mất tích, người đã chết, trừ trường hợp quy định tại\nĐiều 17 và Điều 18 Nghị định này.\n2. Trường hợp không có tất cả những người được nêu tại khoản 1 Điều này thì\nđược coi là không có sự đồng ý.\nĐiều 20. Xử lý dữ liệu cá nhân của trẻ em\n1. Xử lý d ữ liệu cá nhân c ủa trẻ em luôn được thực hiện theo nguyên t ắc bảo\nvệ các quyền và vì lợi ích tốt nhất của trẻ em.\n\n[nd13_2023-p0017-fixed-bb34830ee36b5304] (nguồn: nd13_2023, trang 17)\nCÔNG BÁO/Số 685 + 686/Ngày 30-4-2023 19\n\n2. Việc xử lý d ữ liệu cá nhân c ủa trẻ em ph ải có s ự đồng ý c ủa trẻ em trong\ntrường h ợp tr ẻ em t ừ đủ 7 tu ổi tr ở lên và có s ự đồng ý c ủa cha, m ẹ ho ặc ng ười\ngiám hộ theo quy định, trừ trường hợp quy định tại Điều 17 Ngh ị định này. Bên\nKiểm soát dữ liệu cá nhân, Bên X ử lý dữ liệu cá nhân, Bên Ki ểm soát và x ử lý dữ\nliệu cá nhân, Bên th ứ ba ph ải xác minh tu ổi của trẻ em tr ước khi x ử lý d ữ liệu cá\nnhân của trẻ em.\n3. Ngừng xử lý dữ liệu cá nhân c ủa trẻ em, xóa không th ể khôi phục hoặc hủy\ndữ liệu cá nhân của trẻ em trong trường hợp:\na) Xử lý d ữ li ệu không đúng m ục đích ho ặc đã hoàn thành m ục đích x ử lý\ndữ li ệu cá nhân được ch ủ th ể d ữ li ệu đồng ý, tr ừ tr ường h ợp pháp lu ật có quy\nđịnh khác;\nb) Cha, mẹ hoặc người giám hộ của trẻ em rút lại sự đồng ý cho phép xử lý dữ\nliệu cá nhân của trẻ em, trừ trường hợp pháp luật\n\n[nd13_2023-p0016-fixed-8c7be5b75dbfa3bb] (nguồn: nd13_2023, trang 16)\n18 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\ndữ li ệu cá nhân, Bên X ử lý d ữ li ệu cá nhân, Bên Ki ểm soát và x ử lý d ữ li ệu cá\nnhân, Bên thứ ba có trách nhiệm chứng minh trường hợp này.\n2. Việc công khai dữ liệu cá nhân theo quy định của luật.\n3. Việc xử lý d ữ liệu của cơ quan nhà n ước có th ẩm quyền trong tr ường hợp\ntình trạng khẩn cấp về quốc phòng, an ninh qu ốc gia, tr ật tự an toàn xã h ội, thảm\nhọa lớn, dịch bệnh nguy hi ểm; khi có nguy c ơ đe dọa an ninh, qu ốc phòng nh ưng\nchưa đến m ức ban b ố tình tr ạng kh ẩn c ấp; phòng, ch ống b ạo lo ạn, kh ủng b ố,\nphòng, chống tội phạm và vi phạm pháp luật theo quy định của luật.\n4. Để th ực hi ện ngh ĩa v ụ theo h ợp đồng c ủa ch ủ th ể d ữ li ệu v ới c ơ quan, t ổ\nchức, cá nhân có liên quan theo quy định của luật.\n5. Ph ục v ụ ho ạt động c ủa c ơ quan nhà n ước đã được quy định theo lu ật\nchuyên ngành.\nĐiều 18. Xử lý dữ liệu cá nhân\n\n[nd13_2023-p0015-fixed-25634920d343de2d] (nguồn: nd13_2023, trang 15)\ntoàn b ộ dữ liệu cá nhân mà Bên Ki ểm soát d ữ liệu cá nhân, Bên\nKiểm soát và x ử lý d ữ li ệu cá nhân thu th ập được, tr ừ tr ường h ợp pháp lu ật có\nquy định khác.\n6. Bên Ki ểm soát d ữ li ệu cá nhân, Bên Ki ểm soát và x ử lý d ữ li ệu cá nhân,\nBên Xử lý dữ liệu cá nhân, Bên th ứ ba lưu trữ dữ liệu cá nhân theo hình th ức phù\nhợp với hoạt động của mình và có bi ện pháp bảo vệ dữ liệu cá nhân theo quy định\ncủa pháp luật.\n7. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên\nXử lý dữ liệu cá nhân, Bên thứ ba xóa không thể khôi phục trong trường hợp:\na) Xử lý d ữ liệu không đúng mục đích hoặc đã hoàn thành m ục đích xử lý d ữ\nliệu cá nhân được chủ thể dữ liệu đồng ý;\nb) Vi ệc l ưu tr ữ d ữ li ệu cá nhân không còn c ần thi ết v ới ho ạt động c ủa Bên\nKiểm soát dữ liệu cá nhân, Bên Ki ểm soát và x ử lý dữ liệu cá nhân, Bên X ử lý dữ\nliệu cá nhân, Bên thứ ba;\nc) Bên\n\n[nd13_2023-p0015-fixed-e30e084c02e3ae17] (nguồn: nd13_2023, trang 15)\nn thi ết v ới ho ạt động c ủa Bên\nKiểm soát dữ liệu cá nhân, Bên Ki ểm soát và x ử lý dữ liệu cá nhân, Bên X ử lý dữ\nliệu cá nhân, Bên thứ ba;\nc) Bên Ki ểm soát d ữ liệu cá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân,\nBên X ử lý d ữ li ệu cá nhân, Bên th ứ ba b ị gi ải th ể ho ặc không còn ho ạt động\nhoặc tuyên b ố phá s ản ho ặc b ị ch ấm d ứt ho ạt động kinh doanh theo quy định\ncủa pháp lu ật.\nĐiều 17. Xử lý dữ liệu cá nhân trong trường hợp không cần sự đồng ý của\nchủ thể dữ liệu\n1. Trong trường hợp khẩn cấp, cần xử lý ngay d ữ liệu cá nhân có liên quan để\nbảo vệ tính m ạng, sức khỏe của chủ thể dữ liệu hoặc người khác. Bên Ki ểm soát",
+    "latency_ms": 1035.1,
+    "error": null
+  },
+  {
+    "query_id": "T03",
+    "split": "test",
+    "question": "Theo Nghị định 13/2023, kinh phí bảo vệ dữ liệu cá nhân của cơ quan nhà nước được bảo đảm từ nguồn nào?",
+    "config": "hybrid_neighbors",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 25,
+        "evidence": "Kinh phí bảo vệ dữ liệu cá nhân của cơ quan nhà nước do ngân sách nhà nước bảo đảm"
+      }
+    ],
+    "top3": [
+      {
+        "id": "nd13_2023-p0025-fixed-dfb2154197267e67",
+        "rank": 1,
+        "score": 0.03252,
+        "source_id": "nd13_2023",
+        "page": 25,
+        "hit": false,
+        "text": "CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023 27\n\nb) Bộ phận, nhân sự có chức năng bảo vệ dữ liệu cá nhân được chỉ định trong\ncơ quan, t ổ chức, doanh nghi ệp nh ằm bảo đảm thực hiện quy định v ề bảo v ệ d ữ\nliệu cá nhân;\nc) Tổ chức, cá nhân được huy động tham gia bảo vệ dữ liệu cá nhân;\nd) Bộ Công an xây d ựng chương trình, kế hoạch cụ thể nhằm phát triển nguồn\nnhân lực bảo vệ dữ liệu cá nhân.\n2. Cơ quan, tổ chức, cá nhân có trách nhi ệm tuyên truyền, phổ biến kiến thức,\nkỹ năng, nâng cao nhận thức bảo vệ dữ liệu cá nhân cho cơ quan, tổ chức, cá nhân.\n3. Bảo đảm cơ sở vật chất, điều kiện hoạt động cho Cơ quan chuyên trách b ảo\nvệ dữ liệu cá nhân.\nĐiều 31. Kinh phí bảo đảm hoạt động bảo vệ dữ liệu cá nhân\n1. Nguồn tài chính th ực hiện bảo vệ dữ liệu cá nhân bao g ồm ngân sách nhà\nnước; ủng hộ của cơ quan, tổ chức, cá nhân trong và ngoài nước; nguồn thu từ hoạt\nđộng cung c ấp dịch vụ bảo vệ dữ liệ"
+      },
+      {
+        "id": "nd13_2023-p0025-fixed-5cc52b0b382d1bdb",
+        "rank": 2,
+        "score": 0.03227,
+        "source_id": "nd13_2023",
+        "page": 25,
+        "hit": true,
+        "text": "cá nhân bao g ồm ngân sách nhà\nnước; ủng hộ của cơ quan, tổ chức, cá nhân trong và ngoài nước; nguồn thu từ hoạt\nđộng cung c ấp dịch vụ bảo vệ dữ liệu cá nhân; vi ện trợ quốc tế và các ngu ồn thu\nhợp pháp khác.\n2. Kinh phí b ảo v ệ d ữ li ệu cá nhân c ủa c ơ quan nhà n ước do ngân sách nhà\nnước bảo đảm, được bố trí trong dự toán ngân sách nhà nước hằng năm. Việc quản\nlý, sử dụng kinh phí từ ngân sách nhà nước được thực hiện theo quy định của pháp\nluật về ngân sách nhà nước.\n3. Kinh phí b ảo vệ dữ liệu cá nhân c ủa tổ chức, doanh nghi ệp do các t ổ chức,\ndoanh nghiệp tự bố trí và thực hiện theo quy định.\n\nChương III\nTRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN\n\nĐiều 32. Trách nhiệm của Bộ Công an\n1. Giúp Chính ph ủ thống nh ất thực hiện quản lý nhà n ước về bảo vệ dữ liệu\ncá nhân.\n2. Hướng dẫn, triển khai ho ạt động bảo vệ dữ liệu cá nhân, b ảo vệ quyền của\nchủ thể dữ liệu trước các hành vi"
+      },
+      {
+        "id": "nd13_2023-p0024-fixed-5d6b6c971101f8dd",
+        "rank": 3,
+        "score": 0.03151,
+        "source_id": "nd13_2023",
+        "page": 24,
+        "hit": false,
+        "text": "26 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\nbảo vệ dữ liệu cá nhân v ới Cơ quan chuyên trách b ảo vệ dữ liệu cá nhân. Tr ường\nhợp Bên Kiểm soát dữ liệu cá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân, Bên\nXử lý dữ liệu, Bên thứ ba là cá nhân thì trao đổi thông tin của cá nhân thực hiện.\n3. Thông báo cho ch ủ thể dữ liệu biết việc dữ liệu cá nhân nh ạy cảm của chủ\nthể dữ liệu được xử lý, tr ừ trường hợp quy định tại khoản 4 Điều 13, Điều 17 và\nĐiều 18 Nghị định này.\nĐiều 29. C ơ quan chuyên trách b ảo vệ dữ liệu cá nhân và C ổng thông tin\nquốc gia về bảo vệ dữ liệu cá nhân\n1. Cơ quan chuyên trách bảo vệ dữ liệu cá nhân là Cục An ninh mạng và phòng,\nchống tội phạm sử dụng công nghệ cao - Bộ Công an, có trách nhiệm giúp Bộ Công\nan thực hiện quản lý nhà nước về bảo vệ dữ liệu cá nhân.\n2. Cổng thông tin quốc gia về bảo vệ dữ liệu cá nhân:\na) Cung c ấp thông tin v ề ch ủ tr ương, đường l ối, c"
+      }
+    ],
+    "hit1": false,
+    "hit3": true,
+    "rr": 0.5,
+    "context_ids": [
+      "nd13_2023-p0024-fixed-f937812c5d3af43c",
+      "nd13_2023-p0025-fixed-dfb2154197267e67",
+      "nd13_2023-p0025-fixed-5cc52b0b382d1bdb",
+      "nd13_2023-p0025-fixed-32c9b69082b26a5f",
+      "nd13_2023-p0023-fixed-2b02c0cdd0f32d63",
+      "nd13_2023-p0024-fixed-5d6b6c971101f8dd",
+      "nd13_2023-p0024-fixed-655d70ee509480a0"
+    ],
+    "context_chars": 5538,
+    "context_hit": true,
+    "context": "[nd13_2023-p0024-fixed-f937812c5d3af43c] (nguồn: nd13_2023, trang 24)\ni phạm về bảo vệ dữ liệu cá nhân theo quy định của pháp luật;\ni) Thực hiện hoạt động khác theo quy định của pháp luật về bảo vệ dữ liệu cá nhân.\nĐiều 30. Điều kiện bảo đảm hoạt động bảo vệ dữ liệu cá nhân\n1. Lực lượng bảo vệ dữ liệu cá nhân:\na) L ực l ượng chuyên trách b ảo v ệ d ữ li ệu cá nhân được b ố trí t ại C ơ quan\nchuyên trách bảo vệ dữ liệu cá nhân;\n\n[nd13_2023-p0025-fixed-dfb2154197267e67] (nguồn: nd13_2023, trang 25)\nCÔNG BÁO/Số 685 + 686/Ngày 30-4-2023 27\n\nb) Bộ phận, nhân sự có chức năng bảo vệ dữ liệu cá nhân được chỉ định trong\ncơ quan, t ổ chức, doanh nghi ệp nh ằm bảo đảm thực hiện quy định v ề bảo v ệ d ữ\nliệu cá nhân;\nc) Tổ chức, cá nhân được huy động tham gia bảo vệ dữ liệu cá nhân;\nd) Bộ Công an xây d ựng chương trình, kế hoạch cụ thể nhằm phát triển nguồn\nnhân lực bảo vệ dữ liệu cá nhân.\n2. Cơ quan, tổ chức, cá nhân có trách nhi ệm tuyên truyền, phổ biến kiến thức,\nkỹ năng, nâng cao nhận thức bảo vệ dữ liệu cá nhân cho cơ quan, tổ chức, cá nhân.\n3. Bảo đảm cơ sở vật chất, điều kiện hoạt động cho Cơ quan chuyên trách b ảo\nvệ dữ liệu cá nhân.\nĐiều 31. Kinh phí bảo đảm hoạt động bảo vệ dữ liệu cá nhân\n1. Nguồn tài chính th ực hiện bảo vệ dữ liệu cá nhân bao g ồm ngân sách nhà\nnước; ủng hộ của cơ quan, tổ chức, cá nhân trong và ngoài nước; nguồn thu từ hoạt\nđộng cung c ấp dịch vụ bảo vệ dữ liệ\n\n[nd13_2023-p0025-fixed-5cc52b0b382d1bdb] (nguồn: nd13_2023, trang 25)\ncá nhân bao g ồm ngân sách nhà\nnước; ủng hộ của cơ quan, tổ chức, cá nhân trong và ngoài nước; nguồn thu từ hoạt\nđộng cung c ấp dịch vụ bảo vệ dữ liệu cá nhân; vi ện trợ quốc tế và các ngu ồn thu\nhợp pháp khác.\n2. Kinh phí b ảo v ệ d ữ li ệu cá nhân c ủa c ơ quan nhà n ước do ngân sách nhà\nnước bảo đảm, được bố trí trong dự toán ngân sách nhà nước hằng năm. Việc quản\nlý, sử dụng kinh phí từ ngân sách nhà nước được thực hiện theo quy định của pháp\nluật về ngân sách nhà nước.\n3. Kinh phí b ảo vệ dữ liệu cá nhân c ủa tổ chức, doanh nghi ệp do các t ổ chức,\ndoanh nghiệp tự bố trí và thực hiện theo quy định.\n\nChương III\nTRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN\n\nĐiều 32. Trách nhiệm của Bộ Công an\n1. Giúp Chính ph ủ thống nh ất thực hiện quản lý nhà n ước về bảo vệ dữ liệu\ncá nhân.\n2. Hướng dẫn, triển khai ho ạt động bảo vệ dữ liệu cá nhân, b ảo vệ quyền của\nchủ thể dữ liệu trước các hành vi\n\n[nd13_2023-p0025-fixed-32c9b69082b26a5f] (nguồn: nd13_2023, trang 25)\ný nhà n ước về bảo vệ dữ liệu\ncá nhân.\n2. Hướng dẫn, triển khai ho ạt động bảo vệ dữ liệu cá nhân, b ảo vệ quyền của\nchủ thể dữ liệu trước các hành vi vi phạm quy định của pháp luật về bảo vệ dữ liệu\n\n[nd13_2023-p0023-fixed-2b02c0cdd0f32d63] (nguồn: nd13_2023, trang 23)\nuật.\nĐiều 27. Bảo vệ dữ liệu cá nhân cơ bản\n1. Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 Nghị định này.\n2. Xây d ựng, ban hành các quy định về bảo vệ dữ liệu cá nhân, nêu rõ nh ững\nviệc cần thực hiện theo quy định của Nghị định này.\n3. Khuyến khích áp d ụng các tiêu chu ẩn bảo vệ dữ liệu cá nhân phù h ợp với\nlĩnh vực, ngành nghề, hoạt động có liên quan tới xử lý dữ liệu cá nhân.\n4. Kiểm tra an ninh m ạng đối với hệ thống và phương tiện, thiết bị phục vụ xử\nlý d ữ li ệu cá nhân tr ước khi x ử lý, xóa không th ể khôi ph ục được ho ặc h ủy các\nthiết bị chứa dữ liệu cá nhân.\nĐiều 28. Bảo vệ dữ liệu cá nhân nhạy cảm\n1. Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 và Điều 27 Nghị\nđịnh này.\n2. Chỉ định bộ phận có chức năng bảo vệ dữ liệu cá nhân, chỉ định nhân sự phụ\ntrách bảo vệ dữ liệu cá nhân và trao đổi thông tin về bộ phận và cá nhân ph ụ trách\n\n[nd13_2023-p0024-fixed-5d6b6c971101f8dd] (nguồn: nd13_2023, trang 24)\n26 CÔNG BÁO/Số 685 + 686/Ngày 30-4-2023\n\nbảo vệ dữ liệu cá nhân v ới Cơ quan chuyên trách b ảo vệ dữ liệu cá nhân. Tr ường\nhợp Bên Kiểm soát dữ liệu cá nhân, Bên Ki ểm soát và x ử lý d ữ liệu cá nhân, Bên\nXử lý dữ liệu, Bên thứ ba là cá nhân thì trao đổi thông tin của cá nhân thực hiện.\n3. Thông báo cho ch ủ thể dữ liệu biết việc dữ liệu cá nhân nh ạy cảm của chủ\nthể dữ liệu được xử lý, tr ừ trường hợp quy định tại khoản 4 Điều 13, Điều 17 và\nĐiều 18 Nghị định này.\nĐiều 29. C ơ quan chuyên trách b ảo vệ dữ liệu cá nhân và C ổng thông tin\nquốc gia về bảo vệ dữ liệu cá nhân\n1. Cơ quan chuyên trách bảo vệ dữ liệu cá nhân là Cục An ninh mạng và phòng,\nchống tội phạm sử dụng công nghệ cao - Bộ Công an, có trách nhiệm giúp Bộ Công\nan thực hiện quản lý nhà nước về bảo vệ dữ liệu cá nhân.\n2. Cổng thông tin quốc gia về bảo vệ dữ liệu cá nhân:\na) Cung c ấp thông tin v ề ch ủ tr ương, đường l ối, c\n\n[nd13_2023-p0024-fixed-655d70ee509480a0] (nguồn: nd13_2023, trang 24)\nản lý nhà nước về bảo vệ dữ liệu cá nhân.\n2. Cổng thông tin quốc gia về bảo vệ dữ liệu cá nhân:\na) Cung c ấp thông tin v ề ch ủ tr ương, đường l ối, chính sách c ủa Đảng, pháp\nluật của Nhà nước về bảo vệ dữ liệu cá nhân;\nb) Tuyên truyền, phổ biến chính sách, pháp luật về bảo vệ dữ liệu cá nhân;\nc) Cập nhật thông tin, tình hình bảo vệ dữ liệu cá nhân;\nd) Tiếp nhận thông tin, hồ sơ, dữ liệu về hoạt động bảo vệ dữ liệu cá nhân qua\nkhông gian mạng;\nđ) Cung cấp thông tin về kết quả đánh giá công tác b ảo vệ dữ liệu cá nhân của\ncơ quan, tổ chức, cá nhân có liên quan;\ne) Tiếp nhận thông báo vi phạm quy định về bảo vệ dữ liệu cá nhân;\ng) Cảnh báo, phối hợp cảnh báo về nguy cơ, hành vi xâm phạm dữ liệu cá nhân\ntheo quy định của pháp luật;\nh) Xử lý vi phạm về bảo vệ dữ liệu cá nhân theo quy định của pháp luật;\ni) Thực hiện hoạt động khác theo quy định của pháp luật về bảo vệ dữ liệu cá nhân.\nĐiều",
+    "latency_ms": 498.1,
+    "error": null
+  },
+  {
+    "query_id": "T04",
+    "split": "test",
+    "question": "In Attention Is All You Need, how much worse is single-head attention compared with the best setting in the model variation experiments?",
+    "config": "hybrid_neighbors",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 9,
+        "evidence": "single-head attention is 0.9 BLEU worse than the best setting"
+      }
+    ],
+    "top3": [
+      {
+        "id": "attention_2017-p0009-fixed-f682efbe9bebfdea",
+        "rank": 1,
+        "score": 0.03279,
+        "source_id": "attention_2017",
+        "page": 9,
+        "hit": true,
+        "text": ".2 5.47 25.7\n(E) positional embedding instead of sinusoids 4.92 25.7\nbig 6 1024 4096 16 0.3 300K 4.33 26.4 213\ndevelopment set, newstest2013. We used beam search as described in the previous section, but no\ncheckpoint averaging. We present these results in Table 3.\nIn Table 3 rows (A), we vary the number of attention heads and the attention key and value dimensions,\nkeeping the amount of computation constant, as described in Section 3.2.2. While single-head\nattention is 0.9 BLEU worse than the best setting, quality also drops off with too many heads.\nIn Table 3 rows (B), we observe that reducing the attention key size dk hurts model quality. This\nsuggests that determining compatibility is not easy and that a more sophisticated compatibility\nfunction than dot product may be beneficial. We further observe in rows (C) and (D) that, as expected,\nbigger models are better, and dropout is very"
+      },
+      {
+        "id": "attention_2017-p0005-fixed-d2cabfbc285e14a3",
+        "rank": 2,
+        "score": 0.03175,
+        "source_id": "attention_2017",
+        "page": 5,
+        "hit": false,
+        "text": "output values. These are concatenated and once again projected, resulting in the final values, as\ndepicted in Figure 2.\nMulti-head attention allows the model to jointly attend to information from different representation\nsubspaces at different positions. With a single attention head, averaging inhibits this.\nMultiHead(Q, K, V) = Concat(head1, ...,headh)W O\nwhere headi = Attention(QW Qi , KWKi , V WVi )\nWhere the projections are parameter matricesW Qi ∈ Rdmodel×dk, W Ki ∈ Rdmodel×dk, W Vi ∈ Rdmodel×dv\nand W O ∈ Rhdv×dmodel.\nIn this work we employ h = 8 parallel attention layers, or heads. For each of these we use\ndk = dv = dmodel/h = 64. Due to the reduced dimension of each head, the total computational cost\nis similar to that of single-head attention with full dimensionality.\n3.2.3 Applications of Attention in our Model\nThe Transformer uses multi-head attention in three different ways:\n•"
+      },
+      {
+        "id": "attention_2017-p0002-fixed-288d077adae96a87",
+        "rank": 3,
+        "score": 0.02986,
+        "source_id": "attention_2017",
+        "page": 2,
+        "hit": false,
+        "text": "f operations required to relate signals from two arbitrary input or output positions grows\nin the distance between positions, linearly for ConvS2S and logarithmically for ByteNet. This makes\nit more difficult to learn dependencies between distant positions [ 12]. In the Transformer this is\nreduced to a constant number of operations, albeit at the cost of reduced effective resolution due\nto averaging attention-weighted positions, an effect we counteract with Multi-Head Attention as\ndescribed in section 3.2.\nSelf-attention, sometimes called intra-attention is an attention mechanism relating different positions\nof a single sequence in order to compute a representation of the sequence. Self-attention has been\nused successfully in a variety of tasks including reading comprehension, abstractive summarization,\ntextual entailment and learning task-independent sentence representations [4, 27, 28,"
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "rr": 1.0,
+    "context_ids": [
+      "attention_2017-p0009-fixed-ac83ccf04bb4a5b5",
+      "attention_2017-p0009-fixed-f682efbe9bebfdea",
+      "attention_2017-p0009-fixed-745041c10ab83826",
+      "attention_2017-p0004-fixed-464af8a65bb5eead",
+      "attention_2017-p0005-fixed-d2cabfbc285e14a3",
+      "attention_2017-p0005-fixed-363bd91a72f448c0",
+      "attention_2017-p0002-fixed-508b5434ee30732d"
+    ],
+    "context_chars": 6213,
+    "context_hit": true,
+    "context": "[attention_2017-p0009-fixed-ac83ccf04bb4a5b5] (nguồn: attention_2017, trang 9)\nTable 3: Variations on the Transformer architecture. Unlisted values are identical to those of the base\nmodel. All metrics are on the English-to-German translation development set, newstest2013. Listed\nperplexities are per-wordpiece, according to our byte-pair encoding, and should not be compared to\nper-word perplexities.\nN d model dff h d k dv Pdrop ϵls train PPL BLEU paramssteps (dev) (dev) ×106\nbase 6 512 2048 8 64 64 0.1 0.1 100K 4.92 25.8 65\n(A)\n1 512 512 5.29 24.9\n4 128 128 5.00 25.5\n16 32 32 4.91 25.8\n32 16 16 5.01 25.4\n(B) 16 5.16 25.1 5832 5.01 25.4 60\n(C)\n2 6.11 23.7 36\n4 5.19 25.3 50\n8 4.88 25.5 80\n256 32 32 5.75 24.5 28\n1024 128 128 4.66 26.0 168\n1024 5.12 25.4 53\n4096 4.75 26.2 90\n(D)\n0.0 5.77 24.6\n0.2 4.95 25.5\n0.0 4.67 25.3\n0.2 5.47 25.7\n(E) positional embedding instead of sinusoids 4.92 25.7\nbig 6 1024 4096 16 0.3 300K 4.33 26.4 213\ndevelopment set, newstest2013. We used\n\n[attention_2017-p0009-fixed-f682efbe9bebfdea] (nguồn: attention_2017, trang 9)\n.2 5.47 25.7\n(E) positional embedding instead of sinusoids 4.92 25.7\nbig 6 1024 4096 16 0.3 300K 4.33 26.4 213\ndevelopment set, newstest2013. We used beam search as described in the previous section, but no\ncheckpoint averaging. We present these results in Table 3.\nIn Table 3 rows (A), we vary the number of attention heads and the attention key and value dimensions,\nkeeping the amount of computation constant, as described in Section 3.2.2. While single-head\nattention is 0.9 BLEU worse than the best setting, quality also drops off with too many heads.\nIn Table 3 rows (B), we observe that reducing the attention key size dk hurts model quality. This\nsuggests that determining compatibility is not easy and that a more sophisticated compatibility\nfunction than dot product may be beneficial. We further observe in rows (C) and (D) that, as expected,\nbigger models are better, and dropout is very\n\n[attention_2017-p0009-fixed-745041c10ab83826] (nguồn: attention_2017, trang 9)\nfunction than dot product may be beneficial. We further observe in rows (C) and (D) that, as expected,\nbigger models are better, and dropout is very helpful in avoiding over-fitting. In row (E) we replace our\nsinusoidal positional encoding with learned positional embeddings [9], and observe nearly identical\nresults to the base model.\n6.3 English Constituency Parsing\nTo evaluate if the Transformer can generalize to other tasks we performed experiments on English\nconstituency parsing. This task presents specific challenges: the output is subject to strong structural\nconstraints and is significantly longer than the input. Furthermore, RNN sequence-to-sequence\nmodels have not been able to attain state-of-the-art results in small-data regimes [37].\nWe trained a 4-layer transformer with dmodel = 1024on the Wall Street Journal (WSJ) portion of the\nPenn Treebank [25], about 40K training sentenc\n\n[attention_2017-p0004-fixed-464af8a65bb5eead] (nguồn: attention_2017, trang 4)\nrallel, yielding dv-dimensional\n4To illustrate why the dot products get large, assume that the components of q and k are independent random\nvariables with mean 0 and variance 1. Then their dot product, q · k = Pdki=1 qiki, has mean 0 and variance dk.\n4\n\n[attention_2017-p0005-fixed-d2cabfbc285e14a3] (nguồn: attention_2017, trang 5)\noutput values. These are concatenated and once again projected, resulting in the final values, as\ndepicted in Figure 2.\nMulti-head attention allows the model to jointly attend to information from different representation\nsubspaces at different positions. With a single attention head, averaging inhibits this.\nMultiHead(Q, K, V) = Concat(head1, ...,headh)W O\nwhere headi = Attention(QW Qi , KWKi , V WVi )\nWhere the projections are parameter matricesW Qi ∈ Rdmodel×dk, W Ki ∈ Rdmodel×dk, W Vi ∈ Rdmodel×dv\nand W O ∈ Rhdv×dmodel.\nIn this work we employ h = 8 parallel attention layers, or heads. For each of these we use\ndk = dv = dmodel/h = 64. Due to the reduced dimension of each head, the total computational cost\nis similar to that of single-head attention with full dimensionality.\n3.2.3 Applications of Attention in our Model\nThe Transformer uses multi-head attention in three different ways:\n•\n\n[attention_2017-p0005-fixed-363bd91a72f448c0] (nguồn: attention_2017, trang 5)\nattention with full dimensionality.\n3.2.3 Applications of Attention in our Model\nThe Transformer uses multi-head attention in three different ways:\n• In \"encoder-decoder attention\" layers, the queries come from the previous decoder layer,\nand the memory keys and values come from the output of the encoder. This allows every\nposition in the decoder to attend over all positions in the input sequence. This mimics the\ntypical encoder-decoder attention mechanisms in sequence-to-sequence models such as\n[38, 2, 9].\n• The encoder contains self-attention layers. In a self-attention layer all of the keys, values\nand queries come from the same place, in this case, the output of the previous layer in the\nencoder. Each position in the encoder can attend to all positions in the previous layer of the\nencoder.\n• Similarly, self-attention layers in the decoder allow each position in the decoder to attend\n\n[attention_2017-p0002-fixed-508b5434ee30732d] (nguồn: attention_2017, trang 2)\nconjunction with a recurrent network.\nIn this work we propose the Transformer, a model architecture eschewing recurrence and instead\nrelying entirely on an attention mechanism to draw global dependencies between input and output.\nThe Transformer allows for significantly more parallelization and can reach a new state of the art in\ntranslation quality after being trained for as little as twelve hours on eight P100 GPUs.\n2 Background\nThe goal of reducing sequential computation also forms the foundation of the Extended Neural GPU\n[16], ByteNet [18] and ConvS2S [9], all of which use convolutional neural networks as basic building\nblock, computing hidden representations in parallel for all input and output positions. In these models,\nthe number of operations required to relate signals from two arbitrary input or output positions grows\nin the distance between positions, linearly for ConvS2S and",
+    "latency_ms": 549.5,
+    "error": null
+  },
+  {
+    "query_id": "T05",
+    "split": "test",
+    "question": "According to the introduction of Attention Is All You Need, what property of recurrent models prevents parallelization within training examples?",
+    "config": "hybrid_neighbors",
+    "filter_used": null,
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 2,
+        "evidence": "This inherently sequential nature precludes parallelization within training examples"
+      }
+    ],
+    "top3": [
+      {
+        "id": "attention_2017-p0002-fixed-25a3151688a7905c",
+        "rank": 1,
+        "score": 0.03252,
+        "source_id": "attention_2017",
+        "page": 2,
+        "hit": false,
+        "text": "e precludes parallelization within training examples, which becomes critical at longer\nsequence lengths, as memory constraints limit batching across examples. Recent work has achieved\nsignificant improvements in computational efficiency through factorization tricks [21] and conditional\ncomputation [32], while also improving model performance in case of the latter. The fundamental\nconstraint of sequential computation, however, remains.\nAttention mechanisms have become an integral part of compelling sequence modeling and transduc-\ntion models in various tasks, allowing modeling of dependencies without regard to their distance in\nthe input or output sequences [2, 19]. In all but a few cases [27], however, such attention mechanisms\nare used in conjunction with a recurrent network.\nIn this work we propose the Transformer, a model architecture eschewing recurrence and instead\nrelying entirely"
+      },
+      {
+        "id": "attention_2017-p0002-fixed-a6bf9730a6ebd84a",
+        "rank": 2,
+        "score": 0.03252,
+        "source_id": "attention_2017",
+        "page": 2,
+        "hit": true,
+        "text": "1 Introduction\nRecurrent neural networks, long short-term memory [13] and gated recurrent [7] neural networks\nin particular, have been firmly established as state of the art approaches in sequence modeling and\ntransduction problems such as language modeling and machine translation [ 35, 2, 5]. Numerous\nefforts have since continued to push the boundaries of recurrent language models and encoder-decoder\narchitectures [38, 24, 15].\nRecurrent models typically factor computation along the symbol positions of the input and output\nsequences. Aligning the positions to steps in computation time, they generate a sequence of hidden\nstates ht, as a function of the previous hidden state ht−1 and the input for position t. This inherently\nsequential nature precludes parallelization within training examples, which becomes critical at longer\nsequence lengths, as memory constraints limit batching across e"
+      },
+      {
+        "id": "attention_2017-p0002-fixed-508b5434ee30732d",
+        "rank": 3,
+        "score": 0.03102,
+        "source_id": "attention_2017",
+        "page": 2,
+        "hit": false,
+        "text": "conjunction with a recurrent network.\nIn this work we propose the Transformer, a model architecture eschewing recurrence and instead\nrelying entirely on an attention mechanism to draw global dependencies between input and output.\nThe Transformer allows for significantly more parallelization and can reach a new state of the art in\ntranslation quality after being trained for as little as twelve hours on eight P100 GPUs.\n2 Background\nThe goal of reducing sequential computation also forms the foundation of the Extended Neural GPU\n[16], ByteNet [18] and ConvS2S [9], all of which use convolutional neural networks as basic building\nblock, computing hidden representations in parallel for all input and output positions. In these models,\nthe number of operations required to relate signals from two arbitrary input or output positions grows\nin the distance between positions, linearly for ConvS2S and"
+      }
+    ],
+    "hit1": false,
+    "hit3": true,
+    "rr": 0.5,
+    "context_ids": [
+      "attention_2017-p0002-fixed-a6bf9730a6ebd84a",
+      "attention_2017-p0002-fixed-25a3151688a7905c",
+      "attention_2017-p0002-fixed-508b5434ee30732d",
+      "attention_2017-p0001-fixed-fa14f7f140cd4cc3",
+      "attention_2017-p0002-fixed-288d077adae96a87"
+    ],
+    "context_chars": 4608,
+    "context_hit": true,
+    "context": "[attention_2017-p0002-fixed-a6bf9730a6ebd84a] (nguồn: attention_2017, trang 2)\n1 Introduction\nRecurrent neural networks, long short-term memory [13] and gated recurrent [7] neural networks\nin particular, have been firmly established as state of the art approaches in sequence modeling and\ntransduction problems such as language modeling and machine translation [ 35, 2, 5]. Numerous\nefforts have since continued to push the boundaries of recurrent language models and encoder-decoder\narchitectures [38, 24, 15].\nRecurrent models typically factor computation along the symbol positions of the input and output\nsequences. Aligning the positions to steps in computation time, they generate a sequence of hidden\nstates ht, as a function of the previous hidden state ht−1 and the input for position t. This inherently\nsequential nature precludes parallelization within training examples, which becomes critical at longer\nsequence lengths, as memory constraints limit batching across e\n\n[attention_2017-p0002-fixed-25a3151688a7905c] (nguồn: attention_2017, trang 2)\ne precludes parallelization within training examples, which becomes critical at longer\nsequence lengths, as memory constraints limit batching across examples. Recent work has achieved\nsignificant improvements in computational efficiency through factorization tricks [21] and conditional\ncomputation [32], while also improving model performance in case of the latter. The fundamental\nconstraint of sequential computation, however, remains.\nAttention mechanisms have become an integral part of compelling sequence modeling and transduc-\ntion models in various tasks, allowing modeling of dependencies without regard to their distance in\nthe input or output sequences [2, 19]. In all but a few cases [27], however, such attention mechanisms\nare used in conjunction with a recurrent network.\nIn this work we propose the Transformer, a model architecture eschewing recurrence and instead\nrelying entirely\n\n[attention_2017-p0002-fixed-508b5434ee30732d] (nguồn: attention_2017, trang 2)\nconjunction with a recurrent network.\nIn this work we propose the Transformer, a model architecture eschewing recurrence and instead\nrelying entirely on an attention mechanism to draw global dependencies between input and output.\nThe Transformer allows for significantly more parallelization and can reach a new state of the art in\ntranslation quality after being trained for as little as twelve hours on eight P100 GPUs.\n2 Background\nThe goal of reducing sequential computation also forms the foundation of the Extended Neural GPU\n[16], ByteNet [18] and ConvS2S [9], all of which use convolutional neural networks as basic building\nblock, computing hidden representations in parallel for all input and output positions. In these models,\nthe number of operations required to relate signals from two arbitrary input or output positions grows\nin the distance between positions, linearly for ConvS2S and\n\n[attention_2017-p0001-fixed-fa14f7f140cd4cc3] (nguồn: attention_2017, trang 1)\nmodel variants in our original codebase and\ntensor2tensor. Llion also experimented with novel model variants, was responsible for our initial codebase, and\nefficient inference and visualizations. Lukasz and Aidan spent countless long days designing various parts of and\nimplementing tensor2tensor, replacing our earlier codebase, greatly improving results and massively accelerating\nour research.\n†Work performed while at Google Brain.\n‡Work performed while at Google Research.\n31st Conference on Neural Information Processing Systems (NIPS 2017), Long Beach, CA, USA.\narXiv:1706.03762v7 [cs.CL] 2 Aug 2023\n\n[attention_2017-p0002-fixed-288d077adae96a87] (nguồn: attention_2017, trang 2)\nf operations required to relate signals from two arbitrary input or output positions grows\nin the distance between positions, linearly for ConvS2S and logarithmically for ByteNet. This makes\nit more difficult to learn dependencies between distant positions [ 12]. In the Transformer this is\nreduced to a constant number of operations, albeit at the cost of reduced effective resolution due\nto averaging attention-weighted positions, an effect we counteract with Multi-Head Attention as\ndescribed in section 3.2.\nSelf-attention, sometimes called intra-attention is an attention mechanism relating different positions\nof a single sequence in order to compute a representation of the sequence. Self-attention has been\nused successfully in a variety of tasks including reading comprehension, abstractive summarization,\ntextual entailment and learning task-independent sentence representations [4, 27, 28,",
+    "latency_ms": 627.5,
+    "error": null
+  }
+]

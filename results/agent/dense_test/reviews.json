@@ -1,0 +1,59 @@
+[
+  {
+    "query_id": "T01",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Đúng 72 giờ, đầy đủ ngoại lệ \"trừ trường hợp luật có quy định khác\"; evidence gold nằm trong context và citation trỏ đúng đoạn hỗ trợ câu trả lời."
+  },
+  {
+    "query_id": "T02",
+    "context_grade": 2,
+    "answer_grade": 1,
+    "citation_support": [
+      true
+    ],
+    "reason": "Đúng thứ tự người cần đồng ý (vợ/chồng hoặc con thành niên; nếu không có thì cha/mẹ) nhưng thiếu ngoại lệ Điều 17 và Điều 18 so với đáp án chuẩn -> đúng một phần."
+  },
+  {
+    "query_id": "T03",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Đúng nguồn kinh phí là ngân sách nhà nước và đầy đủ điều kiện bố trí trong dự toán ngân sách nhà nước hằng năm. Câu trả lời còn bổ sung chính xác quy định về quản lý, sử dụng kinh phí. Evidence và citation khớp hoàn toàn."
+  },
+  {
+    "query_id": "T04",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Đúng mức chênh lệch 0.9 BLEU so với thiết lập tốt nhất. Evidence gold xuất hiện nguyên văn trong context ở trang 9 và citation trỏ chính xác đến đoạn chứa thông tin trả lời."
+  },
+  {
+    "query_id": "T05",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Context chứa đầy đủ evidence"
+  },
+  {
+    "query_id": "U03",
+    "abstention_correct": true,
+    "citation_support": [],
+    "reason": "Context không cung cấp thông tin về lệ phí nộp Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân. Các đoạn được truy xuất chỉ đề cập đến nội dung, thành phần và nghĩa vụ liên quan đến hồ sơ, không quy định mức lệ phí. Agent đã từ chối trả lời và không tự suy đoán hoặc đưa ra con số không có căn cứ."
+  },
+  {
+    "query_id": "U04",
+    "abstention_correct": true,
+    "citation_support": [],
+    "reason": "Context chỉ cung cấp kết quả BLEU cho hai cặp dịch English-to-German và English-to-French, không có kết quả English-to-Chinese. Agent đã nhận diện đúng sự thiếu hụt evidence, không tự suy đoán điểm BLEU và không đưa ra con số không có căn cứ."
+  }
+]

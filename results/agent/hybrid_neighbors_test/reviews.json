@@ -1,0 +1,61 @@
+[
+  {
+    "query_id": "T01",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Context trang 12, khoản 3 Điều 14, quy định rõ thời hạn cung cấp dữ liệu cá nhân là 72 giờ sau khi có yêu cầu của chủ thể dữ liệu, trừ trường hợp luật có quy định khác. Câu trả lời nêu đầy đủ thời hạn và ngoại lệ. Citation tồn tại trong context và trỏ chính xác đến đoạn evidence hỗ trợ câu trả lời."
+  },
+  {
+    "query_id": "T02",
+    "context_grade": 2,
+    "answer_grade": 1,
+    "citation_support": [
+      true
+    ],
+    "reason": "đúng thứ tự người đồng ý, thiếu ngoại lệ Điều 17 và 18"
+  },
+  {
+    "query_id": "T03",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "đúng và đủ; phần quản lý, sử dụng kinh phí cũng được chunk hỗ trợ"
+  },
+  {
+    "query_id": "T04",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "đúng 0.9 BLEU"
+  },
+  {
+    "query_id": "T05",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "đúng tính tuần tự và sự phụ thuộc vào hidden state trước"
+  },
+  {
+    "query_id": "U03",
+    "abstention_correct": true,
+    "citation_support": [],
+    "reason": "agent nêu tài liệu không cung cấp mức lệ phí và không đưa ra con số nào."
+  },
+  {
+    "query_id": "U04",
+    "abstention_correct": false,
+    "citation_support": [
+      false
+    ],
+    "reason": "citation có trong context và hỗ trợ các con số BLEU, nhưng bảng ghi đó là kết quả EN-DE, không phải English-to-Chinese như câu trả lời nêu."
+  }
+]
