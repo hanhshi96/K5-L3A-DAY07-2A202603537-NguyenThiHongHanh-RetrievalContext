@@ -1,3 +1,12 @@
+# Bài làm — Nguyễn Thị Hồng Hạnh (2A202603537)
+
+- **Cách chạy:** [RUN.md](RUN.md) · **Code:** `src/` (dense pgvector Day 6, BM25, hybrid RRF, rerank, agent tool-calling)
+- **Benchmark:** `data/day7/benchmark.json` (dev 20+2, test 5+2) · **Chốt cấu hình:** `results/lock.json`
+- **Kết quả:** `results/retrieval/`, `results/agent/` (trace, nhãn tự chấm), bảng tổng hợp `results/tables.md`
+- **Báo cáo:** [report/individual/2A202603537_NguyenThiHongHanh.md](report/individual/2A202603537_NguyenThiHongHanh.md)
+
+---
+
 # Day 7 — Agentic RAG
 
 **Bài cá nhân · Python 3.11+ · tiếp nối Day 6**
