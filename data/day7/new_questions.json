@@ -1,0 +1,104 @@
+[
+  {
+    "id": "U01",
+    "split": "dev",
+    "answerable": false,
+    "question": "Theo Nghị định 13/2023, mức phạt tiền tối đa đối với tổ chức vi phạm quy định bảo vệ dữ liệu cá nhân là bao nhiêu?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Chỉ Điều 4 (trang 5) nhắc 'xử phạt vi phạm hành chính... theo quy định', không có mức tiền phạt. Kiểm tra: 'phạt' chỉ ở trang 5; 'triệu đồng' không có; 'đồng' chỉ khớp 'đồng ý'."
+  },
+  {
+    "id": "U02",
+    "split": "dev",
+    "answerable": false,
+    "question": "In Attention Is All You Need, what was the training cost in US dollars of the big Transformer model?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Bài báo chỉ báo training cost theo FLOPs (Table 2) và thời gian/GPU; không có số tiền USD. Kiểm tra: tìm 'dollar', '$', 'USD' trên 9 trang."
+  },
+  {
+    "id": "T01",
+    "split": "test",
+    "answerable": true,
+    "question": "Theo Nghị định 13/2023, khi chủ thể dữ liệu yêu cầu cung cấp dữ liệu cá nhân của mình, Bên Kiểm soát dữ liệu cá nhân phải cung cấp trong thời hạn bao lâu?",
+    "expected_answer": "Trong 72 giờ sau khi có yêu cầu của chủ thể dữ liệu, trừ trường hợp luật có quy định khác.",
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 12,
+        "evidence": "thực hiện trong 72 giờ sau khi có yêu cầu của chủ thể dữ liệu, trừ trường hợp luật có quy định khác"
+      }
+    ]
+  },
+  {
+    "id": "T02",
+    "split": "test",
+    "answerable": true,
+    "question": "Theo Nghị định 13/2023, xử lý dữ liệu cá nhân của người đã chết cần sự đồng ý của ai?",
+    "expected_answer": "Của vợ, chồng hoặc con thành niên; nếu không có thì của cha, mẹ người đó (trừ trường hợp tại Điều 17 và Điều 18).",
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 16,
+        "evidence": "người đã chết phải được sự đồng ý của vợ, chồng hoặc con thành niên"
+      }
+    ]
+  },
+  {
+    "id": "T03",
+    "split": "test",
+    "answerable": true,
+    "question": "Theo Nghị định 13/2023, kinh phí bảo vệ dữ liệu cá nhân của cơ quan nhà nước được bảo đảm từ nguồn nào?",
+    "expected_answer": "Do ngân sách nhà nước bảo đảm, được bố trí trong dự toán ngân sách nhà nước hằng năm.",
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 25,
+        "evidence": "Kinh phí bảo vệ dữ liệu cá nhân của cơ quan nhà nước do ngân sách nhà nước bảo đảm"
+      }
+    ]
+  },
+  {
+    "id": "T04",
+    "split": "test",
+    "answerable": true,
+    "question": "In Attention Is All You Need, how much worse is single-head attention compared with the best setting in the model variation experiments?",
+    "expected_answer": "Single-head attention is 0.9 BLEU worse than the best setting.",
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 9,
+        "evidence": "single-head attention is 0.9 BLEU worse than the best setting"
+      }
+    ]
+  },
+  {
+    "id": "T05",
+    "split": "test",
+    "answerable": true,
+    "question": "According to the introduction of Attention Is All You Need, what property of recurrent models prevents parallelization within training examples?",
+    "expected_answer": "Their inherently sequential nature (computation factored along symbol positions, each hidden state depends on the previous one).",
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 2,
+        "evidence": "This inherently sequential nature precludes parallelization within training examples"
+      }
+    ]
+  },
+  {
+    "id": "U03",
+    "split": "test",
+    "answerable": false,
+    "question": "Theo Nghị định 13/2023, lệ phí nộp Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân là bao nhiêu?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Hồ sơ đánh giá tác động ở trang 19-22 không quy định lệ phí. Kiểm tra: 'lệ phí' không có; 'phí' chỉ ở trang 13 (chi phí in, sao, chụp khi cung cấp dữ liệu), 25 và 27 (kinh phí) — không phải lệ phí hồ sơ."
+  },
+  {
+    "id": "U04",
+    "split": "test",
+    "answerable": false,
+    "question": "What BLEU score did the Transformer achieve on English-to-Chinese translation in Attention Is All You Need?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Bài báo chỉ đánh giá English-German và English-French; không có English-Chinese. Kiểm tra: tìm 'Chinese' trên 9 trang."
+  }
+]

@@ -1,0 +1,477 @@
+[
+  {
+    "id": "Q01",
+    "split": "dev",
+    "question": "Trong tài liệu tiếng Việt Nghị định 13/2023, dữ liệu cá nhân gồm hai nhóm nào?",
+    "answerable": true,
+    "expected_answer": "Dữ liệu cá nhân cơ bản và dữ liệu cá nhân nhạy cảm.",
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 2,
+        "evidence": "Dữ liệu cá nhân bao g ồm dữ liệu\ncá nhân cơ bản và dữ liệu cá nhân nhạy cảm."
+      }
+    ],
+    "filter": {
+      "language": "vi"
+    },
+    "origin": "day6-dev",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "Q02",
+    "split": "dev",
+    "question": "Theo Nghị định 13/2023, sự đồng ý của chủ thể dữ liệu được định nghĩa thế nào?",
+    "answerable": true,
+    "expected_answer": "Thể hiện rõ ràng, tự nguyện, khẳng định việc cho phép xử lý dữ liệu cá nhân.",
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 4,
+        "evidence": "8. Sự đồng ý của chủ thể dữ liệu là việc thể hiện rõ ràng, tự nguyện, khẳng định\nviệc cho phép xử lý dữ liệu cá nhân của chủ thể dữ liệu."
+      }
+    ],
+    "filter": {},
+    "origin": "day6-dev",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "Q03",
+    "split": "dev",
+    "question": "Theo nguyên tắc tại Nghị định 13/2023, dữ liệu cá nhân được lưu trữ trong bao lâu?",
+    "answerable": true,
+    "expected_answer": "Trong khoảng thời gian phù hợp với mục đích xử lý, trừ trường hợp pháp luật quy định khác.",
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 5,
+        "evidence": "7. Dữ liệu cá nhân ch ỉ được lưu trữ trong kho ảng thời gian phù h ợp với mục\nđích xử lý dữ liệu, trừ trường hợp pháp luật có quy định khác."
+      }
+    ],
+    "filter": {},
+    "origin": "day6-dev",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "Q04",
+    "split": "dev",
+    "question": "Quyền truy cập trong Nghị định 13/2023 cho phép chủ thể làm gì, và có ngoại lệ gì?",
+    "answerable": true,
+    "expected_answer": "Xem, chỉnh sửa hoặc yêu cầu chỉnh sửa dữ liệu của mình, trừ trường hợp luật quy định khác.",
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 7,
+        "evidence": "3. Quyền truy cập\nChủ thể dữ liệu được truy c ập để xem, ch ỉnh sửa hoặc yêu c ầu chỉnh sửa dữ\nliệu cá nhân của mình, trừ trường hợp luật có quy định khác."
+      }
+    ],
+    "filter": {},
+    "origin": "day6-dev",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "Q05",
+    "split": "dev",
+    "question": "Theo Nghị định 13/2023, yêu cầu hạn chế xử lý dữ liệu phải được thực hiện trong thời hạn nào và với phạm vi nào?",
+    "answerable": true,
+    "expected_answer": "Trong 72 giờ sau yêu cầu, với toàn bộ dữ liệu được yêu cầu hạn chế, trừ trường hợp luật quy định khác.",
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 8,
+        "evidence": "b) Việc hạn chế xử lý dữ liệu được thực hiện trong 72 giờ sau khi có yêu cầu của\nchủ thể dữ liệu, với toàn bộ dữ liệu cá nhân mà chủ thể dữ liệu yêu cầu hạn chế, trừ\ntrường hợp luật có quy định khác."
+      }
+    ],
+    "filter": {},
+    "origin": "day6-dev",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "Q06",
+    "split": "dev",
+    "question": "Theo Nghị định 13/2023, chủ thể phải tự nguyện và biết rõ những nội dung nào để sự đồng ý có hiệu lực?",
+    "answerable": true,
+    "expected_answer": "Loại dữ liệu, mục đích xử lý, tổ chức/cá nhân xử lý, quyền và nghĩa vụ của chủ thể.",
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 9,
+        "evidence": "2. Sự đồng ý của chủ thể dữ liệu chỉ có hiệu lực khi chủ thể dữ liệu tự nguyện\nvà biết rõ các nội dung sau:\na) Loại dữ liệu cá nhân được xử lý;\nb) Mục đích xử lý dữ liệu cá nhân;\nc) Tổ chức, cá nhân được xử lý dữ liệu cá nhân;\nd) Các quyền, nghĩa vụ của chủ thể dữ liệu."
+      }
+    ],
+    "filter": {},
+    "origin": "day6-dev",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "Q07",
+    "split": "dev",
+    "question": "Theo Nghị định 13/2023, im lặng hoặc không phản hồi có được coi là đồng ý không?",
+    "answerable": true,
+    "expected_answer": "Không được coi là sự đồng ý.",
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 10,
+        "evidence": "6. Sự im l ặng hoặc không ph ản hồi của chủ thể dữ liệu không được coi là s ự\nđồng ý."
+      }
+    ],
+    "filter": {},
+    "origin": "day6-dev",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "Q08",
+    "split": "dev",
+    "question": "Trong Nghị định 13/2023 tiếng Việt, Bên Kiểm soát dữ liệu phải thông báo vi phạm cho cơ quan nào, trong thời hạn nào và nếu thông báo muộn thì sao?",
+    "answerable": true,
+    "expected_answer": "Bộ Công an (Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao), chậm nhất 72 giờ sau vi phạm; muộn hơn phải kèm lý do.",
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 18,
+        "evidence": "1. Tr ường h ợp phát hi ện x ảy ra vi ph ạm quy định b ảo v ệ d ữ li ệu cá nhân,\nBên Ki ểm soát d ữ li ệu cá nhân, Bên Ki ểm soát và x ử lý d ữ li ệu cá nhân thông\nbáo cho B ộ Công an (C ục An ninh m ạng và phòng, ch ống t ội ph ạm s ử d ụng\ncông nghệ cao) ch ậm nhất 72 gi ờ sau khi x ảy ra hành vi vi ph ạm theo M ẫu số 03\ntại Ph ụ l ục c ủa Ngh ị định này. Tr ường h ợp thông báo sau 72 gi ờ thì ph ải kèm\ntheo lý do thông báo ch ậm, muộn."
+      }
+    ],
+    "filter": {
+      "language": "vi"
+    },
+    "origin": "day6-test",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "Q09",
+    "split": "dev",
+    "question": "Theo Nghị định 13/2023, các biện pháp bảo vệ dữ liệu cá nhân bắt đầu và kéo dài khi nào?",
+    "answerable": true,
+    "expected_answer": "Ngay từ khi bắt đầu và trong suốt quá trình xử lý dữ liệu cá nhân.",
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 23,
+        "evidence": "1. Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu và trong\nsuốt quá trình xử lý dữ liệu cá nhân."
+      }
+    ],
+    "filter": {},
+    "origin": "day6-test",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "Q10",
+    "split": "dev",
+    "question": "Ngày bắt đầu hiệu lực được ghi tại Điều 43 của Nghị định 13/2023 là ngày nào?",
+    "answerable": true,
+    "expected_answer": "Ngày 01 tháng 7 năm 2023.",
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 29,
+        "evidence": "1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023."
+      }
+    ],
+    "filter": {},
+    "origin": "day6-test",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "Q11",
+    "split": "dev",
+    "question": "In the English paper Attention Is All You Need, how many identical layers does the encoder contain?",
+    "answerable": true,
+    "expected_answer": "Six identical layers.",
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 3,
+        "evidence": "Encoder: The encoder is composed of a stack of N = 6 identical layers."
+      }
+    ],
+    "filter": {
+      "language": "en"
+    },
+    "origin": "day6-dev",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "Q12",
+    "split": "dev",
+    "question": "In Attention Is All You Need, what does masking in the decoder ensure about the outputs a prediction may depend on?",
+    "answerable": true,
+    "expected_answer": "A prediction at position i depends only on known outputs at positions less than i.",
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 3,
+        "evidence": "This\nmasking, combined with fact that the output embeddings are offset by one position, ensures that the\npredictions for position i can depend only on the known outputs at positions less than i."
+      }
+    ],
+    "filter": {},
+    "origin": "day6-dev",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "Q13",
+    "split": "dev",
+    "question": "In Attention Is All You Need, how many parallel attention heads are used and what are the key and value dimensions per head?",
+    "answerable": true,
+    "expected_answer": "8 heads; key and value dimensions are each 64.",
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 5,
+        "evidence": "In this work we employ h = 8 parallel attention layers, or heads. For each of these we use\ndk = dv = dmodel/h = 64."
+      }
+    ],
+    "filter": {},
+    "origin": "day6-dev",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "Q14",
+    "split": "dev",
+    "question": "What two transformations and activation make up the position-wise feed-forward network in Attention Is All You Need?",
+    "answerable": true,
+    "expected_answer": "Two linear transformations with a ReLU activation between them.",
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 5,
+        "evidence": "This\nconsists of two linear transformations with a ReLU activation in between."
+      }
+    ],
+    "filter": {},
+    "origin": "day6-dev",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "Q15",
+    "split": "dev",
+    "question": "In the English paper Attention Is All You Need, what functions are used for the fixed positional encodings?",
+    "answerable": true,
+    "expected_answer": "Sine and cosine functions of different frequencies.",
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 6,
+        "evidence": "In this work, we use sine and cosine functions of different frequencies:"
+      }
+    ],
+    "filter": {
+      "language": "en"
+    },
+    "origin": "day6-dev",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "Q16",
+    "split": "dev",
+    "question": "Approximately how many sentence pairs are in the English-German training dataset used in Attention Is All You Need?",
+    "answerable": true,
+    "expected_answer": "About 4.5 million sentence pairs.",
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 7,
+        "evidence": "We trained on the standard WMT 2014 English-German dataset consisting of about 4.5 million\nsentence pairs."
+      }
+    ],
+    "filter": {},
+    "origin": "day6-dev",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "Q17",
+    "split": "dev",
+    "question": "What hardware configuration was used to train the models in Attention Is All You Need?",
+    "answerable": true,
+    "expected_answer": "One machine with 8 NVIDIA P100 GPUs.",
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 7,
+        "evidence": "We trained our models on one machine with 8 NVIDIA P100 GPUs."
+      }
+    ],
+    "filter": {},
+    "origin": "day6-dev",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "Q18",
+    "split": "dev",
+    "question": "How many warmup steps were used in the learning-rate schedule in Attention Is All You Need?",
+    "answerable": true,
+    "expected_answer": "4000 warmup steps.",
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 7,
+        "evidence": "We used\nwarmup_steps = 4000."
+      }
+    ],
+    "filter": {},
+    "origin": "day6-dev",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "Q19",
+    "split": "dev",
+    "question": "In the English paper Attention Is All You Need, what value of label smoothing was used and how did it affect perplexity, accuracy and BLEU?",
+    "answerable": true,
+    "expected_answer": "0.1; hurts perplexity but improves accuracy and BLEU.",
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 8,
+        "evidence": "During training, we employed label smoothing of value ϵls = 0.1 [36]. This\nhurts perplexity, as the model learns to be more unsure, but improves accuracy and BLEU score."
+      }
+    ],
+    "filter": {
+      "language": "en"
+    },
+    "origin": "day6-test",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "Q20",
+    "split": "dev",
+    "question": "For the base models in Attention Is All You Need, how many checkpoints were averaged, and how often were they written?",
+    "answerable": true,
+    "expected_answer": "Last 5 checkpoints, written at 10-minute intervals.",
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 8,
+        "evidence": "For the base models, we used a single model obtained by averaging the last 5 checkpoints, which\nwere written at 10-minute intervals."
+      }
+    ],
+    "filter": {},
+    "origin": "day6-test",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "U01",
+    "split": "dev",
+    "answerable": false,
+    "question": "Theo Nghị định 13/2023, mức phạt tiền tối đa đối với tổ chức vi phạm quy định bảo vệ dữ liệu cá nhân là bao nhiêu?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Chỉ Điều 4 (trang 5) nhắc 'xử phạt vi phạm hành chính... theo quy định', không có mức tiền phạt. Kiểm tra: 'phạt' chỉ ở trang 5; 'triệu đồng' không có; 'đồng' chỉ khớp 'đồng ý'.",
+    "filter": {},
+    "origin": "day7-new"
+  },
+  {
+    "id": "U02",
+    "split": "dev",
+    "answerable": false,
+    "question": "In Attention Is All You Need, what was the training cost in US dollars of the big Transformer model?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Bài báo chỉ báo training cost theo FLOPs (Table 2) và thời gian/GPU; không có số tiền USD. Kiểm tra: tìm 'dollar', '$', 'USD' trên 9 trang.",
+    "filter": {},
+    "origin": "day7-new"
+  },
+  {
+    "id": "T01",
+    "split": "test",
+    "answerable": true,
+    "question": "Theo Nghị định 13/2023, khi chủ thể dữ liệu yêu cầu cung cấp dữ liệu cá nhân của mình, Bên Kiểm soát dữ liệu cá nhân phải cung cấp trong thời hạn bao lâu?",
+    "expected_answer": "Trong 72 giờ sau khi có yêu cầu của chủ thể dữ liệu, trừ trường hợp luật có quy định khác.",
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 12,
+        "evidence": "thực hiện trong 72 giờ sau khi có yêu cầu của chủ thể dữ liệu, trừ trường hợp luật có quy định khác"
+      }
+    ],
+    "filter": {},
+    "origin": "day7-new",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "T02",
+    "split": "test",
+    "answerable": true,
+    "question": "Theo Nghị định 13/2023, xử lý dữ liệu cá nhân của người đã chết cần sự đồng ý của ai?",
+    "expected_answer": "Của vợ, chồng hoặc con thành niên; nếu không có thì của cha, mẹ người đó (trừ trường hợp tại Điều 17 và Điều 18).",
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 16,
+        "evidence": "người đã chết phải được sự đồng ý của vợ, chồng hoặc con thành niên"
+      }
+    ],
+    "filter": {},
+    "origin": "day7-new",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "T03",
+    "split": "test",
+    "answerable": true,
+    "question": "Theo Nghị định 13/2023, kinh phí bảo vệ dữ liệu cá nhân của cơ quan nhà nước được bảo đảm từ nguồn nào?",
+    "expected_answer": "Do ngân sách nhà nước bảo đảm, được bố trí trong dự toán ngân sách nhà nước hằng năm.",
+    "gold": [
+      {
+        "source_id": "nd13_2023",
+        "page": 25,
+        "evidence": "Kinh phí bảo vệ dữ liệu cá nhân của cơ quan nhà nước do ngân sách nhà nước bảo đảm"
+      }
+    ],
+    "filter": {},
+    "origin": "day7-new",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "T04",
+    "split": "test",
+    "answerable": true,
+    "question": "In Attention Is All You Need, how much worse is single-head attention compared with the best setting in the model variation experiments?",
+    "expected_answer": "Single-head attention is 0.9 BLEU worse than the best setting.",
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 9,
+        "evidence": "single-head attention is 0.9 BLEU worse than the best setting"
+      }
+    ],
+    "filter": {},
+    "origin": "day7-new",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "T05",
+    "split": "test",
+    "answerable": true,
+    "question": "According to the introduction of Attention Is All You Need, what property of recurrent models prevents parallelization within training examples?",
+    "expected_answer": "Their inherently sequential nature (computation factored along symbol positions, each hidden state depends on the previous one).",
+    "gold": [
+      {
+        "source_id": "attention_2017",
+        "page": 2,
+        "evidence": "This inherently sequential nature precludes parallelization within training examples"
+      }
+    ],
+    "filter": {},
+    "origin": "day7-new",
+    "evidence_in_single_chunk": true
+  },
+  {
+    "id": "U03",
+    "split": "test",
+    "answerable": false,
+    "question": "Theo Nghị định 13/2023, lệ phí nộp Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân là bao nhiêu?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Hồ sơ đánh giá tác động ở trang 19-22 không quy định lệ phí. Kiểm tra: 'lệ phí' không có; 'phí' chỉ ở trang 13 (chi phí in, sao, chụp khi cung cấp dữ liệu), 25 và 27 (kinh phí) — không phải lệ phí hồ sơ.",
+    "filter": {},
+    "origin": "day7-new"
+  },
+  {
+    "id": "U04",
+    "split": "test",
+    "answerable": false,
+    "question": "What BLEU score did the Transformer achieve on English-to-Chinese translation in Attention Is All You Need?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Bài báo chỉ đánh giá English-German và English-French; không có English-Chinese. Kiểm tra: tìm 'Chinese' trên 9 trang.",
+    "filter": {},
+    "origin": "day7-new"
+  }
+]
